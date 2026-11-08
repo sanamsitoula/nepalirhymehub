@@ -1,0 +1,137 @@
+🐄 भन मेरा भाइ हो, देउसी रे! — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, rich saturated colours, bright warm Himalayan daylight, Nepali hill-village production design (terraced fields, carved wooden windows, red-brick and mud-plaster houses, prayer flags, lali gurans rhododendrons, snowy peaks far away), smooth gentle camera, soft depth of field, joyful, safe and calm, 16:9 widescreen, 1080p, 30fps look, clean shapes, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft cream background: Aarav, Aarya and Puntu standing side by side, full body, front view, happy smiles, then small three-quarter views below. Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene. Premium 3D animated-film render, soft studio light, crisp details, no text, no logo, no watermark. Aspect ratio 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — Knock knock knock at the carved door
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+Govardhan Puja night in a Nepali hill village: Aarav knocks three times on a carved wooden door, each knock flashing a little sparkle of lamp light, then he and a group of boys in daura suruwal and dhaka topi crash small brass jhyamta cymbals at a courtyard gate lit by diyos; Aarav grins and shouts; parents with lanterns stand behind.
+
+**CAMERA:** push-in through the gate → medium on Aarav
+**ANIMATION:** cymbal clash sparkle, madal hands, lantern light
+
+---
+## SCENE 2 — Boys' marching dance
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+The boys march and stamp in a line across a stone courtyard, fists up on every shout, marigold garlands bouncing; Puntu marches at the end with a tiny madal.
+
+**CAMERA:** side tracking along the line → low angle
+**ANIMATION:** marching, stamping, fist pumps
+
+---
+## SCENE 3 — Govardhan from cow dung
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Morning: in a courtyard, the family shapes a small Govardhan hill from cow dung and decorates it with flowers and grass, as tradition; the children add marigold petals.
+
+**CAMERA:** top-down on the small hill → medium family
+**ANIMATION:** hands shaping, petals placed
+
+---
+## SCENE 4 — Krishna lifts Govardhan
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+A storybook-style 3D vision: the child Krishna, blue-skinned with a peacock feather and flute, gently holds up Govardhan mountain on his little finger like an umbrella; the cows and people of Gokul shelter happily underneath from soft rain, and everyone is smiling and safe.
+
+**CAMERA:** low angle up to the mountain → wide on the sheltered village
+**ANIMATION:** rain falling softly outside, cows nuzzling, Krishna smiling
+
+---
+## SCENE 5 — Garland for the ox
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+A gentle ox with painted horns receives a red tika and marigold garland from Aarav while the farmer smiles.
+
+**CAMERA:** medium → close on the tika
+**ANIMATION:** ox nodding, garland placed
+
+---
+## SCENE 6 — Deusi at the first house
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+The Deusi group sings in front of a carved-window house; the family comes out with a brass plate of rice, a diyo and flowers, smiling.
+
+**CAMERA:** wide house front → medium on the family
+**ANIMATION:** singing, plate offered
+
+---
+## SCENE 7 — Blessing the home
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+Aarav raises his hand in a gentle blessing gesture while singing; diyo lamps glow along the doorstep where Laxmi's red footprints lead inside.
+
+**CAMERA:** low on the footprints → tilt up to Aarav
+**ANIMATION:** blessing gesture, flames flickering
+
+---
+## SCENE 8 — Grandfather's gift
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+A laughing grandfather gives the boys sel roti, bananas and a few coins on a leaf plate; the boys bow with folded hands.
+
+**CAMERA:** close on the plate → medium bow
+**ANIMATION:** giving, bowing, laughing
+
+---
+## SCENE 9 — Madal battle in the square
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+In the village square around a small pagoda temple, two madal players play a friendly rhythm duel while the boys stamp and spin.
+
+**CAMERA:** wide orbit
+**ANIMATION:** drumming, spinning, sparks of lamp light
+
+---
+## SCENE 10 — Counting the Deusi gift
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+On a temple step, the boys and their teacher count the collected money and sel roti carefully into a cloth bag, smiling proudly.
+
+**CAMERA:** close on hands → group medium
+**ANIMATION:** counting, nodding
+
+---
+## SCENE 11 — Books for the village school
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+Next morning in a small village school, the boys hand new books and school bags to younger children who hug them happily; the teacher claps.
+
+**CAMERA:** medium classroom → close on hugs
+**ANIMATION:** giving books, hugging, clapping
+
+---
+## SCENE 12 — Whole village march
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+The whole village marches and dances through the lamp-lit lane, boys and girls together, madal and jhyamta, marigold petals in the air.
+
+**CAMERA:** low angle → crane up over the lane
+**ANIMATION:** dancing crowd, petals, flames

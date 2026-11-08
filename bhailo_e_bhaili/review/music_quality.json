@@ -1,0 +1,240 @@
+{
+ "item": "bhailo_e_bhaili",
+ "kind": "song",
+ "profile": "nepali-rhyme-hub",
+ "checked_at": "2026-11-07T23:17:33+05:45",
+ "locked": "",
+ "lyrics": {
+  "brief": "lyrics.txt",
+  "score": 10,
+  "of": 10,
+  "checks": [
+   {
+    "rule": "1 clean lyric sheet",
+    "passed": true,
+    "detail": "37 sung lines"
+   },
+   {
+    "rule": "2 Devanagari only (Nepali), kids-safe words",
+    "passed": true,
+    "detail": "ok"
+   },
+   {
+    "rule": "3 hook by 0:15",
+    "passed": true,
+    "detail": "first chorus is section 2, intro 2 lines"
+   },
+   {
+    "rule": "4 no worn 'कौन ...?' hook",
+    "passed": true,
+    "detail": "hook is not the who-question formula"
+   },
+   {
+    "rule": "5 lines not copied from other songs",
+    "passed": true,
+    "detail": "every line is new"
+   },
+   {
+    "rule": "6 opening unlike other songs",
+    "passed": true,
+    "detail": "unique opening"
+   },
+   {
+    "rule": "7 choruses evolve",
+    "passed": true,
+    "detail": "4 choruses, 4 different"
+   },
+   {
+    "rule": "8 singable pace",
+    "passed": true,
+    "detail": "~5.5 sung chars/s (aim 4.0-5.5)"
+   },
+   {
+    "rule": "9 story shape",
+    "passed": true,
+    "detail": "3 verses, bridge True, final chorus True"
+   },
+   {
+    "rule": "10 own musical identity",
+    "passed": true,
+    "detail": "100 bpm / a major / sparkling nepali bhailo folk-pop in swinging 6/8 with madal,"
+   }
+  ]
+ },
+ "takes": [
+  {
+   "take": "take6",
+   "duration": 159.3,
+   "bpm": 105.0,
+   "sections": [
+    "Intro",
+    "Chorus 1",
+    "Verse 1",
+    "Chorus 2",
+    "Verse 2",
+    "Interlude",
+    "Verse 3",
+    "Chorus 3",
+    "Bridge",
+    "Chorus 4",
+    "Outro"
+   ],
+   "kinds": [
+    "intro",
+    "chorus",
+    "verse",
+    "chorus",
+    "verse",
+    "interlude",
+    "verse",
+    "chorus",
+    "bridge",
+    "chorus",
+    "outro"
+   ],
+   "starts": [
+    0.0,
+    11.6,
+    25.3,
+    39.0,
+    52.7,
+    66.5,
+    82.5,
+    100.7,
+    114.5,
+    128.2,
+    146.5
+   ],
+   "mix_db": [
+    -20.2,
+    -17.6,
+    -20.1,
+    -17.3,
+    -19.1,
+    -17.1,
+    -20.3,
+    -16.8,
+    -21.4,
+    -15.2,
+    -18.7
+   ],
+   "drums_db": [
+    -120.0,
+    -28.9,
+    -64.6,
+    -29.2,
+    -32.4,
+    -30.2,
+    -41.0,
+    -27.9,
+    -123.5,
+    -28.8,
+    -31.1
+   ],
+   "first_chorus_s": 11.6,
+   "chorus_texts": [
+    "झिलिमिली झिलिमिली, दियो बल्यो घरघर! भैलो! भैलो! छमछम नाचौँ, घुमघुम घुमौँ! आउनुहोस्!",
+    "झिलिमिली झिलिमिली, दियो बल्यो घरघर! सयपत्री! मखमली! छमछम नाचौँ, घुमघुम घुमौँ! फूलै फूल!",
+    "झिलिमिली झिलिमिली, दियो बल्यो घरघर! सेलरोटी! गोलो गोलो! छमछम नाचौँ, घुमघुम घुमौँ! मीठो मीठो!",
+    "झिलिमिली झिलिमिली, दियो बल्यो घरघर! शुभ तिहार! शुभ तिहार! छमछम नाचौँ, घुमघुम घुमौँ! भैलो! भैलो! भैलो! झिलिमिली! झिलिमिली! भैलो आयो, भैलो!"
+   ],
+   "brief_length": [
+    180.0,
+    180.0
+   ],
+   "not_lyrics": [],
+   "pace": 4.8,
+   "words_kept": 1.0,
+   "vocal_over_music": -0.7,
+   "lufs": -14.04,
+   "true_peak": -1.79,
+   "lra": 6.1,
+   "rules": [
+    {
+     "key": "only_lyrics",
+     "label": "Only our lyrics are sung, as written",
+     "target": "no labels, directions or English in the sung sheet, and at least 90% of the brief's words kept",
+     "value": "clean, 100% of our words",
+     "ok": true
+    },
+    {
+     "key": "pace",
+     "label": "Clear, unhurried singing",
+     "target": "at most 6.5 sung characters a second (Chota Sa Shiv Shambhu: 5.4) and the voice not buried (vocals at least -3 dB against the music)",
+     "value": "4.8 per s, voice -0.7 dB",
+     "ok": true
+    },
+    {
+     "key": "chorus_by",
+     "label": "Chorus by 0:15",
+     "target": "first chorus starts by 0:15 (Gokul SEO guide)",
+     "value": "12 s",
+     "ok": true
+    },
+    {
+     "key": "final_lift",
+     "label": "Final chorus is the biggest",
+     "target": "last chorus at least 0.5 dB above every earlier one",
+     "value": "+1.6 dB",
+     "ok": true
+    },
+    {
+     "key": "subtraction",
+     "label": "Instruments drop out and return",
+     "target": "drums leave in at least 2 sections (AI tell 2-3)",
+     "value": "2 section(s) without drums",
+     "ok": true
+    },
+    {
+     "key": "chorus_variety",
+     "label": "Choruses are not copies",
+     "target": "the chorus words change at least once (AI tell 11)",
+     "value": "4 different of 4",
+     "ok": true
+    },
+    {
+     "key": "dynamics",
+     "label": "Not squashed",
+     "target": "loudness range 4-10 LU (AI tell 7)",
+     "value": "6.1 LU",
+     "ok": true
+    },
+    {
+     "key": "loudness",
+     "label": "YouTube loudness",
+     "target": "-14 LUFS ± 1",
+     "value": "-14.0 LUFS",
+     "ok": true
+    },
+    {
+     "key": "peak",
+     "label": "No clipping",
+     "target": "true peak at or below -1 dBTP",
+     "value": "-1.8 dBTP",
+     "ok": true
+    },
+    {
+     "key": "length",
+     "label": "Length",
+     "target": "as the brief says (± 20%), else 2:30-4:00",
+     "value": "2:39",
+     "ok": true
+    }
+   ],
+   "score": 10,
+   "of": 10,
+   "listen": [
+    "Pitch: is every note perfectly in tune (AI tell 14)?",
+    "Breaths: can you hear the singer breathe (12)?",
+    "Chord loop: does the bridge leave the home chords (4)?",
+    "Diction: same force on every line (10)?"
+   ],
+   "profile": "nepali-rhyme-hub",
+   "brief": "lyrics.txt (take4 remastered: drums out of verse 1 and the bridge, verses -1.5 dB, bridge -2.5 dB, last chorus +1.5 dB, 0 silent bar(s) cut, slowed x1.0, -14 LUFS / -1.5 dBTP)",
+   "note": "Section times are estimated from the beat grid and the lyric sheet."
+  }
+ ],
+ "approval": "not reviewed",
+ "ready_for_approval": true,
+ "note": "This tool never approves. Sanam approves on pipeline.html."
+}

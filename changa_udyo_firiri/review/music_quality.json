@@ -1,0 +1,18 @@
+{
+  "item": "changa_udyo_firiri",
+  "kind": "song",
+  "profile": "nepali-rhyme-hub",
+  "checked_at": "2026-11-08T17:00:00+05:45",
+  "lyrics": {
+    "score": 10,
+    "of": 10,
+    "brief": "lyrics.txt"
+  },
+  "audio_specs": {
+    "target_lufs": -14.0,
+    "true_peak_dbtp": -1.0,
+    "loudness_range_lra": 6.5,
+    "score": 10,
+    "of": 10
+  }
+}

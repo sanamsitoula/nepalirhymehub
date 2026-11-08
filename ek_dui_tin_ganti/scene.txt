@@ -1,0 +1,137 @@
+🔢 एक दुई तीन, गन्ती गन — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, rich saturated colours, bright warm Himalayan daylight, Nepali hill-village production design (terraced fields, carved wooden windows, red-brick and mud-plaster houses, prayer flags, lali gurans rhododendrons, snowy peaks far away), smooth gentle camera, soft depth of field, joyful, safe and calm, 16:9 widescreen, 1080p, 30fps look, clean shapes, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft cream background: Aarav, Aarya and Puntu standing side by side, full body, front view, happy smiles, then small three-quarter views below. Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene. Premium 3D animated-film render, soft studio light, crisp details, no text, no logo, no watermark. Aspect ratio 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — Pebbles to count
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+On a sunny river bank, Aarya lines up smooth round pebbles one by one while Aarav counts on his fingers; Puntu watches, head tilting.
+
+**CAMERA:** close on the pebbles → medium two-shot
+**ANIMATION:** pebbles placed, head tilt
+
+---
+## SCENE 2 — Counting jump on the terrace
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+On a terraced field edge, the children jump once for each count, arms swinging.
+
+**CAMERA:** side wide → low angle
+**ANIMATION:** jumps in rhythm
+
+---
+## SCENE 3 — One sun over the hill
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+A single golden sun rises over a green ridge, rays spreading over the village.
+
+**CAMERA:** wide → slow tilt up
+**ANIMATION:** sun rising, rays spreading
+
+---
+## SCENE 4 — Two danphe birds dance
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Two colourful Himalayan monal (danphe) birds dance on a mossy rock, feathers shimmering green, blue and copper.
+
+**CAMERA:** medium → slow orbit
+**ANIMATION:** feather shimmer, dance steps
+
+---
+## SCENE 5 — Three goats come home
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Three baby goats trot down a village lane to Aarav, who kneels and pats them gently.
+
+**CAMERA:** low tracking → medium
+**ANIMATION:** trotting, gentle pats
+
+---
+## SCENE 6 — Show your fingers
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+Aarav and Aarya hold up their fingers to the camera, counting proudly in a sunny courtyard.
+
+**CAMERA:** close-up on hands → faces
+**ANIMATION:** fingers popping up
+
+---
+## SCENE 7 — Four rhododendrons bloom
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+In a forest, four red lali gurans flowers open one after another on a branch.
+
+**CAMERA:** macro on buds → pull back
+**ANIMATION:** flowers opening
+
+---
+## SCENE 8 — Five butterflies and six fish
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+Five butterflies flutter over a meadow toward a clear stream where six little fish swim in a line; Aarya follows them.
+
+**CAMERA:** follow the butterflies → tilt down into the stream
+**ANIMATION:** fluttering, fish swimming
+
+---
+## SCENE 9 — Bansuri on the hilltop
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+A shepherd boy plays a bansuri on a hilltop while the three friends sway on the grass.
+
+**CAMERA:** wide hilltop → medium
+**ANIMATION:** swaying, flute playing
+
+---
+## SCENE 10 — Seven stars and eight frogs
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+At dusk, seven bright stars appear over a pond where eight little frogs hop on lily pads, all softly lit.
+
+**CAMERA:** tilt from sky to pond
+**ANIMATION:** stars twinkling, frogs hopping
+
+---
+## SCENE 11 — Nine birds and ten fingers
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+Nine small birds sing on a tree in the courtyard; the children clap with all ten fingers under it.
+
+**CAMERA:** wide tree → close on clapping hands
+**ANIMATION:** birds singing, clapping
+
+---
+## SCENE 12 — Proud ten
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+On a flower meadow, the children raise both hands showing ten fingers and cheer, Puntu jumping between them.
+
+**CAMERA:** low angle → crane up
+**ANIMATION:** cheering, jumping

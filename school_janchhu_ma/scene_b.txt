@@ -1,0 +1,102 @@
+🎒 टन टन टन, स्कुलको घण्टी — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Friends at the gate
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Many children in school uniforms gather at the gate, giving high-fives.
+
+**CAMERA:** wide → low
+**ANIMATION:** high-fives
+
+---
+## SCENE 2 — Morning sun over the hills
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The sun rises over misty hills and terraced fields, smoke curling from village chimneys.
+
+**CAMERA:** slow aerial glide
+**ANIMATION:** mist moving, smoke curling
+
+---
+## SCENE 3 — Puntu checks the bag
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Puntu peeks into Aarav's bag and pulls out the water bottle proudly.
+
+**CAMERA:** close-up
+**ANIMATION:** peek, proud pose
+
+---
+## SCENE 4 — Path through the forest
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The friends walk through a rhododendron forest path, red flowers above.
+
+**CAMERA:** tracking from behind
+**ANIMATION:** walking, petals falling
+
+---
+## SCENE 5 — Prayer flags on the ridge
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The children skip past prayer flags on a ridge path with snowy peaks behind.
+
+**CAMERA:** wide → side tracking
+**ANIMATION:** skipping, flags fluttering
+
+---
+## SCENE 6 — Writing on the slate
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In class, Aarya writes on a slate and shows it proudly to the teacher.
+
+**CAMERA:** close on the slate → medium
+**ANIMATION:** chalk writing, proud show
+
+---
+## SCENE 7 — Playtime in the yard
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Children play a gentle ring game in the yard.
+
+**CAMERA:** overhead
+**ANIMATION:** ring game
+
+---
+## SCENE 8 — Walking home slowly
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In soft evening light, the friends walk home slowly by a river, long shadows.
+
+**CAMERA:** wide river path
+**ANIMATION:** slow walking, sunlight
+
+---
+## SCENE 9 — Home welcome
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+At home, grandmother lifts Aarav's bag and gives him a warm cup of milk; Aarya waves from her window.
+
+**CAMERA:** medium interior
+**ANIMATION:** welcome, waving
+
+---
+## SCENE 10 — Stars and tomorrow
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+At night, Aarav sleeps peacefully with his bag ready by the bed, stars twinkling outside.
+
+**CAMERA:** slow push-in
+**ANIMATION:** stars twinkling, calm breathing

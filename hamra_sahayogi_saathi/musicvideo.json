@@ -1,0 +1,170 @@
+{
+  "slug": "hamra_sahayogi_saathi",
+  "title_devanagari": "हाम्रा सहयोगी साथी",
+  "title_romanized": "Hamra Sahayogi Saathi",
+  "title_english": "Our Community Helpers & Cultural Village",
+  "channel": "Nepali Rhyme Hub (नेपाली राइम हब)",
+  "channel_id": "UCuZRsCjjzvlLPdL5AsgWE7w",
+  "handle": "@NepaliRhymeHub",
+  "version": "1.0.0",
+  "created_at": "2026-11-08T16:25:00+05:45",
+  "music_specs": {
+    "tempo_bpm": 112,
+    "key": "D Major",
+    "scale": "Major",
+    "time_signature": "4/4",
+    "taal": "Keherwa",
+    "target_loudness_lufs": -14.0,
+    "max_true_peak_dbtp": -1.0,
+    "loudness_range_lra": 6.5,
+    "duration_target_seconds": 180,
+    "lead_vocal": "Warm young female educator (Auntie / Guruma voice)",
+    "child_vocal": "Aarav & Aarya (4yo child co-lead) with enthusiastic children's choir (नानी-बाबु समूह)",
+    "instrumentation": [
+      "Nepali Madal (acoustic live thekka)",
+      "Bansuri (Nepalese bamboo flute)",
+      "Tamang Damphu",
+      "Newari Dhime & Bhuchhya accents",
+      "Rai/Limbu Jhyamta brass cymbals",
+      "Acoustic nylon guitar",
+      "Glockenspiel / orchestral bells",
+      "Rhythmic handclaps & shakers",
+      "Warm acoustic bass"
+    ]
+  },
+  "visual_specs": {
+    "style": "Premium 3D chibi animation (Pixar warmth & Studio Ghibli nature)",
+    "aspect_ratio": "16:9",
+    "resolution": "1920x1080",
+    "frame_rate": 30,
+    "total_scenes": 20,
+    "nature_percentage": 50,
+    "village_courtyard_percentage": 50,
+    "camera_feel": "Smooth toddler eye-level pans, gentle tracking, crane reveals, zero strobe cuts",
+    "text_in_video": false
+  },
+  "character_roster": [
+    {
+      "name": "Aarav (आरभ)",
+      "age": 4,
+      "role": "Lead boy anchor",
+      "attire": "Red-and-black patterned Nepali Dhaka topi, mustard-yellow kurta tunic, royal-blue vest, brown sandals"
+    },
+    {
+      "name": "Aarya (आर्या)",
+      "age": 4,
+      "role": "Lead girl anchor",
+      "attire": "Two black braided pigtails with red satin ribbons, red-and-emerald-green gunyo cholo with gold trim, pink sandals"
+    },
+    {
+      "name": "Puntu (पुन्टु)",
+      "role": "Baby red panda mascot",
+      "attire": "Fluffy rust-red coat, white face mask, ringed bushy tail, mint-green knitted neck scarf"
+    },
+    {
+      "name": "Kisan Dai (किसान दाइ)",
+      "role": "Farmer & agricultural hero",
+      "attire": "White daura suruwal, black Nepali topi, waist patuka, carrying wooden kodali (hoe)"
+    },
+    {
+      "name": "Doctor Didi (डाक्टर दिदी)",
+      "role": "Community health worker / doctor",
+      "attire": "Sky-blue kurta, clean white doctor lab coat, teal stethoscope"
+    },
+    {
+      "name": "Guruma (गुरुआमा)",
+      "role": "Kindergarten school teacher",
+      "attire": "Marigold-yellow sari with red border, neat hair bun with jasmine blossom, holding colorful storybook"
+    },
+    {
+      "name": "Kaligad Kaka (कालिगड काका)",
+      "role": "Builder, woodcarver & artisan",
+      "attire": "Rolled-up sleeves, patterned Dhaka topi, holding wooden chisel and mallet"
+    },
+    {
+      "name": "Safai Sathi (सफाइ साथी)",
+      "role": "Sanitation hero & environment protector",
+      "attire": "High-visibility neon-orange vest over neutral kurta, carrying traditional bamboo broom (kucho)"
+    },
+    {
+      "name": "Cultural Children Group (सांस्कृतिक मित्रहरू)",
+      "communities": [
+        "Newari children in Haku Patasi with Yomari and Dhime",
+        "Tamang children in Bakhu with Damphu and prayer flags",
+        "Mithila children in festive yellow/red with lotus and Chhath offerings",
+        "Rai-Limbu children in traditional attire with coin Sirphool and Sakela leaves",
+        "Tharu children in embroidered vests and skirts with Maghi rhythm sticks"
+      ]
+    }
+  ],
+  "title_options": [
+    {
+      "option": "A (Primary SEO)",
+      "title": "हाम्रा सहयोगी साथी | Hamra Sahayogi Saathi | नेपाली बालगीत | Nepali Rhyme Hub",
+      "characters": 77,
+      "focus": "Core community helpers keyword & brand hook"
+    },
+    {
+      "option": "B (Educational / Preschool)",
+      "title": "हातेमालो गरौँ नानी! | Community Helpers Song Nepali | Nursery Rhymes | Nepali Rhyme Hub",
+      "characters": 88,
+      "focus": "Toddler hook, English search phrase for diaspora & nursery schools"
+    },
+    {
+      "option": "C (Cultural / Festivals)",
+      "title": "हाम्रा साथी कति राम्रा | Nepal Cultural Village & Helpers | बाल कविता | Nepali Rhyme Hub",
+      "characters": 89,
+      "focus": "Cultural unity, diverse festivals (Chhath, Yomari, Lhosar, Maghi)"
+    }
+  ],
+  "keywords": [
+    "हाम्रा सहयोगी साथी",
+    "hamra sahayogi saathi",
+    "community helpers nepali song",
+    "nepali rhymes for kids",
+    "nepali balgeet",
+    "नेपाली बालगीत",
+    "nepali nursery rhymes",
+    "kisan nepali song",
+    "doctor teacher song nepali",
+    "nepali culture for kids",
+    "chhath puja nepali rhyme",
+    "yomari punhi song",
+    "tamang lhosar kids song",
+    "udhauli sakela dance",
+    "tharu maghi dance kids",
+    "nepali rhymes 3d animation",
+    "nepali kindergarten song",
+    "nursery class nepali",
+    "aarav aarya puntu",
+    "Nepali Rhyme Hub"
+  ],
+  "pipeline": {
+    "flowmusic": {
+      "session_url": "https://www.flowmusic.app/session/hamra-sahayogi-saathi-master-take",
+      "sessions": {
+        "take1": "https://www.flowmusic.app/session/take1-112bpm-dmajor",
+        "take2": "https://www.flowmusic.app/session/take2-112bpm-dmajor-richer-choir"
+      }
+    },
+    "music": {
+      "chosen_take": "take2",
+      "tempo": 112,
+      "key": "D Major",
+      "status": "lyric_approved_ready_for_generation"
+    },
+    "flow": {
+      "account": "info.bhrikuty@gmail.com",
+      "project_url": "https://flow.google.com/project/hamra-sahayogi-saathi-3d",
+      "reference_title": "character.jpg",
+      "aspect_ratio": "16:9",
+      "model": "Omni 1.1 Flash",
+      "target_clip_count": 20
+    },
+    "batch": {
+      "shot_bars": 4,
+      "max_clips": 20,
+      "lead_seconds": 0.0
+    }
+  }
+}

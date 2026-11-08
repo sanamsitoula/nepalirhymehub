@@ -1,0 +1,872 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nepali Rhyme Hub Review</title>
+<style>
+:root{
+  --bg:#f6f2ea;--panel:#fffdf8;--ink:#1d2340;--muted:#6b6f85;--line:#e4dccb;
+  --blue:#1f3a8a;--blue-soft:#e6ebfa;--gold:#b8860b;--gold-soft:#fbf1d6;--saffron:#e07b1a;
+  --ok:#1f7a4d;--ok-soft:#e3f4ea;--warn:#a86400;--warn-soft:#fdf0d8;--bad:#b42318;--bad-soft:#fde8e6;
+  --idle:#5b6170;--idle-soft:#eceef2;--shadow:0 1px 2px rgba(30,30,60,.06),0 4px 14px rgba(30,30,60,.06);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12141c;--panel:#1a1d28;--ink:#e9e7f2;--muted:#9aa0b5;--line:#2c3142;
+  --blue:#8fa8ff;--blue-soft:#222b4a;--gold:#e0b44a;--gold-soft:#3a3120;--saffron:#f39a4a;
+  --ok:#5fd39a;--ok-soft:#183427;--warn:#f0b35a;--warn-soft:#3a2d17;--bad:#ff8a80;--bad-soft:#3d1d1b;
+  --idle:#a3a9bb;--idle-soft:#262a37;--shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25);}}
+:root[data-theme="dark"]{
+  --bg:#12141c;--panel:#1a1d28;--ink:#e9e7f2;--muted:#9aa0b5;--line:#2c3142;
+  --blue:#8fa8ff;--blue-soft:#222b4a;--gold:#e0b44a;--gold-soft:#3a3120;--saffron:#f39a4a;
+  --ok:#5fd39a;--ok-soft:#183427;--warn:#f0b35a;--warn-soft:#3a2d17;--bad:#ff8a80;--bad-soft:#3d1d1b;
+  --idle:#a3a9bb;--idle-soft:#262a37;--shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25);}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI","Noto Sans Devanagari",sans-serif}
+button,select,input,textarea{font:inherit;color:inherit}
+header.top{display:flex;align-items:center;gap:12px;padding:10px 16px;background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20}
+header.top h1{font-size:17px;margin:0;font-weight:650}
+header.top h1 span{color:var(--gold)}
+header.top .sp{flex:1}
+.layout{display:grid;grid-template-columns:280px 1fr;min-height:calc(100vh - 52px)}
+aside{border-right:1px solid var(--line);background:var(--panel);padding:12px;position:sticky;top:52px;height:calc(100vh - 52px);overflow:auto}
+aside input{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg)}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+.chipbtn{border:1px solid var(--line);background:transparent;border-radius:999px;padding:2px 10px;font-size:12.5px;cursor:pointer}
+.chipbtn.on{background:var(--blue);border-color:var(--blue);color:#fff}
+.score10-tag{display:inline-block;font-size:10.5px;font-weight:750;padding:1px 6px;border-radius:999px;background:var(--gold-soft);color:var(--gold);border:1px solid color-mix(in srgb,var(--gold) 45%,transparent);margin-left:5px;vertical-align:middle;line-height:1.2}
+.song{display:flex;align-items:center;gap:8px;width:100%;text-align:left;border:0;background:transparent;padding:7px 8px;border-radius:8px;cursor:pointer}
+.song:hover{background:var(--blue-soft)}
+.song.sel{background:var(--blue-soft);outline:1px solid var(--blue)}
+.song .nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dot{width:9px;height:9px;border-radius:50%;flex:none;background:var(--idle)}
+.dot.ok{background:var(--ok)}.dot.warn{background:var(--warn)}.dot.bad{background:var(--bad)}
+main{padding:16px 22px 80px;min-width:0}
+.empty{color:var(--muted);padding:40px;text-align:center}
+.gate{border-radius:12px;padding:12px 16px;margin:10px 0 14px;display:flex;gap:12px;align-items:flex-start}
+.gate.closed{background:var(--bad-soft);border:1px solid color-mix(in srgb,var(--bad) 35%,transparent)}
+.gate.open{background:var(--ok-soft);border:1px solid color-mix(in srgb,var(--ok) 35%,transparent)}
+.gate b{display:block;font-size:15.5px}
+.gate details{margin-top:4px;font-size:13px;color:var(--muted)}
+.songhead{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.songhead h2{margin:0;font-size:22px}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px 12px;cursor:pointer;font-weight:550}
+.btn:hover{border-color:var(--blue)}
+.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+.btn.ok{background:var(--ok);border-color:var(--ok);color:#fff}
+.btn.bad{color:var(--bad);border-color:color-mix(in srgb,var(--bad) 45%,var(--line))}
+.btn.small{padding:3px 9px;font-size:13px}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.progress{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 14px}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-bottom:14px;overflow-x:auto}
+.tab{border:0;background:transparent;padding:9px 14px;cursor:pointer;border-bottom:3px solid transparent;font-weight:600;color:var(--muted);white-space:nowrap}
+.tab.on{color:var(--ink);border-bottom-color:var(--gold)}
+.tab .n{font-weight:500;font-size:12px;margin-left:6px;padding:1px 7px;border-radius:999px;background:var(--idle-soft)}
+.pill{display:inline-flex;align-items:center;gap:4px;font-size:12px;font-weight:650;padding:2px 9px;border-radius:999px;white-space:nowrap}
+.s-approved{background:var(--ok-soft);color:var(--ok)}
+.s-awaiting_approval{background:var(--blue-soft);color:var(--blue)}
+.s-failed,.s-missing{background:var(--bad-soft);color:var(--bad)}
+.s-changes_requested,.s-stale{background:var(--warn-soft);color:var(--warn)}
+.s-not_checked{background:var(--idle-soft);color:var(--idle)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:14px;margin-bottom:14px}
+.card h3{margin:0;font-size:16px}
+.cardhead{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:8px}
+.cardhead .sp{flex:1}
+.meta{font-size:12.5px;color:var(--muted)}
+.meta code{font-size:12px}
+.two{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:16px}
+.compare{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;margin-top:6px}
+.take{border:1px solid var(--line);border-radius:12px;padding:12px;background:var(--bg)}
+.take.chosen{border:2px solid var(--gold);background:var(--gold-soft)}
+.take .score{font-size:30px;font-weight:800;line-height:1}
+.take .score small{font-size:14px;font-weight:600;color:var(--muted)}
+.take audio{width:100%;margin:8px 0}
+.rules{width:100%;border-collapse:collapse;font-size:13px}
+.rules td{padding:3px 4px;border-top:1px solid var(--line);vertical-align:top}
+.rules .v{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.rules .ok{color:var(--ok);font-weight:700}.rules .no{color:var(--bad);font-weight:700}
+.bars{display:flex;align-items:flex-end;gap:2px;height:46px;margin:8px 0 2px}
+.bars span{flex:1;background:var(--blue);border-radius:2px 2px 0 0;opacity:.75}
+.bars span.chorus{background:var(--saffron);opacity:1}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
+.imgwrap{position:relative;border-radius:8px;overflow:hidden;background:var(--idle-soft);user-select:none}
+.imgwrap img{display:block;width:100%;height:auto;cursor:crosshair}
+.imgwrap .box{position:absolute;border:2px solid var(--saffron);background:rgba(224,123,26,.12);pointer-events:none}
+.imgwrap .box.old{border-style:dashed;border-color:var(--bad)}
+.missing{padding:30px;text-align:center;color:var(--bad);font-weight:600}
+.findings{list-style:none;padding:0;margin:8px 0;font-size:13.5px}
+.findings li{display:flex;gap:8px;padding:3px 0;border-bottom:1px dashed var(--line)}
+.findings li:last-child{border-bottom:0}
+.findings .ic{width:18px;flex:none;text-align:center;font-weight:800}
+.l-pass .ic{color:var(--ok)}.l-warn .ic{color:var(--warn)}.l-fail .ic{color:var(--bad)}.l-not_run .ic,.l-info .ic{color:var(--idle)}
+.findings .ev{color:var(--muted);font-size:12.5px;display:block}
+.prompt{font-size:13px;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;white-space:pre-wrap;max-height:9.5em;overflow:auto}
+details.more summary{cursor:pointer;color:var(--blue);font-size:13px;margin:6px 0}
+.actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.thread{margin-top:10px;border-top:1px solid var(--line);padding-top:8px}
+.cmt{border-left:3px solid var(--line);padding:4px 0 4px 10px;margin:8px 0;font-size:13.5px}
+.cmt.sev-critical{border-left-color:var(--bad)}.cmt.sev-major{border-left-color:var(--warn)}
+.cmt .who{font-size:12px;color:var(--muted)}
+.proposal{background:var(--gold-soft);border-radius:8px;padding:8px 10px;margin-top:6px}
+form.cform{display:grid;gap:8px;margin-top:10px;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px}
+form.cform .row{display:flex;gap:8px;flex-wrap:wrap}
+form.cform select,form.cform input,form.cform textarea{border:1px solid var(--line);border-radius:7px;padding:6px 8px;background:var(--panel)}
+form.cform textarea{width:100%;min-height:64px;resize:vertical}
+.hint{font-size:12.5px;color:var(--muted)}
+audio{width:100%;margin:6px 0}
+[hidden]{display:none!important}
+canvas.wave{width:100%;height:70px;display:block;background:var(--bg);border-radius:8px;cursor:pointer}
+.lyrics{white-space:pre-wrap;font-size:14px;max-height:520px;overflow:auto;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px}
+.seq{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
+.shot{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:12.5px}
+.shot img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--idle-soft)}
+.shot img.mirror{transform:scaleX(-1)}
+.shot .b{padding:6px 8px}
+.shot .num{font-weight:800;color:var(--gold)}
+.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:10px;font-weight:600;z-index:50;max-width:90vw}
+.offline{max-width:640px;margin:60px auto;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px}
+.offline code{background:var(--bg);padding:2px 6px;border-radius:5px}
+.agent{background:var(--blue-soft);border-radius:8px;padding:6px 10px;font-size:13px;margin-top:6px}
+@media (max-width:860px){.layout{grid-template-columns:1fr}aside{position:static;height:auto;max-height:46vh}.two{grid-template-columns:1fr}main{padding:12px 16px 60px}.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>🪔 Nepali Rhyme Hub <span>· pre-video review</span></h1>
+  <div class="sp"></div>
+  <span class="meta" id="conn">connecting…</span>
+  <button class="btn small" id="theme" title="Light / dark">◐</button>
+</header>
+<div class="layout" id="app">
+  <aside>
+    <input id="q" placeholder="Search bhajans…" autocomplete="off">
+    <div class="filters" id="filters"></div>
+    <div id="songs"></div>
+  </aside>
+  <main id="main"><div class="empty">Pick a bhajan on the left.</div></main>
+</div>
+<script>
+"use strict";
+const S = {songs: [], song: null, data: null, tab: "audio", filter: "all", sceneFilter: "all", form: null};
+const LEVEL_IC = {pass: "✓", warn: "!", fail: "✗", not_run: "◌", info: "i"};
+const STATE_TXT = {approved: "Approved", awaiting_approval: "Awaiting your approval", failed: "Failed checks",
+  missing: "Missing", changes_requested: "Changes requested", stale: "Stale: changed since approval", not_checked: "Not checked"};
+function getTabs() {
+  const list = [
+    ["audio", "1 · Music & lyrics"],
+    ["character", "2 · Character"],
+    ["scenes", "3 · Scenes"],
+    ["storyboard", "4 · Storyboard"],
+    ["seo", "5 · SEO & Thumbnails (A/B) 🖼️"]
+  ];
+  if (S.data && S.data.videos && S.data.videos.length > 0) {
+    list.push(["videos", `6 · Generated Videos 🎬 (${S.data.videos.length})`]);
+  } else if (S.tab === "videos") {
+    list.push(["videos", "6 · Generated Videos 🎬"]);
+  }
+  list.push(["comments", "Comments & fixes"]);
+  return list;
+}
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]));
+const $ = sel => document.querySelector(sel);
+const clock = t => t == null ? "" : `${Math.floor(t / 60)}:${(t % 60).toFixed(1).padStart(4, "0")}`;
+const media = f => `/media/${encodeURIComponent(S.song)}/${f.split("/").map(encodeURIComponent).join("/")}`;
+function toast(msg, ms = 2600) {
+  const t = document.createElement("div"); t.className = "toast"; t.textContent = msg;
+  document.body.append(t); setTimeout(() => t.remove(), ms);
+}
+async function api(path, body) {
+  const opt = body === undefined ? {} : {method: "POST", headers: {"Content-Type": "application/json", "X-Review": "1"}, body: JSON.stringify(body)};
+  const r = await fetch(path, opt);
+  const data = await r.json().catch(() => ({error: r.statusText}));
+  if (!r.ok) throw new Error(data.error || r.statusText);
+  return data;
+}
+
+/* ---------------- theme */
+(() => {
+  let saved = null; try { saved = localStorage.getItem("gk-theme"); } catch (e) {}
+  if (saved) document.documentElement.dataset.theme = saved;
+  $("#theme").onclick = () => {
+    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    try { localStorage.setItem("gk-theme", next); } catch (e) {}
+  };
+})();
+
+/* ---------------- song list */
+function songDot(s) {
+  if (s.gate === true) return "ok";
+  if (s.failed || !s.has_plan || !s.has_music) return "bad";
+  if (s.checked) return "warn";
+  return "";
+}
+function songNote(s) {
+  if (!s.has_music) return "no music";
+  if (s.rendered) return "rendered";
+  const tags = [];
+  if (s.score10) tags.push("10/10");
+  if (s.storyclips > 0) tags.push(`${s.storyclips} clips`);
+  else if (s.stills > 0) tags.push(`${s.stills} stills`);
+  if (s.gate === true) tags.push("ready");
+  else if (s.failed) tags.push(`${s.failed} fail`);
+  else if (s.checked) tags.push("to approve");
+  else tags.push("not checked");
+  return tags.join(" · ");
+}
+function renderSongs() {
+  const q = $("#q").value.trim().toLowerCase();
+  const F = [
+    ["all", "All"],
+    ["score10", "Score 10 🏆"],
+    ["storyboard", "Storyboard 🖼️"],
+    ["storyclips", "Storyclips 🎬"],
+    ["rendered", "Rendered 🎥"],
+    ["ready", "Gate ready"],
+    ["todo", "To review"]
+  ];
+  $("#filters").innerHTML = F.map(([k, t]) => `<button class="chipbtn ${S.filter === k ? "on" : ""}" data-f="${k}">${t}</button>`).join("");
+  const list = S.songs.filter(s => {
+    if (!q) return true;
+    if (s.slug.toLowerCase().includes(q)) return true;
+    if (q === "score10" && s.score10) return true;
+    if (q === "storyboard" && (s.has_storyboard || s.stills > 0)) return true;
+    if (q === "storyclips" && (s.has_storyclips || s.storyclips > 0)) return true;
+    if (q === "rendered" && s.rendered) return true;
+    return false;
+  }).filter(s => {
+    if (S.filter === "score10") return Boolean(s.score10);
+    if (S.filter === "storyboard") return Boolean(s.has_storyboard || s.stills > 0);
+    if (S.filter === "storyclips") return Boolean(s.has_storyclips || s.storyclips > 0);
+    if (S.filter === "rendered") return Boolean(s.rendered);
+    if (S.filter === "ready") return s.gate === true;
+    if (S.filter === "todo") return !s.rendered && s.gate !== true;
+    return true;
+  });
+  $("#songs").innerHTML = list.map(s => `<button class="song ${s.slug === S.song ? "sel" : ""}" data-s="${esc(s.slug)}">
+      <span class="dot ${songDot(s)}"></span><span class="nm">${esc(s.slug)}${s.score10 ? ' <span class="score10-tag">10/10</span>' : ''}</span><span class="meta">${esc(songNote(s))}</span></button>`).join("")
+    || `<div class="meta" style="padding:10px">No bhajan matches.</div>`;
+}
+$("#q").oninput = renderSongs;
+$("#filters").onclick = e => { const f = e.target.dataset.f; if (f) { S.filter = f; renderSongs(); } };
+$("#songs").onclick = e => { const b = e.target.closest("[data-s]"); if (b) openSong(b.dataset.s); };
+
+async function openSong(slug, keepTab) {
+  S.song = slug; S.form = null; if (!keepTab) S.tab = "audio";
+  try { localStorage.setItem("gk-song", slug); } catch (e) {}
+  history.replaceState(null, "", "#" + slug);
+  renderSongs();
+  $("#main").innerHTML = `<div class="empty">Loading ${esc(slug)}…</div>`;
+  try { S.data = await api(`/api/song/${encodeURIComponent(slug)}`); }
+  catch (e) { $("#main").innerHTML = `<div class="empty">Could not load: ${esc(e.message)}</div>`; return; }
+  const row = S.songs.find(s => s.slug === slug); if (row) row.gate = S.data.gate.open;
+  renderSongs(); renderSong();
+}
+
+/* ---------------- one song */
+const assetsOf = sec => S.data.assets.filter(a => a.section === sec);
+const asset = id => S.data.assets.find(a => a.id === id);
+const commentsOf = id => S.data.comments.filter(c => c.asset === id);
+function count(sec) {
+  if (sec === "seo") return (S.data && S.data.seo && S.data.seo.has_ab) ? "A/B" : "SEO";
+  if (sec === "videos") return (S.data && S.data.videos && S.data.videos.length > 0) ? `${S.data.videos.length}` : "0";
+  const list = sec === "comments" ? S.data.comments.filter(c => !["resolved", "rejected"].includes(c.status)) : assetsOf(sec).filter(a => a.state !== "approved");
+  return list.length;
+}
+function renderSong() {
+  const d = S.data, g = d.gate, all = d.assets.length, ok = d.assets.filter(a => a.state === "approved").length;
+  const states = {}; d.assets.forEach(a => states[a.state] = (states[a.state] || 0) + 1);
+  const curTabs = getTabs();
+  $("#main").innerHTML = `
+    <div class="songhead"><h2>${esc(d.song)}</h2><span class="meta">take ${esc(d.take)}</span><div style="flex:1"></div>
+      <button class="btn" id="recheck">↻ Run automated checks</button></div>
+    <div class="gate ${g.open ? "open" : "closed"}"><div style="font-size:22px">${g.open ? "✅" : "⛔"}</div><div>
+      <b>${g.open ? "Ready: video clips may be generated" : `Video generation is blocked: ${g.blockers.length} item(s) need attention`}</b>
+      <span class="meta">${ok} of ${all} assets approved. Each one needs passed checks, your approval, and no change since.</span>
+      ${g.open ? "" : `<details><summary>Show what is blocking</summary>${g.blockers.map(esc).join("<br>")}</details>`}</div></div>
+    <div class="progress">${Object.entries(states).map(([k, n]) => `<span class="pill s-${k}">${n} ${esc(STATE_TXT[k] || k)}</span>`).join("")}</div>
+    <div class="tabs">${curTabs.map(([k, t]) => `<button class="tab ${S.tab === k ? "on" : ""}" data-t="${k}">${t}<span class="n">${count(k)}</span></button>`).join("")}</div>
+    <div id="pane"></div>`;
+  $("#recheck").onclick = recheck;
+  document.querySelector(".tabs").onclick = e => { const t = e.target.closest("[data-t]"); if (t) { S.tab = t.dataset.t; S.form = null; renderSong(); } };
+  ({audio: paneAudio, character: paneCharacter, scenes: paneScenes, storyboard: paneStoryboard, seo: paneSeo, videos: paneVideos, comments: paneComments})[S.tab]();
+}
+async function recheck() {
+  const b = $("#recheck"); b.disabled = true; b.textContent = "Checking…";
+  try { S.data = await api(`/api/song/${encodeURIComponent(S.song)}/check`, {}); toast("Checks finished"); }
+  catch (e) { toast("Checks failed: " + e.message); }
+  const row = S.songs.find(s => s.slug === S.song);
+  if (row) { row.checked = true; row.failed = S.data.assets.filter(a => a.check === "failed").length; row.gate = S.data.gate.open; }
+  renderSongs(); renderSong();
+}
+
+/* ---------------- asset card */
+function findingsHtml(a) {
+  if (a.check === "not_checked") return `<p class="meta">Not checked for this version yet: press <b>Run automated checks</b>.</p>`;
+  const order = {fail: 0, warn: 1, not_run: 2, info: 3, pass: 4};
+  const list = [...a.findings].sort((x, y) => order[x.level] - order[y.level]);
+  const notes = a.agent_notes.map(n => `<div class="agent">🤖 <b>${esc(n.by)}</b> (${esc(n.level)}): ${esc(n.message)} ${n.evidence ? `<span class="meta">${esc(n.evidence)}</span>` : ""}<br><span class="meta">AI note: information only, never an approval</span></div>`).join("");
+  return `<ul class="findings">${list.map(f => `<li class="l-${f.level}"><span class="ic">${LEVEL_IC[f.level] || "·"}</span>
+    <span><b>${esc(f.check)}</b>: ${esc(f.message)}${f.evidence ? `<span class="ev">${esc(f.evidence)}</span>` : ""}${f.level === "not_run" ? `<span class="ev">Not run: your judgement</span>` : ""}</span></li>`).join("")}</ul>${notes}`;
+}
+function decisionHtml(a) {
+  const d = a.decision; if (!d) return "";
+  const same = d.version === a.version;
+  return `<div class="meta">Last decision: <b>${esc(d.decision.replace("_", " "))}</b> by ${esc(d.by)}, ${esc(d.at.slice(0, 16).replace("T", " "))}
+    on version <code>${esc(d.version)}</code>${same ? "" : " (an older version)"}${d.note ? ` · “${esc(d.note)}”` : ""}</div>`;
+}
+function versionsHtml(a) {
+  const rows = Object.entries(a.versions || {}).filter(([, v]) => v.length > 1);
+  if (!rows.length) return "";
+  return `<details class="more"><summary>Earlier versions (${rows.reduce((n, [, v]) => n + v.length - 1, 0)})</summary>${rows.map(([f, v]) =>
+    `<div class="meta"><code>${esc(f)}</code></div>${v.slice(1).map(name => `<div class="row" style="display:flex;gap:8px;align-items:center;margin:3px 0">
+      <a href="/version/${encodeURIComponent(S.song)}/${f.split("/").map(encodeURIComponent).join("/")}?v=${encodeURIComponent(name)}" target="_blank">${esc(name)}</a>
+      <button class="btn small" data-restore="${esc(f)}" data-v="${esc(name)}">Restore</button></div>`).join("")}`).join("")}
+    <span class="hint">Restoring keeps the current file as a version too.</span></details>`;
+}
+function threadHtml(a) {
+  const list = commentsOf(a.id);
+  if (!list.length) return "";
+  return `<div class="thread">${list.map(commentHtml).join("")}</div>`;
+}
+function commentHtml(c) {
+  const p = c.proposal;
+  const statusTxt = {open: "waiting for the AI to propose a fix", proposed: "fix proposed: accept or reject", accepted: "accepted: AI will regenerate next run",
+    done: "regenerated: review the new version", rejected: "rejected", resolved: "resolved"}[c.status] || c.status;
+  const btns = [];
+  if (c.status === "proposed") btns.push(`<button class="btn small ok" data-cs="accepted" data-c="${c.id}">Accept fix</button>`, `<button class="btn small bad" data-cs="open" data-c="${c.id}">Reject proposal</button>`);
+  if (!["resolved", "rejected"].includes(c.status)) btns.push(`<button class="btn small" data-cs="resolved" data-c="${c.id}">Mark resolved</button>`);
+  else btns.push(`<button class="btn small" data-cs="open" data-c="${c.id}">Reopen</button>`);
+  return `<div class="cmt sev-${c.severity}"><div class="who">${esc(c.by)} · ${esc(c.at.slice(0, 16).replace("T", " "))} · ${esc(c.category)} · <b>${esc(c.severity)}</b>
+      ${c.at_time != null ? ` · at ${clock(c.at_time)}` : ""}${c.region ? " · marked area" : ""} · version <code>${esc(c.version)}</code>
+      ${S.tab === "comments" ? ` · <b>${esc(c.asset)}</b>` : ""}</div>
+    <div>${esc(c.text)}</div>${c.suggestion ? `<div class="meta">Suggested change: ${esc(c.suggestion)}</div>` : ""}
+    ${p ? `<div class="proposal"><b>${p.by === "sanam" ? "Your prompt edit" : "Proposed fix by " + esc(p.by)}:</b> ${esc(p.text || "")}
+      ${p.prompt ? `<div class="prompt" style="margin-top:4px">${esc(p.prompt)}</div>` : ""}
+      ${p.affects && p.affects.length ? `<div class="meta">Will need re-approval after: ${esc(p.affects.slice(0, 8).join(", "))}${p.affects.length > 8 ? ` +${p.affects.length - 8}` : ""}</div>` : ""}</div>` : ""}
+    <div class="meta">Status: <b>${esc(statusTxt)}</b></div>
+    <div class="actions">${btns.join("")}</div></div>`;
+}
+function formHtml(a, kind) {
+  const cats = S.data.categories, sevs = S.data.severities;
+  const def = {audio: "audio defect", lyrics: "incorrect content", character: "character inconsistency", scenes: "visual artifact", storyboard: "continuity problem"}[a.id === "lyrics" ? "lyrics" : a.section];
+  return `<form class="cform" data-asset="${esc(a.id)}">
+    <b>${kind === "changes" ? "Request changes" : "Add a comment"}</b>
+    <textarea name="text" required placeholder="What is wrong or what should change? e.g. “The vocals are too low”, “Remove the extra fingers”, “Keep the character, replace the background”"></textarea>
+    <div class="row">
+      <label class="hint">Type <select name="category">${cats.map(c => `<option ${c === def ? "selected" : ""}>${esc(c)}</option>`).join("")}</select></label>
+      <label class="hint">Severity <select name="severity">${sevs.map(s => `<option ${s === (kind === "changes" ? "major" : "minor") ? "selected" : ""}>${esc(s)}</option>`).join("")}</select></label>
+      ${a.section === "audio" && a.id === "audio" ? `<label class="hint">At <input name="at_time" size="7" placeholder="sec"></label> <button type="button" class="btn small" data-now>Use player time</button>` : ""}
+    </div>
+    ${["character", "scenes"].includes(a.section) ? `<span class="hint">Optional: drag on the picture above to mark the problem area. ${S.form && S.form.region ? "✔ area marked" : ""}</span>` : ""}
+    <input name="suggestion" placeholder="Suggested change (optional), e.g. “wider camera angle”, “less percussion, keep melody”">
+    ${a.prompt ? `<details class="more"><summary>Edit the prompt myself (counts as an accepted fix)</summary><textarea name="prompt">${esc(a.prompt)}</textarea></details>` : ""}
+    <span class="hint">Critical comments block video generation until resolved. The AI agent reads this on its next run, proposes a fix, and regenerates only after you accept it.</span>
+    <div class="actions"><button class="btn primary" type="submit">${kind === "changes" ? "Request changes" : "Save comment"}</button><button class="btn" type="button" data-cancel>Cancel</button></div>
+  </form>`;
+}
+function cardActions(a) {
+  const canApprove = ["passed", "warnings"].includes(a.check) && a.state !== "approved";
+  const why = a.check === "failed" ? "Fix the failed checks first" : a.check === "missing" ? "Asset is missing" : a.check === "not_checked" ? "Run the checks first" : "";
+  return `<div class="actions">
+    <button class="btn ok" data-approve="${esc(a.id)}" ${canApprove ? "" : "disabled"} title="${esc(why)}">✓ Approve this version</button>
+    <button class="btn bad" data-changes="${esc(a.id)}" ${a.version ? "" : "disabled"}>✎ Request changes</button>
+    <button class="btn" data-comment="${esc(a.id)}">💬 Comment</button></div>`;
+}
+function card(a, preview, extra = "") {
+  const open = S.form && S.form.asset === a.id;
+  return `<div class="card" id="card-${esc(a.id)}">
+    <div class="cardhead"><h3>${esc(a.title)}</h3><span class="pill s-${a.state}">${esc(STATE_TXT[a.state] || a.state)}</span><span class="sp"></span>
+      <span class="meta">${esc(a.id)} · version <code>${esc(a.version || "—")}</code></span></div>
+    ${preview}${extra}
+    ${a.info && a.info.provider ? `<div class="meta">Made with: ${esc(a.info.provider)}</div>` : ""}
+    ${findingsHtml(a)}${decisionHtml(a)}${versionsHtml(a)}
+    ${cardActions(a)}${open ? formHtml(a, S.form.kind) : ""}${threadHtml(a)}</div>`;
+}
+function imagePreview(a) {
+  if (!a.files.length) return `<div class="imgwrap"><div class="missing">No picture yet</div></div>`;
+  const boxes = commentsOf(a.id).filter(c => c.region && !["resolved", "rejected"].includes(c.status))
+    .map(c => `<div class="box old" style="${boxStyle(c.region)}" title="${esc(c.text)}"></div>`).join("");
+  const mine = S.form && S.form.asset === a.id && S.form.region ? `<div class="box" style="${boxStyle(S.form.region)}"></div>` : "";
+  return `<div class="imgwrap" data-draw="${esc(a.id)}"><img src="${media(a.files[0])}?v=${esc(a.version)}" alt="${esc(a.title)}" loading="lazy" draggable="false">${boxes}${mine}</div>`;
+}
+const boxStyle = r => `left:${r.x * 100}%;top:${r.y * 100}%;width:${r.w * 100}%;height:${r.h * 100}%`;
+
+/* ---------------- music takes: side by side */
+function takeHtml(t) {
+  const a = t.audit, best = Math.max(...S.data.takes.map(x => x.audit ? x.audit.score : -1));
+  const rules = a ? `<table class="rules">${a.rules.map(r => `<tr><td class="${r.ok ? "ok" : "no"}">${r.ok ? "✓" : "✗"}</td>
+      <td>${esc(r.label)}<div class="meta">${esc(r.target)}</div></td><td class="v">${esc(r.value)}</td></tr>`).join("")}</table>` : `<div class="missing">Not measured yet</div>`;
+  const lo = a ? Math.min(...a.mix_db) : 0, hi = a ? Math.max(...a.mix_db) : 1;
+  const bars = a ? `<div class="bars" title="Loudness per section (orange = chorus)">${a.mix_db.map((v, i) =>
+      `<span class="${a.kinds[i] === "chorus" ? "chorus" : ""}" style="height:${Math.round(12 + 88 * (v - lo) / Math.max(1, hi - lo))}%" title="${esc(a.sections[i])}: ${v} dB"></span>`).join("")}</div>
+      <div class="meta">Energy by section, orange = chorus. The last orange bar should be the tallest.</div>` : "";
+  return `<div class="take ${t.chosen ? "chosen" : ""}">
+    <div class="cardhead"><h3>${esc(t.take)}</h3>${t.chosen ? `<span class="pill s-approved">used for the video</span>` : ""}
+      ${a && a.score === best && S.data.takes.length > 1 ? `<span class="pill s-awaiting_approval">best score</span>` : ""}<span class="sp"></span>
+      ${a ? `<span class="score">${a.score}<small>/${a.of}</small></span>` : ""}</div>
+    <div class="meta">${esc(a ? a.brief : "")}${a ? ` · ${esc(String(a.bpm))} BPM` : ""}</div>
+    <audio controls preload="metadata" src="${media(t.audio)}"></audio>
+    ${bars}${rules}
+    ${a ? `<details class="more"><summary>Listen for (not scored)</summary>${a.listen.map(esc).join("<br>")}</details>` : ""}
+    <details class="more"><summary>Lyrics as sung</summary><div class="lyrics">${esc(t.lyrics)}</div></details>
+    <div style="margin-top:10px">${t.chosen ? `<span class="meta">${t.has_plan ? "Storyboard is built on this take." : "Needs a new storyboard (prepare) before clips."}</span>`
+      : `<button class="btn primary" data-choose="${esc(t.take)}">Choose ${esc(t.take)} for the video</button>`}</div></div>`;
+}
+function compareHtml() {
+  const takes = S.data.takes || [];
+  if (!takes.length) return "";
+  return `<div class="card"><div class="cardhead"><h3>${takes.length > 1 ? "Compare the music takes" : "Music check"}</h3><span class="sp"></span>
+      <button class="btn small" id="measure">↻ Measure</button></div>
+    <div class="meta">Scored on the music pipeline rules (chorus by 0:15, a bigger last chorus, instruments that drop out, choruses that change, YouTube loudness). Listen to each, then choose one.</div>
+    <div class="compare">${takes.map(takeHtml).join("")}</div></div>`;
+}
+async function songAction(action, body, done) {
+  try { S.data = await api(`/api/song/${encodeURIComponent(S.song)}/${action}`, body); toast(done); renderSong(); }
+  catch (e) { toast("Failed: " + e.message); }
+}
+function wireCompare() {
+  const m = $("#measure"); if (m) m.onclick = () => { m.disabled = true; m.textContent = "Measuring…"; songAction("audit", {}, "Measured"); };
+  document.querySelectorAll("[data-choose]").forEach(b => b.onclick = () => {
+    if (confirm(`Use ${b.dataset.choose} for the video? Its storyboard and stills will be rebuilt for review.`))
+      songAction("choose-take", {take: b.dataset.choose}, `${b.dataset.choose} chosen`);
+  });
+}
+
+/* ---------------- panes */
+function paneAudio() {
+  const au = asset("audio"), ly = asset("lyrics");
+  const players = au.files.map(f => `<div class="meta"><code>${esc(f)}</code></div><audio controls preload="metadata" src="${media(f)}" data-file="${esc(f)}"></audio>`).join("");
+  const vocals = S.data.take + ".stems/vocals.m4a";
+  $("#pane").innerHTML = compareHtml() + `<div class="two"><div>${card(au, au.files.length ? players + `<button class="btn small" id="wavebtn">Show waveform</button><canvas class="wave" id="wave" hidden></canvas>
+      <details class="more"><summary>Vocal stem (to judge vocal level)</summary><audio controls preload="none" src="${media("music/" + vocals)}"></audio></details>`
+      : `<div class="missing">No music yet</div>`)}</div>
+    <div>${card(ly, ly.files.length ? `<div class="lyrics">${esc(S.data.lyrics_text)}</div>` : `<div class="missing">No lyrics file</div>`)}</div></div>`;
+  const wb = $("#wavebtn"); if (wb) wb.onclick = drawWave;
+  wireCompare();
+}
+async function drawWave() {
+  const btn = $("#wavebtn"), cv = $("#wave"), player = document.querySelector("audio[data-file]");
+  btn.disabled = true; btn.textContent = "Reading the audio…";
+  try {
+    const buf = await (await fetch(player.src)).arrayBuffer();
+    const audio = await new (window.AudioContext || window.webkitAudioContext)().decodeAudioData(buf);
+    cv.hidden = false; const w = cv.width = cv.clientWidth * devicePixelRatio, h = cv.height = 70 * devicePixelRatio;
+    const ctx = cv.getContext("2d"), data = audio.getChannelData(0), step = Math.ceil(data.length / w);
+    ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--blue");
+    for (let x = 0; x < w; x++) {
+      let peak = 0; for (let i = x * step; i < (x + 1) * step && i < data.length; i += 8) peak = Math.max(peak, Math.abs(data[i]));
+      if (peak > 0.995) ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--bad");
+      ctx.fillRect(x, h / 2 - peak * h / 2, 1, Math.max(1, peak * h));
+      ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--blue");
+    }
+    cv.onclick = e => { player.currentTime = (e.offsetX / cv.clientWidth) * audio.duration; player.play(); };
+    btn.textContent = "Click the waveform to jump · red = at full scale";
+  } catch (e) { btn.textContent = "Could not draw the waveform"; }
+}
+function paneCharacter() {
+  const a = asset("character");
+  $("#pane").innerHTML = `<div style="max-width:760px">${card(a, imagePreview(a),
+    `<p class="hint">This is the canonical character every scene and clip copies. It is never replaced automatically: a new version waits for your approval, and every scene then needs re-approval.</p>`)}</div>`;
+}
+function paneScenes() {
+  const list = assetsOf("scenes");
+  const shown = list.filter(a => S.sceneFilter === "all" || (S.sceneFilter === "todo" ? a.state !== "approved" : a.state === "approved"));
+  const ready = list.filter(a => ["passed", "warnings"].includes(a.check) && a.state === "awaiting_approval" && !commentsOf(a.id).some(c => !["resolved", "rejected"].includes(c.status)));
+  $("#pane").innerHTML = `<div class="toolbar">
+      ${[["all", "All"], ["todo", "Needs me"], ["done", "Approved"]].map(([k, t]) => `<button class="chipbtn ${S.sceneFilter === k ? "on" : ""}" data-sf="${k}">${t}</button>`).join("")}
+      <span style="flex:1"></span><button class="btn ok" id="bulk" ${ready.length ? "" : "disabled"}>✓ Approve ${ready.length} scene(s) that passed and have no open comments</button></div>
+    <div class="grid">${shown.map(a => card(a, imagePreview(a), `
+      <div class="meta" style="margin-top:6px">Beat: ${esc(a.info.beat)} · ${Number(a.info.seconds).toFixed(1)} s${a.info.generator ? ` · clip by ${esc(a.info.generator)}` : ""}</div>
+      <div class="prompt" style="margin-top:6px">${esc(a.prompt || "(no picture prompt)")}</div>
+      <details class="more"><summary>Motion and video prompt</summary><div class="prompt">${esc(a.info.motion || "")}</div><div class="prompt" style="margin-top:6px">${esc(a.info.video_prompt || "")}</div></details>`)).join("")
+      || `<div class="empty">${list.length ? "Nothing in this filter." : "No shot plan yet, so no scenes."}</div>`}</div>`;
+  document.querySelector(".toolbar").onclick = e => { const f = e.target.dataset.sf; if (f) { S.sceneFilter = f; paneScenes(); } };
+  const bulk = $("#bulk"); if (bulk) bulk.onclick = async () => {
+    if (!confirm(`Approve ${ready.length} scene stills as they are now? Look at each one first.`)) return;
+    bulk.disabled = true; let n = 0;
+    for (const a of ready) { try { await api(`/api/song/${encodeURIComponent(S.song)}/decision`, {asset: a.id, decision: "approved", version: a.version}); n++; } catch (e) { toast(a.id + ": " + e.message); } }
+    toast(`${n} scene(s) approved`); openSong(S.song, true);
+  };
+}
+function paneStoryboard() {
+  const a = asset("storyboard"), still = {};
+  assetsOf("scenes").forEach(s => still[s.id.slice(6)] = s);
+  const seq = S.data.shots.map((sh, i) => {
+    const sc = still[sh.clip];
+    return `<div class="shot">${sc && sc.files.length ? `<img src="${media(sc.files[0])}?v=${esc(sc.version)}" class="${sh.mirror ? "mirror" : ""}" loading="lazy" alt="">` : `<div class="missing" style="aspect-ratio:16/9;padding:20px">no still</div>`}
+      <div class="b"><span class="num">${i + 1}</span> · ${esc(sh.section)} · ${clock(sh.start)}–${clock(sh.end)} (${(sh.end - sh.start).toFixed(1)} s)
+      <div class="meta">${esc(sh.clip)}${sh.mirror ? " · mirrored" : ""} ${sc ? `<span class="pill s-${sc.state}" style="font-size:10.5px">${esc(STATE_TXT[sc.state])}</span>` : ""}</div></div></div>`;
+  }).join("");
+  $("#pane").innerHTML = card(a, "", `<p class="hint">Approving the storyboard approves the order, timing and story of the whole sequence below. Each scene still is approved on its own in Scenes. If you want scenes reordered or retimed, say which in a comment: the agent proposes the new plan and lists what must be redone.</p>`)
+    + `<h3 style="margin:18px 0 10px">Sequence · ${S.data.shots.length} shots</h3><div class="seq">${seq || `<div class="empty">No shot plan yet.</div>`}</div>`;
+}
+function paneComments() {
+  const list = S.data.comments;
+  const todo = list.filter(c => c.status === "proposed");
+  $("#pane").innerHTML = `<div class="card"><h3>How fixes work</h3><p class="meta">1. You comment or request changes on any asset. 2. On its next run the AI agent reads open comments
+    and proposes a concrete prompt or setting change. 3. You accept or reject it here. 4. The agent regenerates only that asset with the same tool (the old file is kept as a version),
+    re-runs the checks, and the new version waits for your approval. Nothing is ever approved automatically.</p></div>
+    ${todo.length ? `<div class="card"><h3>Waiting for you: ${todo.length} proposed fix(es)</h3>${todo.map(commentHtml).join("")}</div>` : ""}
+    <div class="card"><h3>All comments (${list.length})</h3>${list.map(commentHtml).join("") || `<p class="meta">No comments yet.</p>`}</div>`;
+}
+
+let currentPlatform = "youtube";
+function paneSeo() {
+  const seo = S.data.seo || {};
+  const s = S.song;
+
+  const platforms = [
+    ["youtube", "YouTube 16:9"],
+    ["tiktok", "TikTok 9:16 Vertical"],
+    ["instagram_sq", "Instagram 1:1 Feed"],
+    ["instagram_reels", "Instagram 9:16 Reels"],
+    ["facebook", "Facebook 16:9 & 1:1"],
+    ["bilibili", "Bilibili 16:9"]
+  ];
+
+  let imgA = seo.thumb_a;
+  let imgB = seo.thumb_b;
+  let aspect = "16/9";
+
+  if (currentPlatform === "tiktok") {
+    imgA = seo.tiktok_img_a || seo.thumb_a;
+    imgB = seo.tiktok_img_b || seo.thumb_b;
+    aspect = "9/16";
+  } else if (currentPlatform === "instagram_sq") {
+    imgA = seo.insta_img_a || seo.thumb_a;
+    imgB = seo.insta_img_b || seo.thumb_b;
+    aspect = "1/1";
+  } else if (currentPlatform === "instagram_reels") {
+    imgA = seo.tiktok_img_a || seo.thumb_a;
+    imgB = seo.tiktok_img_b || seo.thumb_b;
+    aspect = "9/16";
+  } else if (currentPlatform === "bilibili") {
+    imgA = seo.bili_img_a || seo.thumb_a;
+    imgB = seo.bili_img_b || seo.thumb_b;
+    aspect = "16/9";
+  } else if (currentPlatform === "facebook") {
+    imgA = seo.fb_img_a || seo.thumb_a;
+    imgB = seo.fb_img_b || seo.thumb_b;
+    aspect = "16/9";
+  }
+
+  const stratA = seo.strategy && seo.strategy.variants && seo.strategy.variants.A || {};
+  const stratB = seo.strategy && seo.strategy.variants && seo.strategy.variants.B || {};
+
+  $("#pane").innerHTML = `
+    <div class="card" style="border-left:4px solid var(--gold)">
+      <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+        <div>
+          <h3 style="margin:0;font-size:18px">SEO Title: ${esc(seo.title || S.song)}</h3>
+          <div class="meta" style="margin-top:4px">
+            Hook: <b>${esc(seo.hook || 'N/A')}</b> · Search Phrase: <b>${esc(seo.phrase || 'N/A')}</b> · Audience Badge: <b>${esc(seo.thumb_badge || 'बच्चों का भजन')}</b>
+          </div>
+        </div>
+        <div style="flex:1"></div>
+        <button class="btn ok" id="genThumbsBtn">↻ Re-render A/B Thumbnails</button>
+      </div>
+    </div>
+
+    <div style="display:flex;gap:8px;align-items:center;margin:16px 0;flex-wrap:wrap">
+      <span style="font-weight:700;font-size:13px;color:var(--muted)">PLATFORM PREVIEW:</span>
+      ${platforms.map(([k, t]) => `<button class="chipbtn ${currentPlatform === k ? "on" : ""}" data-plat="${k}">${t}</button>`).join("")}
+    </div>
+
+    <div class="two" style="grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px">
+      <!-- Variant A -->
+      <div class="card" style="border:2px solid var(--saffron);background:var(--panel)">
+        <div class="cardhead">
+          <span class="pill" style="background:var(--gold-soft);color:var(--gold);font-weight:800">VARIANT A</span>
+          <b>Bhakti / Emotion Focus</b>
+          <div class="sp"></div>
+          <span class="meta">${stratA.layout || 'Gold text + Saffron badge'}</span>
+        </div>
+        <div style="aspect-ratio:${aspect};max-height:360px;background:#000;border-radius:8px;overflow:hidden;margin:10px 0;display:flex;align-items:center;justify-content:center">
+          ${imgA ? `<a href="${media(imgA)}" target="_blank" style="display:block;width:100%;height:100%"><img src="${media(imgA)}" style="width:100%;height:100%;object-fit:contain" alt="Variant A"></a>` : `<div class="empty">Thumbnail not rendered yet.</div>`}
+        </div>
+        <div style="font-size:13px;margin-top:8px">
+          <div><b>Visual Focus:</b> Large joyful smiling deity face (40-50% frame), direct eye contact, warm golden rim light.</div>
+          <div style="margin-top:4px"><b>Headline:</b> <code>${esc(seo.thumb_big || seo.hook || S.song)}</code> · <b>Badge:</b> <code>${esc(seo.thumb_badge || 'बच्चों का भजन')}</code></div>
+          <div class="agent" style="margin-top:8px;font-size:12px"><b>Hypothesis:</b> Warm emotional bond drives higher CTR on Mobile Home / Browse & Recommendation feeds.</div>
+        </div>
+      </div>
+
+      <!-- Variant B -->
+      <div class="card" style="border:2px solid var(--blue);background:var(--panel)">
+        <div class="cardhead">
+          <span class="pill" style="background:var(--blue-soft);color:var(--blue);font-weight:800">VARIANT B</span>
+          <b>Leela / Miracle Action Focus</b>
+          <div class="sp"></div>
+          <span class="meta">${stratB.layout || 'Radiant yellow + Cyan/Blue badge'}</span>
+        </div>
+        <div style="aspect-ratio:${aspect};max-height:360px;background:#000;border-radius:8px;overflow:hidden;margin:10px 0;display:flex;align-items:center;justify-content:center">
+          ${imgB ? `<a href="${media(imgB)}" target="_blank" style="display:block;width:100%;height:100%"><img src="${media(imgB)}" style="width:100%;height:100%;object-fit:contain" alt="Variant B"></a>` : `<div class="empty">Thumbnail not rendered yet.</div>`}
+        </div>
+        <div style="font-size:13px;margin-top:8px">
+          <div><b>Visual Focus:</b> Dynamic action moment, miraculous feat (dancing on serpent, cosmic Sheshnag, lifting mountain), high tension.</div>
+          <div style="margin-top:4px"><b>Headline:</b> <code>${esc(stratB.headline || (seo.thumb_big + '!'))}</code> · <b>Badge:</b> <code>${esc(stratB.badge || 'जादुई लीला!')}</code></div>
+          <div class="agent" style="margin-top:8px;font-size:12px"><b>Hypothesis:</b> Intense story curiosity ("What happens next?") drives higher Search CTR & video retention (AVD).</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Social Metadata & Copy Sections -->
+    <h3 style="margin:24px 0 12px">📱 Social Media Packages & Copy</h3>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(320px, 1fr));gap:16px">
+      <!-- TikTok Card -->
+      <div class="card">
+        <div class="cardhead">
+          <b>🎵 TikTok (Mandatory 30 Tags)</b>
+          <div class="sp"></div>
+          <button class="btn small ok" data-copy="tiktok">📋 Copy Caption</button>
+        </div>
+        <p class="meta" style="margin-bottom:6px">Rule-compliant: hook first, exactly 30 mandatory tags + niche tags.</p>
+        <textarea id="tiktok_text" readonly style="width:100%;height:130px;font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px">${esc(seo.tiktok_txt || '')}</textarea>
+      </div>
+
+      <!-- Instagram Card -->
+      <div class="card">
+        <div class="cardhead">
+          <b>📸 Instagram (Reels & Feed)</b>
+          <div class="sp"></div>
+          <button class="btn small ok" data-copy="insta">📋 Copy Caption</button>
+        </div>
+        <p class="meta" style="margin-bottom:6px">Aesthetic devotional copy + engagement question + 30-tag ladder.</p>
+        <textarea id="insta_text" readonly style="width:100%;height:130px;font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px">${esc(seo.insta_txt || '')}</textarea>
+      </div>
+
+      <!-- Facebook Card -->
+      <div class="card">
+        <div class="cardhead">
+          <b>👥 Facebook (Community Post)</b>
+          <div class="sp"></div>
+          <button class="btn small ok" data-copy="fb">📋 Copy Post</button>
+        </div>
+        <p class="meta" style="margin-bottom:6px">Parent discussion hook + video link prompt.</p>
+        <textarea id="fb_text" readonly style="width:100%;height:130px;font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px">${esc(seo.fb_txt || '')}</textarea>
+      </div>
+
+      <!-- Bilibili Card -->
+      <div class="card">
+        <div class="cardhead">
+          <b>📺 Bilibili (哔哩哔哩 16:9)</b>
+          <div class="sp"></div>
+          <button class="btn small ok" data-copy="bili">📋 Copy Info</button>
+        </div>
+        <p class="meta" style="margin-bottom:6px">Simplified Chinese ACG title, cultural synopsis & tags.</p>
+        <textarea id="bili_text" readonly style="width:100%;height:130px;font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px">${esc(seo.bili_txt || '')}</textarea>
+      </div>
+    </div>
+  `;
+
+  document.querySelectorAll("[data-plat]").forEach(b => {
+    b.onclick = () => {
+      currentPlatform = b.dataset.plat;
+      paneSeo();
+    };
+  });
+
+  document.querySelectorAll("[data-copy]").forEach(b => {
+    b.onclick = () => {
+      const type = b.dataset.copy;
+      const el = document.getElementById(type + "_text");
+      if (el && el.value) {
+        navigator.clipboard.writeText(el.value);
+        toast(`Copied ${type.toUpperCase()} text to clipboard!`);
+      }
+    };
+  });
+
+  const genBtn = $("#genThumbsBtn");
+  if (genBtn) {
+    genBtn.onclick = async () => {
+      toast("Re-rendering thumbnails for " + S.song + "...");
+      genBtn.disabled = true;
+      try {
+        await api(`/api/song/${encodeURIComponent(S.song)}/render_thumbnails`, {});
+        toast("Thumbnails re-rendered!");
+        openSong(S.song, true);
+      } catch (err) {
+        toast("Rendering launched in background: refresh in a few seconds.");
+      }
+    };
+  }
+}
+
+/* ---------------- generated videos tab */
+function paneVideos() {
+  const d = S.data;
+  const vids = d.videos || [];
+  if (!vids.length) {
+    $("#pane").innerHTML = `
+      <div class="card" style="padding:32px;text-align:center;">
+        <div style="font-size:46px;margin-bottom:12px;">⏳</div>
+        <h3 style="margin:0 0 8px 0;font-size:18px;">No Videos Generated Yet for ${esc(d.song)}</h3>
+        <p class="meta" style="max-width:540px;margin:0 auto 16px;line-height:1.5;">
+          Full music videos and hook cuts are rendered in the final pipeline stage once storyboard stills and scene prompts are completed and approved.
+        </p>
+        <div style="display:inline-flex;gap:14px;background:var(--bg);padding:10px 18px;border-radius:8px;border:1px solid var(--line);font-size:13px;align-items:center;">
+          <span>Storyboard Stills: <b>${(d.assets || []).filter(a => a.section === "storyboard" && a.files.length).length}</b> ready</span>
+          <span>·</span>
+          <span>Gate status: <b>${d.gate && d.gate.open ? "✅ Open for rendering" : "⛔ Checks in progress"}</b></span>
+        </div>
+      </div>`;
+    return;
+  }
+
+  if (S.selectedVideoIdx == null || S.selectedVideoIdx >= vids.length) {
+    S.selectedVideoIdx = vids.findIndex(v => v.is_primary);
+    if (S.selectedVideoIdx < 0) S.selectedVideoIdx = 0;
+  }
+  const cur = vids[S.selectedVideoIdx];
+
+  $("#pane").innerHTML = `
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;flex-wrap:wrap;gap:10px;">
+      <div>
+        <h3 style="margin:0;display:flex;align-items:center;gap:8px;">
+          🎬 Generated Video Player & Library
+          <span class="pill" style="background:#2563eb;color:#fff;font-size:11px;">${vids.length} Available</span>
+        </h3>
+        <span class="meta">Full-length animation cuts, clean masters, and vertical/social hook videos ready to review & publish.</span>
+      </div>
+      <div style="display:flex;gap:8px;">
+        <a href="${cur.url}" download="${esc(cur.filename)}" class="btn" style="text-decoration:none;">⬇ Download MP4 (${cur.size_mb} MB)</a>
+        <a href="${cur.url}" target="_blank" class="btn" style="text-decoration:none;">↗ Open in Tab</a>
+      </div>
+    </div>
+
+    <!-- Active Video Player -->
+    <div class="card" style="padding:0;overflow:hidden;background:#000;margin-bottom:20px;">
+      <video id="main-vid-player" controls playsinline preload="metadata" style="width:100%;max-height:580px;display:block;background:#000;" src="${cur.url}">
+        Your browser does not support HTML5 video.
+      </video>
+      <div style="padding:14px 18px;display:flex;align-items:center;justify-content:space-between;background:var(--panel);border-top:1px solid var(--line);flex-wrap:wrap;gap:10px;">
+        <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+          <b>${esc(cur.label)}</b>
+          <span class="pill" style="background:${cur.has_logo ? '#059669' : '#4b5563'};color:#fff;font-size:11px;">${cur.has_logo ? '★ BRAND LOGO' : 'CLEAN MASTER'}</span>
+          <span class="pill" style="background:#3b82f6;color:#fff;font-size:11px;">ENGINE: ${esc(cur.generator.toUpperCase())}</span>
+          <span class="meta">${cur.size_mb} MB · <code>${esc(cur.filename)}</code></span>
+        </div>
+        <div class="meta" style="font-size:12px;">Rendered: ${esc(cur.mtime)}</div>
+      </div>
+    </div>
+
+    <!-- Video Selector Cards -->
+    <div style="margin-bottom:14px;">
+      <h4 style="margin:0 0 10px 0;font-size:15px;">Choose Video Version to Preview:</h4>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(290px, 1fr));gap:12px;">
+        ${vids.map((v, idx) => `
+          <div class="card vid-select-card" style="margin:0;padding:12px;cursor:pointer;border:${idx === S.selectedVideoIdx ? '2px solid var(--gold)' : '1px solid var(--line)'};background:${idx === S.selectedVideoIdx ? 'var(--gold-soft)' : 'var(--panel)'};border-radius:10px;transition:all 0.15s;" data-vidx="${idx}">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
+              <span class="pill" style="background:${v.kind === 'full' ? '#2563eb' : '#7c3aed'};color:#fff;font-size:10px;">${v.kind === 'full' ? 'FULL VIDEO' : 'HOOK CUT'}</span>
+              ${v.has_logo ? '<span class="pill" style="background:#059669;color:#fff;font-size:10px;">LOGO</span>' : '<span class="pill" style="background:#6b7280;color:#fff;font-size:10px;">CLEAN</span>'}
+              <span class="meta" style="font-weight:700;">${v.size_mb} MB</span>
+            </div>
+            <div style="font-weight:600;font-size:13px;margin-bottom:4px;word-break:break-all;">${esc(v.filename)}</div>
+            <div class="meta" style="font-size:11px;margin-bottom:10px;">${esc(v.label)}</div>
+            <button class="btn small ${idx === S.selectedVideoIdx ? 'ok' : ''}" style="width:100%;pointer-events:none;">
+              ${idx === S.selectedVideoIdx ? '▶ Currently Playing' : '▶ Switch to this Video'}
+            </button>
+          </div>
+        `).join("")}
+      </div>
+    </div>
+  `;
+
+  document.querySelectorAll(".vid-select-card").forEach(el => {
+    el.onclick = () => {
+      S.selectedVideoIdx = parseInt(el.dataset.vidx, 10);
+      paneVideos();
+    };
+  });
+}
+
+/* ---------------- events */
+document.addEventListener("click", async e => {
+  const t = e.target.closest("button"); if (!t || !S.data) return;
+  const song = encodeURIComponent(S.song);
+  try {
+    if (t.dataset.approve) {
+      const a = asset(t.dataset.approve);
+      if (a.findings.some(f => f.level === "warn") && !confirm("This version has warnings. Approve it anyway?")) return;
+      await api(`/api/song/${song}/decision`, {asset: a.id, decision: "approved", version: a.version});
+      toast("Approved"); return openSong(S.song, true);
+    }
+    if (t.dataset.changes || t.dataset.comment) {
+      const id = t.dataset.changes || t.dataset.comment;
+      S.form = {asset: id, kind: t.dataset.changes ? "changes" : "comment", region: null};
+      ({audio: paneAudio, character: paneCharacter, scenes: paneScenes, storyboard: paneStoryboard})[S.tab]();
+      const f = document.querySelector(`form[data-asset="${CSS.escape(id)}"] textarea`); if (f) f.focus();
+      return;
+    }
+    if (t.hasAttribute("data-cancel")) { S.form = null; return renderSong(); }
+    if (t.hasAttribute("data-now")) {
+      const p = document.querySelector("audio[data-file]"); const inp = t.closest("form").querySelector("[name=at_time]");
+      if (p && inp) inp.value = p.currentTime.toFixed(1); return;
+    }
+    if (t.dataset.cs) {
+      await api(`/api/song/${song}/comment-status`, {comment: t.dataset.c, status: t.dataset.cs});
+      toast({accepted: "Fix accepted: the agent regenerates on its next run", open: "Back to open", resolved: "Resolved"}[t.dataset.cs] || "Saved");
+      return openSong(S.song, true);
+    }
+    if (t.dataset.restore) {
+      if (!confirm(`Put ${t.dataset.v} back as ${t.dataset.restore}? The current file is kept as a version.`)) return;
+      S.data = await api(`/api/song/${song}/restore`, {file: t.dataset.restore, version: t.dataset.v});
+      toast("Restored: it needs checks and approval again"); return renderSong();
+    }
+  } catch (err) { toast(err.message, 4500); if (/changed since/.test(err.message)) openSong(S.song, true); }
+});
+document.addEventListener("submit", async e => {
+  const f = e.target.closest("form.cform"); if (!f) return; e.preventDefault();
+  const a = asset(f.dataset.asset), v = Object.fromEntries(new FormData(f));
+  const body = {asset: a.id, version: a.version, text: v.text, category: v.category, severity: v.severity, suggestion: v.suggestion || "",
+    at_time: v.at_time || null, region: S.form && S.form.region || null};
+  if (v.prompt !== undefined && v.prompt.trim() !== (a.prompt || "").trim()) body.prompt = v.prompt;
+  try {
+    await api(`/api/song/${encodeURIComponent(S.song)}/comment`, body);
+    if (S.form.kind === "changes") await api(`/api/song/${encodeURIComponent(S.song)}/decision`, {asset: a.id, decision: "changes_requested", version: a.version, note: v.text.slice(0, 200)});
+    toast(body.prompt ? "Saved: your prompt edit is queued for the agent" : "Saved: the agent will propose a fix next run");
+    S.form = null; openSong(S.song, true);
+  } catch (err) { toast(err.message, 4500); }
+});
+/* drag a box on a picture to mark the problem area */
+let drag = null;
+document.addEventListener("mousedown", e => {
+  const w = e.target.closest("[data-draw]"); if (!w || !S.form || S.form.asset !== w.dataset.draw) return;
+  e.preventDefault(); const r = w.getBoundingClientRect();
+  drag = {w, r, x0: (e.clientX - r.left) / r.width, y0: (e.clientY - r.top) / r.height};
+});
+document.addEventListener("mousemove", e => {
+  if (!drag) return; const {r, x0, y0} = drag;
+  const x1 = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width)), y1 = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
+  S.form.region = {x: Math.min(x0, x1), y: Math.min(y0, y1), w: Math.abs(x1 - x0), h: Math.abs(y1 - y0)};
+  let b = drag.w.querySelector(".box:not(.old)"); if (!b) { b = document.createElement("div"); b.className = "box"; drag.w.append(b); }
+  b.setAttribute("style", boxStyle(S.form.region));
+});
+document.addEventListener("mouseup", () => { if (drag && S.form.region && S.form.region.w < 0.01) S.form.region = null; drag = null; });
+
+/* ---------------- start */
+async function start() {
+  if (location.protocol === "file:") {
+    document.querySelector("#app").outerHTML = `<div class="offline"><h2>Start the review server first</h2>
+      <p>This page saves your comments and approvals into each bhajan's <code>review</code> folder, so it needs its small local server.</p>
+      <p>Double-click <code>nepalirhymehub\\pipeline_server.bat</code>, or run:</p>
+      <p><code>cd D:\\claude_project\\subu-os</code><br><code>python -m subu.musicvideo review serve --port 8767 --channel nepali-rhyme-hub</code></p>
+      <p>then open <a href="http://127.0.0.1:8767/">http://127.0.0.1:8767/</a></p></div>`;
+    $("#conn").textContent = "offline"; return;
+  }
+  try { S.songs = await api("/api/songs"); $("#conn").textContent = `${S.songs.length} bhajans`; }
+  catch (e) { $("#conn").textContent = "server not reachable"; return; }
+  renderSongs();
+  let last = decodeURIComponent(location.hash.slice(1)); if (!last) { try { last = localStorage.getItem("gk-song") || ""; } catch (e) {} }
+  if (S.songs.some(s => s.slug === last)) openSong(last);
+}
+start();
+</script>
+</body>
+</html>

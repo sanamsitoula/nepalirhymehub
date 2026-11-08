@@ -1,0 +1,102 @@
+🌧️ झम झम पानी — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Umbrellas on the hill path
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a winding hill path between mustard fields, the three friends walk under a red and a yellow umbrella, skipping in rhythm.
+
+**CAMERA:** side tracking shot → slow push-in
+**ANIMATION:** skipping steps, swaying umbrellas
+
+---
+## SCENE 2 — Hens run home
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Village hens and chicks hurry under a wooden granary as soft rain begins; Aarya laughs and helps the last chick in.
+
+**CAMERA:** low close-up of the chicks → medium on Aarya
+**ANIMATION:** chicks scurrying, Aarya guiding gently
+
+---
+## SCENE 3 — Splash circle by the tap
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+At the stone village water spout (dhunge dhara), the children stomp in shallow water in a circle, holding hands.
+
+**CAMERA:** overhead circle shot → low angle
+**ANIMATION:** stomping, splashes in slow motion
+
+---
+## SCENE 4 — Boats on the river bank
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+At a calm shallow river edge with smooth pebbles, Aarav floats a paper boat while Aarya holds his hand safely; Puntu watches from a rock.
+
+**CAMERA:** wide river shot → follow the boat
+**ANIMATION:** boat drifting, ripples, safe hand-holding
+
+---
+## SCENE 5 — Leaf umbrella
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In a forest of lali gurans, Puntu holds a giant leaf as an umbrella over his head and dances on a mossy log.
+
+**CAMERA:** close-up on Puntu → pull back to the forest
+**ANIMATION:** leaf bouncing, drops rolling off
+
+---
+## SCENE 6 — Rice fields drink the rain
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Close view of rice seedlings in a terraced field, raindrops landing on them and the plants stretching up happily.
+
+**CAMERA:** macro on seedlings → slow tilt up to the terraces
+**ANIMATION:** plants swaying, water shimmering
+
+---
+## SCENE 7 — Drying off by the fire
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In the kitchen, grandmother towels Aarav's hair by a warm clay stove while Aarya giggles; rain sound outside.
+
+**CAMERA:** medium warm interior → close on smiling faces
+**ANIMATION:** towel rubbing, steam, soft firelight
+
+---
+## SCENE 8 — Snail on the window
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A tiny friendly snail slides on the wet window ledge as the light turns golden; Aarya watches with wonder.
+
+**CAMERA:** macro on the snail → rack focus to Aarya's face
+**ANIMATION:** slow snail glide, golden light
+
+---
+## SCENE 9 — Village children join the rainbow dance
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In the village square with a small pagoda temple, many children in colourful clothes dance around Aarav and Aarya under the rainbow.
+
+**CAMERA:** wide square → slow orbit around the dancers
+**ANIMATION:** joyful jumping, clapping
+
+---
+## SCENE 10 — Rainbow reflection in the puddle
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A big puddle reflects the rainbow; the three friends jump into the frame together for one happy splash.
+
+**CAMERA:** low angle on the puddle → slow-motion jump
+**ANIMATION:** slow-motion splash, colours rippling

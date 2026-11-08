@@ -1,0 +1,217 @@
+🪔 झिलिमिली भैलो (Kathmandu Valley Tihar night) — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, NIGHT of Tihar / Deepawali in the Kathmandu Valley: thousands of warm diyo oil lamps, strings of golden fairy lights, marigold garlands, glowing rangoli, deep blue night sky with soft stars, warm orange-gold lamplight on faces, distant gentle fireworks only far away in the sky. Real Kathmandu Valley heritage architecture drawn with respect and accuracy: Newar pagoda temples, carved wooden windows, brick courtyards, stone steps. Rich saturated festive colours (marigold orange, deep blue, gold, magenta), smooth gentle camera, soft depth of field, joyful and safe, 16:9 widescreen, 1080p, 30fps look, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarya (आर्या) — the lead, a 7-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids with red ribbons, a red-and-gold gunyo cholo, a small marigold garland. Aarav (आरभ) — a 7-year-old Nepali boy, round face, red-and-black dhaka topi, mustard kurta with a blue vest. Puntu (पुन्टु) — a baby red panda with a ringed tail and a small green scarf. Their FRIENDS are children of Nepal's many communities, always shown together, happy and equal: a Newar girl in a black haku patasi sari with a red border, a Gurung boy in a white bhoto and ghalek, a Sherpa girl in a chuba with a striped apron, a Tamang boy in a woven jacket, a Tharu girl in a bright embroidered dress with beads, a Maithili girl in a colourful lehenga with Mithila-pattern shawl, a Rai-Limbu girl in a dhaka cholo and mekhli, a Magar boy in a kachhad and bhoto. Keep Aarya, Aarav and Puntu identical in every scene; clothing of each community friend stays the same in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera. No cremation scenes, no smoke from burning ghats, no firecrackers in children's hands, no crowds pushing.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft deep-blue background with a few glowing diyo lamps: Aarya in front, Aarav and Puntu beside her, and their eight community friends in a happy row behind, full body, front view, smiling. Aarya (आर्या) — the lead, a 7-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids with red ribbons, a red-and-gold gunyo cholo, a small marigold garland. Aarav (आरभ) — a 7-year-old Nepali boy, round face, red-and-black dhaka topi, mustard kurta with a blue vest. Puntu (पुन्टु) — a baby red panda with a ringed tail and a small green scarf. Their FRIENDS are children of Nepal's many communities, always shown together, happy and equal: a Newar girl in a black haku patasi sari with a red border, a Gurung boy in a white bhoto and ghalek, a Sherpa girl in a chuba with a striped apron, a Tamang boy in a woven jacket, a Tharu girl in a bright embroidered dress with beads, a Maithili girl in a colourful lehenga with Mithila-pattern shawl, a Rai-Limbu girl in a dhaka cholo and mekhli, a Magar boy in a kachhad and bhoto. Keep Aarya, Aarav and Puntu identical in every scene; clothing of each community friend stays the same in every scene. Premium 3D animated-film render, warm lamp light, crisp details, no text, no logo. 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — Kathmandu Valley glows
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+Aerial night view of the whole Kathmandu Valley glittering with thousands of Tihar lights, the lit Swayambhunath stupa on its hill, moonlit Himalaya far beyond; the camera dives toward Kathmandu Durbar Square where Aarya throws up her arms and shouts happily.
+
+**CAMERA:** high aerial glide across the valley → fast-but-smooth dive into Durbar Square → medium on Aarya
+**ANIMATION:** lights twinkling, gentle far fireworks, Aarya's shout
+
+---
+## SCENE 2 — Sparkle chant on the Maju Dega steps
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+Aarya stands on the tiered brick steps of the Maju Dega temple in Kathmandu Durbar Square, every step lined with diyos; she shakes a small brass bell and children of all communities come running from every lane.
+
+**CAMERA:** low angle up the lamp-lit steps → wide as the children run in
+**ANIMATION:** bell shaking, flames flicker, children running
+
+---
+## SCENE 3 — Children of every community dance
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+In Basantapur square, Aarya and her friends (Newar, Gurung, Sherpa, Tamang, Tharu, Maithili, Rai-Limbu and Magar children in their own clothes) dance in a big circle around a glowing marigold rangoli, hands joined.
+
+**CAMERA:** overhead circle → low orbit around the dancers
+**ANIMATION:** circle dance, skirts twirling, garlands swinging
+
+---
+## SCENE 4 — Patan Krishna Mandir aglow
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+Patan Durbar Square at night: the stone shikhara of Krishna Mandir outlined with hundreds of diyos; the children clap and spin on the stone platform in front of it.
+
+**CAMERA:** wide square → slow push-in to the clapping children
+**ANIMATION:** clapping, spins, lamp reflections on stone
+
+---
+## SCENE 5 — Laxmi's red footprints in a Newar home
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Inside a Newar house in Asan with carved wooden windows, a mother paints small red footprints of Goddess Laxmi from the doorstep to the puja room; Aarya and the Newar girl follow them on tiptoe.
+
+**CAMERA:** low floor tracking along the footprints → tilt up to the girls
+**ANIMATION:** brush strokes, tiptoe steps
+
+---
+## SCENE 6 — The puja room glows
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+A warm puja room: a gentle, respectful golden statue of Goddess Laxmi on a lotus, kalash, rice, fruit, flowers and many diyos; the family folds hands, the children smile.
+
+**CAMERA:** slow dolly-in to the altar
+**ANIMATION:** lamps glowing, incense curling, folded hands
+
+---
+## SCENE 7 — The whole city lights up
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+Rooftops of old Kathmandu at night as strings of golden lights switch on street after street toward Patan; the children wave from a rooftop with prayer-flag-free festive garlands.
+
+**CAMERA:** rooftop wide → slow pan across the switching lights
+**ANIMATION:** lights rolling across the city
+
+---
+## SCENE 8 — Nyatapola under the lights
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+Bhaktapur's five-tiered Nyatapola temple in Taumadhi square, each tier and its stone guardian steps lined with diyos; the children dance a happy step on the square below.
+
+**CAMERA:** low angle up the five tiers → wide on the dancers
+**ANIMATION:** flames shimmering, dance steps
+
+---
+## SCENE 9 — Bhailo at a Bhaktapur door
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+The bhailo girls sing at a carved Bhaktapur doorway; a smiling grandmother listens and holds a brass plate of sel roti, bananas, oranges and laddu.
+
+**CAMERA:** medium group → close on grandmother's smile
+**ANIMATION:** singing, plate held out
+
+---
+## SCENE 10 — Sharing on the temple steps
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+On the brick steps of a Bhaktapur temple, the friends share warm sel roti and orange slices, giving the first piece to the smallest Sherpa girl.
+
+**CAMERA:** close on hands sharing → medium
+**ANIMATION:** breaking roti, laughing
+
+---
+## SCENE 11 — Dhime and madal in Indra Chowk
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+In lamp-lit Indra Chowk, a Newar dhime drummer and a madal player play together while the children of all communities dance in a long line under golden lights.
+
+**CAMERA:** wide → side tracking along the line
+**ANIMATION:** drumming, line dance
+
+---
+## SCENE 12 — Asan flower market
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+Asan's night market with heaps of orange sayapatri and purple makhamali garlands; the children skip through holding parents' hands and Puntu wears a garland.
+
+**CAMERA:** following shot through the stalls
+**ANIMATION:** skipping, garlands swaying
+
+---
+## SCENE 13 — Kag Tihar on a Patan rooftop
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+Golden dawn on a Patan rooftop, Himalaya in the distance: Aarya and the Tamang boy set rice on a leaf plate for a crow on the parapet.
+
+**CAMERA:** tilt up to the crow → wide with the mountains
+**ANIMATION:** crow pecking, sunrise light
+
+---
+## SCENE 14 — Kukur Tihar friend
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+On a Kathmandu lane a friendly street dog wears a marigold garland and red tika; the Newar boy and Tharu girl give it a piece of sel roti from an open palm.
+
+**CAMERA:** low close-up on the dog → two-shot of the children
+**ANIMATION:** tail wagging, gentle eating
+
+---
+## SCENE 15 — Gai Tihar blessing
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+In a temple courtyard a gentle cow with a garland and tika eats fresh green grass offered by the Maithili girl and Aarav.
+
+**CAMERA:** side medium → close on the cow's calm face
+**ANIMATION:** chewing, garland moving
+
+---
+## SCENE 16 — Changu Narayan on its hill
+**Section:** Chorus 3
+
+**IMAGE + VIDEO PROMPT:**
+The ancient Changu Narayan temple on its hilltop, roofs and stone carvings outlined by diyos; the children dance in its courtyard with the valley lights glittering below.
+
+**CAMERA:** wide over the courtyard → crane up to the valley lights
+**ANIMATION:** dancing, lights below
+
+---
+## SCENE 17 — Pashupatinath's golden roof across the river
+**Section:** Bridge
+
+**IMAGE + VIDEO PROMPT:**
+Quiet: seen from across the Bagmati river at night, the golden roof of Pashupatinath temple glows; the children sit on the far bank holding diyos, whispering.
+
+**CAMERA:** slow wide push-in, then hold
+**ANIMATION:** flames, gentle river shimmer
+
+---
+## SCENE 18 — Whisper game at the window
+**Section:** Bridge
+
+**IMAGE + VIDEO PROMPT:**
+Aarya sets diyos on a carved wooden window ledge overlooking the valley lights and whispers a question to her friends, who whisper back.
+
+**CAMERA:** close two-shot → over-shoulder to the valley
+**ANIMATION:** whispers, small flames
+
+---
+## SCENE 19 — Basantapur explodes with joy
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+Basantapur square full of dancing children of every community, marigold petals in the air, the white Dharahara tower glowing in the distance, far-away fireworks blooming softly in the sky.
+
+**CAMERA:** low angle → crane up over the crowd
+**ANIMATION:** everyone dancing, petals falling
+
+---
+## SCENE 20 — Goodnight, glowing valley
+**Section:** Outro
+
+**IMAGE + VIDEO PROMPT:**
+The friends wave goodbye on a rooftop; the camera rises to the whole glowing Kathmandu Valley under the stars.
+
+**CAMERA:** medium wave → slow aerial pull back
+**ANIMATION:** waving, lights twinkling

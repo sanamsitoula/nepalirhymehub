@@ -1,0 +1,110 @@
+🪔 ए भैली! ए भैली! — E BHAILI E BHAILI | BHAILO SONG NEPALI 2083 | TIHAR SPECIAL
+Nepali Rhyme Hub (नेपाली राइम हब) | नेपाली बालगीत | original song, lyrics and melody (2026-11-07)
+
+Core Direction
+
+Genre: Modern Nepali Bhailo folk with live madal, sarangi and a girls' village chorus
+Tempo: 100 BPM
+Taal: 6/8 swinging Nepali folk groove on madal, jhyali and claps
+Length: 3:00
+Key: A Major
+Lead voice: a sweet, playful 7-8 year old Nepali girl (a real child voice, never an adult imitating one); girls' chorus answers
+Lesson: Laxmi Puja night: Bhailo from house to house, Laxmi's footprints, diyo, marigold garlands, kindness to crows, dogs and cows, sharing
+Mood: madal burst → evening Laxmi Puja → house to house with blessings → animals of Tihar → one diyo each, silence → whole village dance
+
+THE NEW WAY: The call "ए भैली! ए भैली!" stays; the children's answer grows: है! है! भैली! → दियो बल्यो! → सेलरोटी! → शुभ तिहार! Hindu details checked (Tihar 2083 = Nov 7-11, 2026): Kag Tihar (crows fed rice), Kukur Tihar (dogs get a garland, tika and food), Gai Tihar + Laxmi Puja on Kartik Aunsi (cow worshipped, house plastered with cow dung, red footprints of Laxmi from the door to the puja room, diyo lamps; girls sing Bhailo), Govardhan Puja / Goru Tihar (Krishna lifted Govardhan to shelter Gokul; oxen worshipped; boys sing Deusi), Bhai Tika. Vegetarian only: sel roti, fruit, rice, nuts. The line हरियो गोबरले लिपेको, लक्ष्मी पूजा गरेको is the traditional Bhailo opening phrase (folk, public domain); every other line is new.
+
+How it must sound:
+- No long intro: madal pattern and the girl's shout in the first 3 seconds;
+- sarangi and bansuri answer every call;
+- slow, soft verses and explosive choruses;
+- the bridge is the girl alone with sarangi, one bar of silence, then a madal pickup;
+- the final chorus is the whole village singing.
+
+🎧 FLOW MUSIC MASTER MUSIC PROMPT
+
+Highly memorable, authentic Nepali Tihar Bhailo folk song for children, 100 BPM, swinging 6/8 Nepali folk groove, A major. Deep, prominent live acoustic madal, sarangi, bansuri, soft harmonium, jhyali and hand claps. A real 7-8 year old Nepali girl sings the lead, sweet and playful; a group of Nepali children answers loudly in rhythm. The hook "ए भैली! ए भैली! / है! है! भैली!" is the signature melody: a very simple 4-bar tune with strong accents. Slow, soft verses and explosive dance choruses. Leave space between phrases and let the madal answer between lines. Sing in NEPALI (नेपाली), with clear Nepali pronunciation, not Hindi. Short lines, sung clearly and unhurried with a big smile. Verse 1 is light with no madal. The bridge drops all drums to a soft melody instrument, then one bar of silence, then the biggest, happiest final chorus with everyone. Major key, organic mix with headroom, no clipping. Do NOT copy any existing melody, lyrics or recording.
+
+Sing EVERY section below in exactly this order. Do not skip, shorten, reorder, add or rewrite words.
+
+NEGATIVE PROMPT
+sad, sleepy, minor key, dark, scary sounds, thunder crashes, aggressive, adult romance, film-song drama, EDM drops, trap, rock drums, heavy bass, rap, heavy autotune, robotic vocals, classical vocal runs, Hindi pronunciation, English words, crammed singing, adult playback voice, adult female lead, generic Bollywood pop, fast syllables.
+
+ARRANGEMENT MAP (directions for the music — NEVER sing these):
+- Intro: madal explodes at once; the little girl speaks line 1 happily, then shouts lines 2 and 3; Kids sing line 2
+- Chorus 1: full madal; the girl calls, the children answer; Kids sing lines 2, 4
+- Verse 1: soft — sarangi, bansuri and claps, no madal; the girl alone; Kids sing line 4
+- Chorus 2: full madal and jhyali; Kids sing lines 2, 4
+- Verse 2: bouncy, claps and light madal; Kids sing line 4
+- Instrumental: a sarangi and madal dance break, the children shout "है!" on the off-beats
+- Verse 3: playful, claps and bansuri, no madal; Kids sing line 4
+- Chorus 3: full groove, choir bigger; Kids sing lines 2, 4
+- Bridge: no drums, only the girl, sarangi and soft harmonium; then ONE BAR OF SILENCE, then a madal pickup; Kids sing line 4
+- Final Chorus: everything, the whole village chorus, a little higher, the biggest moment; Kids sing lines 2, 4; All sing line 5
+- Outro: the girl softly, a last madal roll; Kids sing line 2
+- Every other line: the little girl
+- Every other line: the lead singer
+
+Words in [square brackets] are section names, never words to sing. Sing ONLY the Nepali lines exactly as written. Do not sing any English, any singer name, any instrument name or any direction.
+
+🎼 FULL LYRICS
+
+[Intro]
+साथीहरू, आज हामी भैलो खेलौँ!
+धिन ता ना! धिन ता ना!
+ए भैली! ए भैली!
+
+[Chorus 1]
+ए भैली! ए भैली!
+है! है! भैली!
+मादल बज्यो आँगनमा!
+नाचौँ सबै छमाछम!
+
+[Verse 1]
+हरियो गोबरले लिपेको, लक्ष्मी पूजा गरेको
+लक्ष्मीका रातो पाइला
+सयपत्रीको माला सजायौँ
+भैलो! भैलो!
+
+[Chorus 2]
+ए भैली! ए भैली!
+दियो बल्यो! दियो बल्यो!
+मादल बज्यो आँगनमा!
+झिलिमिली झिलिमिली!
+
+[Verse 2]
+घरघरमा आशीष गायौँ
+हजुरआमाले सेलरोटी दिनुभयो
+फलफूलको थाल लियौँ
+धन्यवाद हजुरआमा!
+
+[Instrumental]
+
+[Verse 3]
+कागलाई भात दियौँ, कुकुरलाई फूलमाला
+गाई आमालाई टीका लायौँ
+सबै जीवलाई माया गरौँ
+माया! माया!
+
+[Chorus 3]
+ए भैली! ए भैली!
+सेलरोटी! सेलरोटी!
+मादल बज्यो आँगनमा!
+मीठो मीठो तिहार!
+
+[Bridge]
+एउटा दियो आमालाई, एउटा बुबालाई
+एउटा दियो साथीलाई
+लक्ष्मी आमा, आउनुहोस्
+सबैको घर उज्यालो होस्!
+
+[Final Chorus]
+ए भैली! ए भैली!
+शुभ तिहार! शुभ तिहार!
+मादल बज्यो आँगनमा!
+नाचौँ सारा गाउँमा!
+ए भैली! ए भैली! है! है! भैली!
+
+[Outro]
+सबैको मनमा माया होस्
+शुभ तिहार! फेरि भेटौँला!

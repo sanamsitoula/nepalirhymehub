@@ -1,0 +1,246 @@
+# Nepali Rhyme Hub — Flagship Modern Rhyme (v1, 2026)
+# Project: hamro_sahar_nepal_yatra
+# Title: हाम्रो सहर, हाम्रो देश! (Hamro Sahar, Hamro Desh)
+# Production Standard: 20-Scene 3D CGI Cinematic Storyboard (Pixar/Disney Stylized 4K)
+# Character Bible Reference: D:\claude_project\nepalirhymehub\characters_modern_universe.md
+
+================================================================================
+SCENE 01 | [0:00 - 0:08] | THE EXPLOSIVE OPENING DROP
+================================================================================
+Location: Kathmandu Modern City Center (Dharahara Plaza & Wide Clean Boulevard)
+Time & Light: Bright crisp morning sunlight, crystal clear Himalayan peaks visible in distant horizon.
+Characters: Aarav (yellow hoodie, LED sneakers), Puntu the baby red panda (mini headphones & green bag), Moti the puppy.
+Visual Description:
+High-energy dynamic low-angle wide shot. Aarav jumps high in the center of a spotless paved pedestrian plaza, giving a joyful high-five to camera. Beside him, Puntu the cute red panda bounces in the air with his tiny madal, while Moti the golden retriever puppy wags his tail excitedly. In the background, a sleek green electric bus (Sajha Yatayat) glides silently past modern solar streetlamps and blooming jacaranda trees.
+Camera: Snappy push-in zoom with slight upward tilt, 30fps smooth motion.
+Color Palette: Electric Marigold, Sky Blue, Fresh Leaf Green.
+Props: Electric bus, solar streetlights, backpack with tech pins.
+
+================================================================================
+SCENE 02 | [0:08 - 0:17] | KATHMANDU E-BUS ADVENTURE
+================================================================================
+Location: Inside & Alongside Kathmandu Green Electric Bus
+Time & Light: Warm diffused morning daylight streaming through clean panoramic bus windows.
+Characters: Aarav, Rhea, and Puntu.
+Visual Description:
+Medium tracking shot alongside the smooth modern electric bus. Through the large glass windows, Aarav points happily toward the cityscape while Rhea holds a colorful illustrated city map. Puntu is seated on a cozy cushioned seat wearing his miniature headphones, nodding his head to the rhythm. Outside the window, modern clean flyovers and green urban parks blur past smoothly.
+Camera: Smooth side tracking shot keeping pace with the bus.
+Color Palette: Clean white, emerald green, warm amber.
+Props: Digital destination display on bus ("सहर यात्रा ०१"), tablet with learning app.
+
+================================================================================
+SCENE 03 | [0:17 - 0:26] | HIGH-TECH SMART CLASSROOM
+================================================================================
+Location: Modern Kathmandu Elementary Science & Coding Lab
+Time & Light: Bright, cheerful indoor classroom lighting, vibrant ergonomic furniture.
+Characters: Aarav, Sneha, and their friendly classroom friends.
+Visual Description:
+Medium wide shot of an innovative children's classroom. Aarav and Sneha are laughing around a colorful modular wooden desk as a small, cute wheeled educational robot with friendly glowing LED eyes dances on the table. Behind them, a large interactive digital smartboard displays animated Nepali alphabets and solar system orbits. Puntu peers playfully over a stack of colorful science books.
+Camera: Slow sweeping arc shot left to right, focusing on the kids' engaged joyful expressions.
+Color Palette: Vibrant cyan, sunshine yellow, warm wood grain.
+Props: Cute mini robot, interactive smartboard, kids tablet, colorful robotics blocks.
+
+================================================================================
+SCENE 04 | [0:26 - 0:42] | DHARAHARA MODERN PLAZA ILLUMINATION
+================================================================================
+Location: Dharahara Tower Plaza, Kathmandu
+Time & Light: Magical sunset golden hour transitioning to dusk, modern fountains lit up with warm golden and blue LED lights.
+Characters: Full Squad (Aarav, Sneha, Tenzing, Rhea, Bikash, Zaid) + Puntu & Moti.
+Visual Description:
+Grand cinematic wide-angle shot. The tall, white modern Dharahara tower rises majestically against a twilight purple sky. In the foreground plaza, colorful interactive water fountains dance rhythmically. All six children in their stylish modern streetwear hold hands in a semi-circle, laughing and doing a synchronized hopping dance step. Moti leaps playfully through a gentle water arc.
+Camera: Crane jib shot rising slowly upward to reveal the grand city plaza and illuminated architecture.
+Color Palette: Twilight Violet, Warm Gold (`#FFD166`), Night Blue (`#14234B`).
+Props: Illuminated interactive floor fountains, glass cafe railings, festive diyo lights.
+
+================================================================================
+SCENE 05 | [0:42 - 0:51] | PATAN ART ALLEY & COBBLESTONE COURTYARD
+================================================================================
+Location: Patan (Lalitpur) Heritage Art District
+Time & Light: Rich late afternoon warm sunlight casting long golden shadows over ancient red-brick walls.
+Characters: Sneha (denim jacket with embroidered lotus, high ponytail).
+Visual Description:
+Medium close-up shot of Sneha standing beside an ornate Newari carved wooden window (*Aakhi Jhyal*). She holds a digital tablet in one hand and a stylus in the other, smiling as she sketches a digital cartoon of a temple rooftop. The historic courtyard is pristinely clean, with hanging potted flower baskets and a sleek modern electric scooter parked neatly beside an ancient stone chaitya.
+Camera: Gentle Dutch angle slow zoom-in on Sneha's creative face and tablet screen.
+Color Palette: Terracotta Red, Denim Blue, Lotus Pink.
+Props: Graphic tablet, carved wooden lattice window, potted petunias, modern e-scooter.
+
+================================================================================
+SCENE 06 | [0:51 - 1:00] | STREET ART MURAL & POTTERY FUSION
+================================================================================
+Location: Pottery Square / Contemporary Art Alley, Bhaktapur & Patan
+Time & Light: Warm amber golden hour.
+Characters: Sneha, Aarav, and local Newari master artisan.
+Visual Description:
+Wide vibrant shot. In the courtyard, traditional clay pots are lined up neatly drying in the sun, while directly on an adjacent courtyard wall, Sneha and Aarav are helping complete a colorful modern public mural showing Nepali children planting trees and flying kites. Puntu sits on a wooden stool, playfully trying to shape a tiny miniature clay cup on a modern electric pottery wheel.
+Camera: Low-angle tracking shot panning across the pottery rows toward the colorful mural.
+Color Palette: Clay Orange, Turquoise, Marigold.
+Props: Electric pottery wheel, clay pots, eco-friendly wall paint cans, mural brushes.
+
+================================================================================
+SCENE 07 | [1:00 - 1:16] | PATAN ROOFTOP CAFE & FRESH SEL-ROTI
+================================================================================
+Location: Modern Rooftop Terrace overlooking Patan Durbar Square
+Time & Light: Golden twilight with warm lantern strings illuminating the terrace.
+Characters: Sneha, Zaid, Aarav, with a friendly modern Nepali mother.
+Visual Description:
+Charming medium shot. A mother in a stylish modern saree serves a brass platter of golden, crispy, steaming-hot freshly made *sel-roti* and colorful fruit slices. Zaid happily accepts a piece with both hands, sharing one with Aarav. In the picturesque background, the multi-tiered pagoda roofs of Krishna Mandir and Patan Durbar are softly lit against the purple dusk sky.
+Camera: Slow push-in tracking shot toward the sharing table, warm and appetizing food close-up.
+Color Palette: Saffron Gold, Cinnamon Brown, Deep Royal Blue.
+Props: Traditional brass thali, steaming sel-roti, fresh apples, modern fairy light strings.
+
+================================================================================
+SCENE 08 | [1:16 - 1:25] | POKHARA LAKESIDE PROMENADE & CYCLING
+================================================================================
+Location: Phewa Lake Promenade, Pokhara
+Time & Light: Pristine crystal morning daylight, sparkling turquoise water, blue sky.
+Characters: Tenzing (puffer vest, beanie) and Bikash (track jacket, bicycle).
+Visual Description:
+Wide energetic tracking shot. Along the smooth stone promenade lined with blooming bougainvillea, Bikash rides his sleek neon-orange bicycle with a safety helmet, ringing his bell cheerily (*टिनटिन!*). Beside him on the wide paved track, Tenzing cruises smoothly on his compact skateboard, smiling with wind in his hair. In the backdrop, colorful wooden and electric boats bob gently on the clear lake.
+Camera: Low tracking forward shot gliding ahead of the bike and skateboard.
+Color Palette: Lake Turquoise, Bougainvillea Magenta, Neon Orange.
+Props: Mountain bike, cruiser skateboard with endless knot stickers, lake railings.
+
+================================================================================
+SCENE 09 | [1:25 - 1:34] | ELECTRIC PEDAL BOATS ON PHEWA LAKE
+================================================================================
+Location: Center of Fewa Lake, Pokhara
+Time & Light: Bright mid-morning sun casting a mirror reflection of Mount Machhapuchhre (Fishtail) on calm water.
+Characters: Tenzing, Rhea, and Puntu.
+Visual Description:
+Serene and joyful medium wide shot. Tenzing and Rhea ride in a modern solar-electric swan pedal boat wearing bright orange child-size lifejackets. They pedal smoothly across the mirror-like lake surface. In the glassy reflection below and the sky above, the snow-capped peak of Machhapuchhre looms in breathtaking majesty. Colorful paragliders drift like rainbow petals high in the blue sky.
+Camera: Smooth 360-degree orbital rotation around the pedal boat.
+Color Palette: Snow White, Sky Azure, Lake Emerald, Lifejacket Orange.
+Props: Solar-powered pedal boat, life vests, distant paragliders.
+
+================================================================================
+SCENE 10 | [1:34 - 1:50] | PEACE PAGODA SUNSET & TUNGNA MELODY
+================================================================================
+Location: World Peace Pagoda (Shanti Stupa) Hilltop, Pokhara
+Time & Light: Breathtaking crimson and gold sunset over the Annapurna mountain range.
+Characters: Tenzing, Aarav, and Puntu.
+Visual Description:
+Hero shot. On the pristine white marble plaza of the World Peace Pagoda, Tenzing sits cross-legged on a bench playing a sweet acoustic mountain melody on a miniature *tungna* string instrument. Aarav taps along on his knees, while Puntu watches in awe. Behind them, Buddhist prayer flags (*lungta*) flutter in the breeze, backlit by the blazing orange-pink sunset over the entire Himalayan range.
+Camera: Wide cinematic slow push-out showing the vast mountain vista and hilltop stupa.
+Color Palette: Sunset Crimson, Gold Leaf, Pristine White, Prayer Flag Colors.
+Props: Miniature tungna, prayer flags, marble bench.
+
+================================================================================
+SCENE 11 | [1:50 - 1:59] | MODERN JANAKPUR RAILWAY ARRIVAL
+================================================================================
+Location: Janakpurdham Modern Train Station
+Time & Light: Bright, sunny afternoon, shimmering blue sky.
+Characters: Rhea (green dungarees with Mithila peacock print) and Zaid (blue vest, white shirt).
+Visual Description:
+High-energy dynamic shot. A modern, sleek red-and-blue passenger train (*छुकछुक!*) pulls smoothly into the clean station platform. The station walls are covered in magnificent, modern large-scale Mithila folk art murals featuring peacocks, fish, and sun god motifs painted in vivid natural pigments. Rhea hops down from the platform bench, waving her hand excitedly at the arriving train.
+Camera: Fast-paced forward dolly shot moving parallel to the slowing train engine.
+Color Palette: Mithila Ochre, Peacock Blue, Bright Scarlet, Crisp White.
+Props: Modern train locomotive, painted platform walls, station clock.
+
+================================================================================
+SCENE 12 | [1:59 - 2:08] | JANAKI MANDIR PALACE & STARGAZING
+================================================================================
+Location: Janaki Mandir Marble Courtyard, Janakpur
+Time & Light: Twilight magic hour, palace arches illuminated in warm golden lights.
+Characters: Rhea and Zaid.
+Visual Description:
+Enchanting medium wide shot. The grand, multi-domed Janaki Mandir palace glows like an intricate fairytale castle behind them. On the clean white marble terrace, Rhea looks eagerly through a modern brass portable telescope pointed up at the early evening stars. Zaid points excitedly toward a bright shooting star in the clear Terai night sky.
+Camera: Gentle low-to-high crane sweep framing the kids against the illuminated marble palace domes.
+Color Palette: Ivory White, Palace Gold, Starlight Navy.
+Props: Portable telescope, star chart map, architectural palace domes.
+
+================================================================================
+SCENE 13 | [2:08 - 2:24] | GANGA SAGAR LAKE EVENING AARTI & DIYOS
+================================================================================
+Location: Ganga Sagar Ghats, Janakpurdham
+Time & Light: Deep dusk with hundreds of glowing oil lamps (*diyos*) and decorative lanterns.
+Characters: Rhea, Zaid, Sneha, and community children.
+Visual Description:
+Mesmerizing cultural celebration shot. At the wide stone ghats of the holy pond, children and families gently float eco-friendly biodegradable leaf boats with glowing golden candles onto the mirror-like water. The entire water surface ripples with thousands of dancing golden reflections. Rhea and Sneha clap their hands in rhythm to the evening bell chimes, smiles glowing warmly in the candlelight.
+Color Palette: Diyo Gold (`#FFD166`), River Black-Blue, Flame Orange.
+Camera: Slow surface-level floating camera gliding past floating lotus lights toward the laughing kids.
+Props: Floating leaf diyos, brass aarti lamps, marigold garland ropes.
+
+================================================================================
+SCENE 14 | [2:24 - 2:33] | CHITWAN ELECTRIC JEEP SAFARI
+================================================================================
+Location: Chitwan National Park Buffer Zone & Grasslands
+Time & Light: Soft golden morning mist lifting over tall elephant grass.
+Characters: Bikash (green track jacket), Aarav, and Puntu.
+Visual Description:
+Exciting nature adventure shot. A modern open-top solar-powered safari electric vehicle cruises quietly along a scenic dirt trail through tall elephant grass and towering sal trees. Bikash stands safely in the passenger seat holding binoculars, pointing with wide eyes of wonder. A gentle, magnificent one-horned Indian rhinoceros with its cute baby grazes peacefully in a dewy meadow just 30 meters away.
+Camera: Smooth tracking shot from in front of the vehicle, panning to reveal the rhino family.
+Color Palette: Jungle Green, Golden Dew, Earth Brown, Rhino Slate-Grey.
+Props: Electric safari jeep, modern binoculars, solar roof panels on jeep.
+
+================================================================================
+SCENE 15 | [2:33 - 2:42] | THARU STICK DANCE (DANDA NACH) WORKSHOP
+================================================================================
+Location: Contemporary Tharu Cultural Eco-Center Courtyard, Sauraha
+Time & Light: Sunny afternoon, shaded by bamboo verandas.
+Characters: Bikash, Tenzing, and young Tharu dancers.
+Visual Description:
+High-energy rhythmic choreography shot. In the clean courtyard of an eco-friendly community center, Bikash and Tenzing join local children holding polished wooden dance sticks (*danda*). In perfect sync, they leap and strike their sticks together with a sharp, satisfying *ठक-ठक!* sound, grinning broadly. Puntu mimics the choreography with two little wooden twigs, making everyone laugh.
+Camera: Fast-moving orbital shot capturing the syncopated stick rhythm and footwork.
+Color Palette: Bamboo Cream, Vibrant Orange, Forest Green.
+Props: Polished dance sticks, bamboo pavilions, handwoven Tharu patterned vests.
+
+================================================================================
+SCENE 16 | [2:42 - 2:58] | BUTWAL SUSPENSION BRIDGE & ECO-CANOPY
+================================================================================
+Location: Modern Pedestrian Suspension Bridge over Tinau River / Butwal Green Hillside
+Time & Light: Bright, breezy late afternoon with lush green hills rolling in the background.
+Characters: Full Squad walking safely together.
+Visual Description:
+Dynamic perspective shot. The kids walk in a happy line across a high modern suspension bridge with safety steel netting, looking down at the sparkling river below. The cool breeze flutters their hair and jackets. Bikash points toward a modern wind turbine and solar farm nestled on the adjacent hill crest, symbolizing clean modern green Nepal.
+Camera: Long-lens push-in compressing the majestic bridge cables and green mountain background.
+Color Palette: Cable Steel-Silver, River Turquoise, Hillside Emerald.
+Props: Suspension bridge cables, distant wind turbines, colorful backpacks.
+
+================================================================================
+SCENE 17 | [2:58 - 3:15] | DHARAN CLOCK TOWER PLAZA B-BOY & FOLK DANCE
+================================================================================
+Location: Dharan Modern Clock Tower Plaza (Bhanu Chowk)
+Time & Light: Vibrant afternoon youth plaza energy, colorful cafe umbrellas.
+Characters: Aarav, Tenzing, Sneha, and local youth dancers.
+Visual Description:
+Urban fusion dance spectacle! In front of the iconic tall modern Dharan Clock Tower, a circle of spectators claps in rhythm. In the center, Tenzing does a stylish one-handed skateboard balance trick, while Aarav does an energetic modern hip-hop pop-and-lock move that seamlessly blends into a traditional Kirat Sakela hopping step! Puntu balances on one paw on a speaker box, eliciting cheers.
+Camera: 360-degree ground-level circular camera sweeping around the energetic dance circle.
+Color Palette: Clock Tower Maroon, Youth Streetwear Brights, Cobalt Sky.
+Props: Portable Bluetooth speaker, modern skateboards, clock tower face, flower planters.
+
+================================================================================
+SCENE 18 | [3:15 - 3:32] | ILAM TEA GARDEN RUN & SAKELA DRUM
+================================================================================
+Location: Kanyam / Ilam Rolling Tea Gardens
+Time & Light: Morning mist rolling across endless terraces of vivid emerald-green tea bushes.
+Characters: Full Squad (all 6 kids) + Puntu & Moti.
+Visual Description:
+Breathtaking landscape action shot. The children run joyfully down a winding stone pathway between perfectly sculpted, lush green tea terraces. A local elder and youth play a large traditional Kirat *Dhol* (drum) and *Jhyamta* (cymbals) at a scenic hilltop gazebo. Fluffy white clouds drift below them in the valley, creating an ethereal paradise of clean nature and youth joy.
+Camera: High-angle drone flyover sweeping down over the tea slopes, tracking the running kids.
+Color Palette: Tea Leaf Emerald (`#2A9D8F`), Mist White, Sunshine Gold.
+Props: Terraced tea rows, traditional Dhol drum, bamboo tea baskets.
+
+================================================================================
+SCENE 19 | [3:32 - 4:06] | NAMCHE BAZAAR SOLAR SCHOOL & HIMALAYAS
+================================================================================
+Location: High-Altitude Eco-School Terrace, Namche Bazaar (3,440m)
+Time & Light: Crystal clear Himalayan mountain daylight, intense blue high-altitude sky.
+Characters: Full Squad with local Sherpa children, wearing colorful down jackets and beanies.
+Visual Description:
+Epic panoramic shot. On the spacious timber deck of a state-of-the-art modern school with large glass solar heating windows, the children gather together. In the direct background, the soaring snow-clad summit of Mount Everest (Sagarmatha) and Ama Dablam pierce the deep azure sky. A proud Nepali double-triangle flag flutters crisply on a polished flagpole. Tenzing and Aarav high-five a local Sherpa schoolmate.
+Camera: Spectacular slow crane-up starting from the smiling children's faces and rising to reveal the full majesty of Mount Everest.
+Color Palette: Glacial White, Deep Alpine Cobalt, Crimson Nepali Flag.
+Props: Solar panels on school roof, fluttering Nepali flag, Everest peak.
+
+================================================================================
+SCENE 20 | [4:06 - 4:48] | GRAND ANTHEMIC FINALE: "हाम्रो सहर, हाम्रो देश!"
+================================================================================
+Location: Panoramic Amphitheater overlooking All of Nepal (Illuminated Modern Plaza)
+Time & Light: Golden celebration hour, confetti falling, warm diyo lights, modern laser stage lighting.
+Characters: The Entire Ensemble: Aarav, Sneha, Tenzing, Rhea, Bikash, Zaid, Puntu the Red Panda, Moti the Puppy, and diverse children from all 7 provinces of Nepal!
+Visual Description:
+The ultimate feel-good climax! On a grand semi-circular stage combining modern glass-and-steel architecture with historic carved wood pagoda motifs, all the children dance in synchronized joyous choreography. They clap (*१-२-३!*), jump, and spin. Golden biodegradable confetti rains down gently. Puntu stands center-stage on a drum, taking a bow with his paws together in *Namaste*, while Moti barks happily and catches confetti in the air.
+The screen radiates pure happiness, national unity, cultural pride, and futuristic hope.
+Camera: Dynamic multi-angle montage: Wide stage sweep -> close-ups of every laughing child -> grand pull-back into a heart-warming starry night sky.
+Color Palette: Brand Master Palette: Night Blue (`#14234B`), Marigold (`#F7A21B`), Diyo Gold (`#FFD166`), Sindoor Crimson (`#C8102E`).
+Props: Golden confetti, decorative modern stage, Nepali Rhyme Hub emblem ribbon in bottom-right corner.

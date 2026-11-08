@@ -1,0 +1,137 @@
+👏 ताली ताली ताली बजाऊ — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, rich saturated colours, bright warm Himalayan daylight, Nepali hill-village production design (terraced fields, carved wooden windows, red-brick and mud-plaster houses, prayer flags, lali gurans rhododendrons, snowy peaks far away), smooth gentle camera, soft depth of field, joyful, safe and calm, 16:9 widescreen, 1080p, 30fps look, clean shapes, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft cream background: Aarav, Aarya and Puntu standing side by side, full body, front view, happy smiles, then small three-quarter views below. Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene. Premium 3D animated-film render, soft studio light, crisp details, no text, no logo, no watermark. Aspect ratio 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — Three claps in the courtyard
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+In a sunny carved-wood village courtyard, Aarav faces the camera and claps three times with a huge grin; Puntu claps his paws beside him.
+
+**CAMERA:** close-up on clapping hands → pull back to both
+**ANIMATION:** three claps, grin, paw claps
+
+---
+## SCENE 2 — Jumping dance on the green
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+On a village green with prayer flags, Aarav, Aarya and children jump and spin with hands up then down.
+
+**CAMERA:** wide → low angle on the jump
+**ANIMATION:** jumps, spins, hands up and down
+
+---
+## SCENE 3 — Butterfly fingers
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Close on Aarya's wiggling fingers which turn into a fluttering butterfly flying off over mustard flowers.
+
+**CAMERA:** macro on fingers → follow the butterfly
+**ANIMATION:** finger wiggle, butterfly flight
+
+---
+## SCENE 4 — Waving from the terrace
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Aarav and Aarya wave both hands from a terraced field edge to a farmer friend far away who waves back.
+
+**CAMERA:** medium two-shot → wide over the terraces
+**ANIMATION:** waving, farmer waving back
+
+---
+## SCENE 5 — Stomping on the drum floor
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+On a wooden courtyard floor, the children stomp their feet together; dust sparkles rise like glitter.
+
+**CAMERA:** low ground-level shot → medium
+**ANIMATION:** stomps, sparkles
+
+---
+## SCENE 6 — Small then tall
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+In a meadow, the children crouch down tiny like mushrooms then spring up tall like trees, arms stretched.
+
+**CAMERA:** wide meadow → low angle as they rise
+**ANIMATION:** crouch, rise, stretch
+
+---
+## SCENE 7 — Puntu's big jump
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+Puntu hops from stone to stone across a calm shallow stream and lands with a happy spin.
+
+**CAMERA:** tracking at stream level → slow-motion landing
+**ANIMATION:** hop, splash, spin
+
+---
+## SCENE 8 — Madal player and dancers
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+At a village festival square, a friendly uncle plays a madal while the three friends dance the Jhyaure step in a row.
+
+**CAMERA:** wide square → slow orbit
+**ANIMATION:** madal hands, dance steps
+
+---
+## SCENE 9 — Shoulders and head wobble
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+Aarya wobbles her shoulders and head comically, blinking big eyes; Aarav copies and they burst out laughing.
+
+**CAMERA:** close two-shot
+**ANIMATION:** wobbles, blinks, laughter
+
+---
+## SCENE 10 — Circle of friends
+**Section:** Chorus 3
+
+**IMAGE + VIDEO PROMPT:**
+Children hold hands in a big circle on a hilltop and step around with room between them, mountains behind.
+
+**CAMERA:** overhead circle → low angle
+**ANIMATION:** circle stepping, hair blowing
+
+---
+## SCENE 11 — Freeze like trees
+**Section:** Bridge
+
+**IMAGE + VIDEO PROMPT:**
+At golden hour in a lali gurans forest, the children breathe slowly, arms out like branches, then freeze completely still, smiling.
+
+**CAMERA:** slow push-in → hold still
+**ANIMATION:** slow breathing, then a complete freeze
+
+---
+## SCENE 12 — Festival dance explosion
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+The freeze breaks: the village square fills with dancing children, marigold petals, prayer flags and the three friends in the middle.
+
+**CAMERA:** wide crane up
+**ANIMATION:** everyone dancing, petals flying

@@ -1,0 +1,137 @@
+🎒 टन टन टन, स्कुलको घण्टी — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, rich saturated colours, bright warm Himalayan daylight, Nepali hill-village production design (terraced fields, carved wooden windows, red-brick and mud-plaster houses, prayer flags, lali gurans rhododendrons, snowy peaks far away), smooth gentle camera, soft depth of field, joyful, safe and calm, 16:9 widescreen, 1080p, 30fps look, clean shapes, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft cream background: Aarav, Aarya and Puntu standing side by side, full body, front view, happy smiles, then small three-quarter views below. Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene. Premium 3D animated-film render, soft studio light, crisp details, no text, no logo, no watermark. Aspect ratio 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — The brass school bell
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+Close-up of a small brass bell hanging at a village school gate; a friendly old guard taps it and golden morning light flares.
+
+**CAMERA:** macro on the bell → pull back to the school yard
+**ANIMATION:** bell swinging, light flare
+
+---
+## SCENE 2 — Ready! Running out of the house
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+Aarav bursts out of a red-brick village house with his red school bag, punches the air and shouts happily; Aarya joins from next door.
+
+**CAMERA:** medium → tracking as they run
+**ANIMATION:** run, air punch, bags bouncing
+
+---
+## SCENE 3 — Rooster on the roof
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+At sunrise a rooster crows on a tin roof; inside, Aarav stretches awake on a cosy bed with a woollen blanket.
+
+**CAMERA:** wide roof → glide through the window to the bed
+**ANIMATION:** crow, stretch, yawn
+
+---
+## SCENE 4 — Brushing teeth by the tap
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Aarav brushes his teeth at the outdoor water tap, foamy smile, then splashes his face.
+
+**CAMERA:** close-up → medium
+**ANIMATION:** brushing, foamy grin, splash
+
+---
+## SCENE 5 — Namaste to mother and father
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+In the courtyard, Aarav folds his hands in namaste to his smiling parents, who hug him warmly.
+
+**CAMERA:** medium family shot → close on the hug
+**ANIMATION:** namaste, warm hug
+
+---
+## SCENE 6 — Bag checklist
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+Aarya holds up each item and drops it into her bag as Aarav ticks with his finger: book, notebook, water bottle.
+
+**CAMERA:** top-down on the bag → two-shot
+**ANIMATION:** items dropping in, nods
+
+---
+## SCENE 7 — Lunch from mother
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+Mother hands Aarav a small tiffin box wrapped in cloth; he hugs it to his chest with a grin.
+
+**CAMERA:** close on hands → medium
+**ANIMATION:** hand-over, grin
+
+---
+## SCENE 8 — Walking the village path
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+Aarav, Aarya and Puntu walk hand in hand along a stone path between terraced fields, mountains behind.
+
+**CAMERA:** wide tracking along the path
+**ANIMATION:** walking, swinging hands
+
+---
+## SCENE 9 — Crossing the little bridge
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+The friends cross a small wooden bridge over a calm stream, waving to ducks below.
+
+**CAMERA:** side tracking → low angle
+**ANIMATION:** steps, waving ducks
+
+---
+## SCENE 10 — Namaste to the teacher
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+In a bright classroom, the children stand and greet a kind young woman teacher with namaste; she smiles back.
+
+**CAMERA:** medium wide → close on the teacher's smile
+**ANIMATION:** namaste, smile
+
+---
+## SCENE 11 — Sharing lunch under the tree
+**Section:** Chorus 3
+
+**IMAGE + VIDEO PROMPT:**
+Under a big peepal tree in the school yard, the friends share food from their tiffins, offering each other bites.
+
+**CAMERA:** medium → overhead on the tiffins
+**ANIMATION:** sharing, laughing
+
+---
+## SCENE 12 — Waving goodbye at sunset
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+At golden sunset, the children run home down the hill path and mother waves from the doorway; Aarav waves 'tomorrow again'.
+
+**CAMERA:** wide hill → push-in on the doorway
+**ANIMATION:** running, waving

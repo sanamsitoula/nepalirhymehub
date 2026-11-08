@@ -1,0 +1,102 @@
+🔤 क ख ग घ ङ — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Blocks tower
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Aarav stacks coloured wooden blocks into a tall tower in a sunny courtyard while Aarya claps for each one.
+
+**CAMERA:** low angle on the tower → medium on Aarya
+**ANIMATION:** stacking, wobble, clap
+
+---
+## SCENE 2 — Writing in the sand by the river
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a smooth sandy river bank, Aarya draws a shape in the sand with a stick; gentle water behind.
+
+**CAMERA:** top-down on the sand → wide river
+**ANIMATION:** stick drawing, ripples
+
+---
+## SCENE 3 — Bouncing on the courtyard mat
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Children bounce on a woven straw mat in a village courtyard, holding hands in pairs.
+
+**CAMERA:** overhead → low medium
+**ANIMATION:** bouncing, holding hands
+
+---
+## SCENE 4 — Birds on the prayer-flag line
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Small birds sit in a row on a prayer-flag line over a hill and sing one by one.
+
+**CAMERA:** tracking along the flag line
+**ANIMATION:** birds hopping, flags fluttering
+
+---
+## SCENE 5 — Puntu plays the xylophone
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Puntu taps a tiny xylophone on a mossy rock in the forest, mushrooms and ferns around.
+
+**CAMERA:** close-up → slow orbit
+**ANIMATION:** mallet taps, ears twitching
+
+---
+## SCENE 6 — Walking home with bags
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Aarav and Aarya walk down a stone staircase between village houses with their school bags, waving to a neighbour.
+
+**CAMERA:** following shot from behind → front medium
+**ANIMATION:** walking, waving
+
+---
+## SCENE 7 — Letter kite
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a windy hilltop the children fly a bright square kite with long ribbons.
+
+**CAMERA:** low angle to the kite → wide hill
+**ANIMATION:** kite dancing, ribbons waving
+
+---
+## SCENE 8 — Eyes closed under the tree
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Under a big peepal tree in soft evening light, the two children sit with eyes closed, remembering, smiling.
+
+**CAMERA:** slow push-in
+**ANIMATION:** leaves drifting, calm breathing
+
+---
+## SCENE 9 — Village courtyard celebration
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In a carved-wood courtyard, families clap as the children perform their letter song on a small stage of mats.
+
+**CAMERA:** wide courtyard → close on the performers
+**ANIMATION:** clapping parents, proud children
+
+---
+## SCENE 10 — Jumping high together
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On the meadow, Aarav, Aarya and Puntu jump high together in slow motion, flower petals flying.
+
+**CAMERA:** low angle slow motion
+**ANIMATION:** jump, petals flying

@@ -1,0 +1,56 @@
+{
+ "brief": "lyrics.txt",
+ "score": 10,
+ "checks": [
+  {
+   "rule": "1 clean lyric sheet",
+   "passed": true,
+   "detail": "37 sung lines"
+  },
+  {
+   "rule": "2 Devanagari only (Nepali), kids-safe words",
+   "passed": true,
+   "detail": "ok"
+  },
+  {
+   "rule": "3 hook by 0:15",
+   "passed": true,
+   "detail": "first chorus is section 2, intro 2 lines"
+  },
+  {
+   "rule": "4 no worn 'कौन ...?' hook",
+   "passed": true,
+   "detail": "hook is not the who-question formula"
+  },
+  {
+   "rule": "5 lines not copied from other songs",
+   "passed": true,
+   "detail": "every line is new"
+  },
+  {
+   "rule": "6 opening unlike other songs",
+   "passed": true,
+   "detail": "unique opening"
+  },
+  {
+   "rule": "7 choruses evolve",
+   "passed": true,
+   "detail": "4 choruses, 4 different"
+  },
+  {
+   "rule": "8 singable pace",
+   "passed": true,
+   "detail": "~5.4 sung chars/s (aim 4.0-5.5)"
+  },
+  {
+   "rule": "9 story shape",
+   "passed": true,
+   "detail": "3 verses, bridge True, final chorus True"
+  },
+  {
+   "rule": "10 own musical identity",
+   "passed": true,
+   "detail": "118 bpm / d major / stomping nepali deusi knock-and-shout march with madal, jhya"
+  }
+ ]
+}

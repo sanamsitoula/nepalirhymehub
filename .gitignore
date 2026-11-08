@@ -1,0 +1,32 @@
+# Browser login profiles: cookies and sessions, never commit
+pr_profiles/
+**/pr_profiles/
+
+# Secrets
+.env
+*.env
+**/credentials*.json
+**/token*.json
+
+# Big media: kept on disk only
+*.mp4
+*.mov
+*.webm
+*.wav
+*.m4a
+*.mp3
+*.flac
+*.zip
+**/clips/
+**/work/
+**/music/
+**/out/*.mp4
+**/storyboard/_archive*/
+**/_archive/
+brand/flow/jingle.stems/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

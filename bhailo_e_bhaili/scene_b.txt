@@ -1,0 +1,202 @@
+🪔 झिलिमिली भैलो (Kathmandu Valley Tihar night) — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Kirtipur hill view
+**Section:** Intro (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+From Kirtipur hill the children look down on the lit Kathmandu skyline with Dharahara and the stupas; Aarya points and laughs.
+
+**CAMERA:** over-shoulder wide
+**ANIMATION:** pointing, city twinkling
+
+---
+## SCENE 2 — Boudhanath lamps
+**Section:** Intro (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The great white dome of Boudhanath ringed with butter lamps at night in the background; the children walk past carrying diyo plates.
+
+**CAMERA:** side tracking
+**ANIMATION:** walking, lamps glowing
+
+---
+## SCENE 3 — Mangal Bazaar dance
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In Patan Mangal Bazaar, Aarya and the Newar girl dance hand in hand while the Gurung and Magar boys clap with a madal.
+
+**CAMERA:** medium → orbit
+**ANIMATION:** dancing, clapping
+
+---
+## SCENE 4 — Tharu stick dance
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The Tharu girl leads a playful stick dance with short bamboo sticks tapping in rhythm, the friends copying, lamps all around.
+
+**CAMERA:** low medium
+**ANIMATION:** sticks tapping
+
+---
+## SCENE 5 — Mithila rangoli
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The Maithili girl draws a bright Mithila-pattern rangoli of colour and petals in a courtyard while Aarya places diyos around it.
+
+**CAMERA:** top-down → medium
+**ANIMATION:** pattern growing
+
+---
+## SCENE 6 — Lamps on the carved window
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Mother and Aarya light diyos along a peacock-carved Newari window (mayur jhyal) in Bhaktapur, faces glowing.
+
+**CAMERA:** close on flames → two-shot
+**ANIMATION:** careful lighting
+
+---
+## SCENE 7 — Rooftop sparkle dance
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a rooftop strung with fairy lights the friends jump and spin; the city lights stretch behind them.
+
+**CAMERA:** low angle
+**ANIMATION:** jumps, spins
+
+---
+## SCENE 8 — Patan from above
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Overhead night view of Patan Durbar Square's temple roofs outlined in lamps, tiny dancing children below.
+
+**CAMERA:** top-down drift
+**ANIMATION:** lights shimmering
+
+---
+## SCENE 9 — Kirtipur lane bhailo
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In a Kirtipur lane the Rai-Limbu girl sings at a door; the family gives fruit and laddu on a leaf plate.
+
+**CAMERA:** medium
+**ANIMATION:** singing, giving
+
+---
+## SCENE 10 — Grandparents' blessing
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In a Newar courtyard grandparents place a small red tika on each child's forehead after the song.
+
+**CAMERA:** close-ups in turn
+**ANIMATION:** tika, smiles
+
+---
+## SCENE 11 — Dhime close-up
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Close-up of a Newar dhime drum played in Bhaktapur, lamp light on the drum skin, children's feet dancing behind.
+
+**CAMERA:** macro → pull back
+**ANIMATION:** drum hits
+
+---
+## SCENE 12 — Puntu in Pottery Square
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Puntu dances between clay pots in Bhaktapur's Pottery Square under strings of lights, the children laughing.
+
+**CAMERA:** low orbit
+**ANIMATION:** spinning, pots glowing
+
+---
+## SCENE 13 — Many dogs with garlands
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a Kathmandu street several friendly dogs wear marigold garlands; the Sherpa and Tamang children give them food and pats.
+
+**CAMERA:** low tracking
+**ANIMATION:** wagging tails
+
+---
+## SCENE 14 — Cow on a Patan street
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A calm cow with a garland stands in a Patan lane; the Madhesi boy friend offers green grass.
+
+**CAMERA:** medium
+**ANIMATION:** chewing, gentle nod
+
+---
+## SCENE 15 — Hanuman Dhoka gate
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Before the lamp-lit Hanuman Dhoka palace gate, the children dance and clap in a line.
+
+**CAMERA:** wide → push-in
+**ANIMATION:** line dance
+
+---
+## SCENE 16 — Chandragiri viewpoint
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On Chandragiri hill the children dance at a viewpoint with the whole lit valley below.
+
+**CAMERA:** wide pull back
+**ANIMATION:** dancing, valley lights
+
+---
+## SCENE 17 — Rani Pokhari reflection
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Rani Pokhari pond at night with its small white temple in the middle, reflected in still water; the children hold diyos quietly at the edge.
+
+**CAMERA:** slow push-in, hold
+**ANIMATION:** still reflections
+
+---
+## SCENE 18 — Bhaktapur Durbar Square leap
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In Bhaktapur Durbar Square all the children leap together in slow motion, petals and soft light everywhere.
+
+**CAMERA:** low angle slow motion
+**ANIMATION:** leap, petals
+
+---
+## SCENE 19 — Faces of the friends
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+One by one, close-ups of each community friend laughing in warm diyo light, ending on Aarya's big smile.
+
+**CAMERA:** close-ups in turn
+**ANIMATION:** laughing faces
+
+---
+## SCENE 20 — Dawn after Tihar night
+**Section:** Outro (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Soft dawn over the valley, the last lamps flickering on a rooftop where the friends sit wrapped in shawls, smiling.
+
+**CAMERA:** slow wide
+**ANIMATION:** lamps fading, dawn light

@@ -1,0 +1,137 @@
+🌧️ झम झम पानी — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, rich saturated colours, bright warm Himalayan daylight, Nepali hill-village production design (terraced fields, carved wooden windows, red-brick and mud-plaster houses, prayer flags, lali gurans rhododendrons, snowy peaks far away), smooth gentle camera, soft depth of field, joyful, safe and calm, 16:9 widescreen, 1080p, 30fps look, clean shapes, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft cream background: Aarav, Aarya and Puntu standing side by side, full body, front view, happy smiles, then small three-quarter views below. Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene. Premium 3D animated-film render, soft studio light, crisp details, no text, no logo, no watermark. Aspect ratio 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — First drop on Aarya's nose
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+Extreme close-up: one shiny raindrop lands on Aarya's nose on a hillside village porch; she crosses her eyes at it and bursts out laughing; behind her, soft grey-white clouds roll over green terraced hills.
+
+**CAMERA:** macro close-up on the drop → pull back to reveal the porch and hills
+**ANIMATION:** drop splash, giggle, clouds rolling
+
+---
+## SCENE 2 — Umbrella dance in the courtyard
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+In a mud-plaster courtyard with carved wooden windows, Aarav and Aarya open a big yellow umbrella together and dance in gentle rain, stamping lightly; Puntu peeks out from under the umbrella.
+
+**CAMERA:** medium wide → slow circle around the umbrella
+**ANIMATION:** umbrella spin, light rain streaks, children clapping
+
+---
+## SCENE 3 — Clouds over the hills
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Wide view of terraced rice fields and a distant snowy peak; soft clouds glide over the ridge and the sun hides behind one, peeking out playfully like hide-and-seek.
+
+**CAMERA:** slow aerial glide over the terraces → gentle tilt up to the clouds
+**ANIMATION:** clouds drifting, sun peeking, birds flying home
+
+---
+## SCENE 4 — Frog sings on a lotus leaf
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+By a small village pond, a cute green frog on a big leaf puffs its throat and sings; Aarav kneels at the edge holding out his palm to catch the first drops.
+
+**CAMERA:** low child-height close-up of the frog → rack focus to Aarav's open palm
+**ANIMATION:** throat puff, ripples, drops landing in his palm
+
+---
+## SCENE 5 — Gumboots puddle hop
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+On a stone-paved village lane, Aarav and Aarya in bright red gumboots hop over a shallow puddle one after another, tiny splashes sparkling; Puntu cheers from a wooden doorstep.
+
+**CAMERA:** low tracking shot along the lane → slow-motion splash
+**ANIMATION:** hops, sparkling splashes, Puntu clapping paws
+
+---
+## SCENE 6 — Paper boats race in the courtyard stream
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+A thin stream of rainwater runs across the courtyard; the children set a red and a blue paper boat on it and run beside them; Puntu bounces with joy.
+
+**CAMERA:** top-down view of the boats → side tracking with the children
+**ANIMATION:** boats bobbing, children running, Puntu jumping
+
+---
+## SCENE 7 — Rain dance on the rooftop terrace
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+On a flat village rooftop with prayer flags, the three friends twirl in light rain; drops make little crowns on puddles; mountains glow beyond.
+
+**CAMERA:** wide rooftop shot → slow orbit around the dancers
+**ANIMATION:** twirls, fluttering prayer flags, splash crowns
+
+---
+## SCENE 8 — The friendly cloud drum
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+A big fluffy cloud with a sleepy smiling face drums softly over green rice fields; the rice plants sway happily below; no lightning, no darkness, only soft light.
+
+**CAMERA:** wide over the fields → gentle push-in to the smiling cloud
+**ANIMATION:** cloud puffing, rice swaying in waves
+
+---
+## SCENE 9 — Watching rain from the window
+**Section:** Chorus 3
+
+**IMAGE + VIDEO PROMPT:**
+Inside a cosy home, Aarav and Aarya in dry sweaters sit at a carved wooden window with warm cups of milk; mother wraps a soft shawl around them; rain streaks the glass.
+
+**CAMERA:** close-up through the window → slow pull back into the warm room
+**ANIMATION:** steam rising, rain trickling, children waving at the rain
+
+---
+## SCENE 10 — Rain stops, sun smiles
+**Section:** Bridge
+
+**IMAGE + VIDEO PROMPT:**
+The rain fades; sunlight breaks through the clouds and lights up the wet green hillside, every leaf shining with droplets.
+
+**CAMERA:** slow wide pan across the shining hillside
+**ANIMATION:** last drops falling, light spreading, leaves glittering
+
+---
+## SCENE 11 — Rainbow over the village
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+A huge seven-colour rainbow arches over the village; Aarav, Aarya, Puntu and village children dance in a circle on the green meadow, arms raised.
+
+**CAMERA:** low angle from the meadow → crane up to the full rainbow
+**ANIMATION:** circle dance, arms waving, rainbow shimmering
+
+---
+## SCENE 12 — Goodbye wave under the rainbow
+**Section:** Outro
+
+**IMAGE + VIDEO PROMPT:**
+The three friends stand on a hilltop path and wave goodbye to the camera, the rainbow behind them, a few last golden drops sparkling.
+
+**CAMERA:** medium shot → slow pull back to wide
+**ANIMATION:** waving, drops sparkling, soft wind in the grass

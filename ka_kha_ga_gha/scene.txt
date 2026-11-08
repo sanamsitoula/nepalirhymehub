@@ -1,0 +1,137 @@
+🔤 क ख ग घ ङ — VIDEO SCENE SCRIPT | Nepali Rhyme Hub (नेपाली राइम हब)
+
+## 🎬 GLOBAL MASTER STYLE — ADD TO EVERY PROMPT
+
+> **MASTER STYLE:** Premium Nepali children's 3D animated-film look, soft chibi toddler proportions, rounded sculpted forms, gentle subsurface glow, rich saturated colours, bright warm Himalayan daylight, Nepali hill-village production design (terraced fields, carved wooden windows, red-brick and mud-plaster houses, prayer flags, lali gurans rhododendrons, snowy peaks far away), smooth gentle camera, soft depth of field, joyful, safe and calm, 16:9 widescreen, 1080p, 30fps look, clean shapes, the same 3D look in every shot.
+>
+> **CHARACTER LOCK:** Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene.
+>
+> **NEGATIVE:** text, letters, numbers, words, captions, logos, watermark drawn in the image; scary faces, darkness, horror, storms that look dangerous, injuries, crying, punishment, weapons; photorealistic humans; distorted eyes, malformed hands, extra limbs; changing character designs; flat 2D drawing; strobe or flashing light; fast shaky camera.
+
+---
+
+## ⭐ CHARACTER REFERENCE PROMPT — GENERATE THIS FIRST
+
+> Character reference sheet on a soft cream background: Aarav, Aarya and Puntu standing side by side, full body, front view, happy smiles, then small three-quarter views below. Aarav (आरभ) — a 4-year-old Nepali boy, round cheerful face, warm light-brown skin, big dark shining eyes, short black hair, a red-and-black patterned Nepali dhaka topi, mustard-yellow kurta with a small blue vest, brown sandals. Aarya (आर्या) — a 4-year-old Nepali girl, warm light-brown skin, big dark eyes, two black braids tied with red ribbons, a red-and-green gunyo cholo with thin gold trim, pink sandals. Puntu (पुन्टु) — a baby red panda, fluffy rust-red fur, white face markings, a ringed bushy tail, big friendly eyes, a small green scarf. Keep all three identical in face, size, clothing and colours in every scene. Premium 3D animated-film render, soft studio light, crisp details, no text, no logo, no watermark. Aspect ratio 16:9.
+
+Retention rule (PLAN.md section 4): a new reveal every 8-12 seconds, no fast cuts, half nature and half village/home/school.
+
+---
+## SCENE 1 — Wooden letter blocks wake up
+**Section:** Intro
+
+**IMAGE + VIDEO PROMPT:**
+On a sunny classroom floor mat in a village school, colourful wooden blocks bounce and line up in a row; Aarav and Aarya gasp with delight; Puntu sits on top of one block.
+
+**CAMERA:** close-up on bouncing blocks → pull back to the children
+**ANIMATION:** blocks hopping into a line, gasps, Puntu wobbling
+
+---
+## SCENE 2 — Clapping circle in the classroom
+**Section:** Chorus 1
+
+**IMAGE + VIDEO PROMPT:**
+A bright classroom with paper garlands; children sit in a circle and clap together, Aarya leading with big gestures.
+
+**CAMERA:** overhead circle → low medium on Aarya
+**ANIMATION:** clapping, swaying, smiling
+
+---
+## SCENE 3 — Pen writes a name
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+Close-up of Aarav's small hand holding a big colourful pen over a slate, drawing a happy loop; he looks up proudly.
+
+**CAMERA:** macro on the pen → tilt up to his proud face
+**ANIMATION:** pen moving, chalk dust sparkling
+
+---
+## SCENE 4 — Rabbit hops through the garden
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+In a flower garden behind the school, a fluffy white rabbit hops between marigolds while Aarya follows on tiptoes.
+
+**CAMERA:** low tracking at rabbit height → wide garden
+**ANIMATION:** hops, tiptoe steps, flowers swaying
+
+---
+## SCENE 5 — Red flower in the clay pot and the cosy home
+**Section:** Verse 1
+
+**IMAGE + VIDEO PROMPT:**
+A clay flower pot on a carved windowsill; a red flower opens; the camera continues into a cosy home where mother waves.
+
+**CAMERA:** close on the pot → glide through the window into the home
+**ANIMATION:** flower opening, mother waving
+
+---
+## SCENE 6 — Hopscotch letters
+**Section:** Chorus 2
+
+**IMAGE + VIDEO PROMPT:**
+In the school yard, the children hop on a chalk hopscotch path of coloured squares, each hop a little sparkle.
+
+**CAMERA:** side tracking → slow-motion on a big hop
+**ANIMATION:** hops, sparkles, cheering
+
+---
+## SCENE 7 — Humming game
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+Aarav and Aarya pinch their noses and hum, cheeks puffed, then burst out laughing; Puntu copies them.
+
+**CAMERA:** two-shot close-up → Puntu close-up
+**ANIMATION:** puffed cheeks, laughter, Puntu copying
+
+---
+## SCENE 8 — Bird sings, umbrella opens
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+A bright bird sings on a lali gurans branch; then a small rain shower and Aarya pops open a red umbrella below it.
+
+**CAMERA:** close on the bird → tilt down to the umbrella
+**ANIMATION:** bird chirping, umbrella pop, light rain
+
+---
+## SCENE 9 — Plane in the blue sky
+**Section:** Verse 2
+
+**IMAGE + VIDEO PROMPT:**
+On a green hilltop, the children point up as a small toy-like plane draws a white line across the blue sky over snowy mountains.
+
+**CAMERA:** low angle up the children's arms → wide sky
+**ANIMATION:** pointing, plane gliding, contrail
+
+---
+## SCENE 10 — Xylophone parade
+**Section:** Instrumental
+
+**IMAGE + VIDEO PROMPT:**
+Children march around the school yard playing small xylophones and drums, Puntu leading with a tiny flag.
+
+**CAMERA:** wide parade → tracking alongside Puntu
+**ANIMATION:** marching, mallets tapping, flag waving
+
+---
+## SCENE 11 — School bag on the shoulder
+**Section:** Verse 3
+
+**IMAGE + VIDEO PROMPT:**
+Aarya swings a woven school bag onto her shoulder at the school gate and smiles at the camera; Aarav waves beside her.
+
+**CAMERA:** medium shot → slow push-in on her smile
+**ANIMATION:** bag swing, wave, breeze
+
+---
+## SCENE 12 — Ten friends dance in the meadow
+**Section:** Final Chorus
+
+**IMAGE + VIDEO PROMPT:**
+On a flower meadow below the mountains, ten children each hold a coloured wooden block and dance in a line with Aarav, Aarya and Puntu.
+
+**CAMERA:** wide meadow → crane up over the dancing line
+**ANIMATION:** line dance, blocks raised high

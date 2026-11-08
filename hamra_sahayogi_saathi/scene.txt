@@ -1,0 +1,234 @@
+🤝 हाम्रा सहयोगी साथी — MASTER VIDEO SCENE SCRIPT
+Nepali Rhyme Hub (नेपाली राइम हब) | Flagship Children's Animation (2026-11-08)
+
+================================================================================
+🎬 GLOBAL MASTER STYLE — PREPEND TO EVERY PROMPT
+================================================================================
+
+> **MASTER STYLE:**
+> Premium Nepali children's 3D animated-film look (chibi Pixar / Studio Ghibli warmth), soft toddler proportions, rounded sculptural forms, luminous subsurface skin glow, rich saturated color palette, bright warm Himalayan sunlight, authentic Nepali architectural & regional production design (Kathmandu carved wooden windows, red-brick courtyards, Terai mud-plastered painted walls, prayer flags in mountain passes, mustard fields, lush terraced green hills, distant snow-capped Himalayan peaks), cinematic depth of field, gentle child-friendly camera motions, 100% joyful, welcoming, and safe atmosphere, 16:9 widescreen, 1080p, 30fps animation cadence.
+>
+> **CORE CHARACTER LOCK:**
+> - **Aarav (आरभ):** 4-year-old Nepali boy, round cheerful face, warm golden-brown skin, big dark sparkling eyes, short glossy black hair, red-and-black patterned Nepali Dhaka topi, mustard-yellow kurta tunic with a royal-blue sleeveless vest, dark brown leather sandals.
+> - **Aarya (आर्या):** 4-year-old Nepali girl, warm golden-brown skin, large expressive eyes, two glossy black braided pigtails tied with cherry-red satin ribbons, traditional red-and-emerald-green Gunyo Cholo dress with subtle gold thread border, soft pink sandals.
+> - **Puntu (पुन्टु):** Baby Himalayan red panda mascot, ultra-fluffy rust-red coat, white face markings around bright curious eyes, ringed bushy tail, wearing a small mint-green knitted neck scarf.
+>
+> **COMMUNITY HELPERS CHARACTER LOCK:**
+> - **Kisan Dai (किसान दाइ - Farmer):** Smiling, strong, kind Nepali uncle, terracotta sun-kissed skin, white daura suruwal, black topi, waist cloth (patuka), carrying a small traditional wooden hoe (kodali).
+> - **Doctor Didi (डाक्टर दिदी - Health Worker):** Warm, gentle young Nepali female doctor, sky-blue kurta, pristine white doctor coat, teal stethoscope resting around neck, welcoming smile.
+> - **Guruma (गुरुआमा - Kindergarten Teacher):** Caring, cheerful female teacher, marigold-yellow sari with red border, neat hair bun with a jasmine flower, holding a colourful storybook.
+> - **Kaligad Kaka (कालिगड काका - Builder & Artisan):** Energetic artisan uncle, rolled-up sleeves, patterned Dhaka topi, holding a wooden chisel and smoothing wooden pagoda carvings.
+> - **Safai Sathi (सफाइ साथी - Sanitation Hero):** Bright-eyed, friendly youth in high-visibility neon-orange apron over kurta, carrying a traditional bamboo broom (kucho) and clean bin.
+>
+> **NEGATIVE PROMPT:**
+> text, words, letters, numbers, watermarks, UI overlays, subtitles, logos; dark, scary, horror, menacing expressions, stormy clouds, weapons, accidents, injuries, tears, crying, punishment; photorealistic uncanny human skin, deformed hands, extra fingers, missing limbs, bad anatomy, twitching artifacts; adult drama, violence; flat 2D vector style; rapid flashing lights, strobe effects, chaotic shaky cam.
+
+================================================================================
+⭐ CHARACTER REFERENCE PROMPT — MASTER SHEET
+================================================================================
+
+> Full-body character concept sheet on a soft neutral studio background: Aarav, Aarya, Puntu, Kisan Dai, Doctor Didi, Guruma, Kaligad Kaka, and Safai Sathi standing side by side in cute 3D chibi proportions. Aarav (4yo boy in Dhaka topi & yellow kurta), Aarya (4yo girl in gunyo cholo with red hair ribbons), Puntu (fluffy baby red panda with green scarf), Kisan Dai (farmer uncle with kodali), Doctor Didi (smiling doctor in white coat with stethoscope), Guruma (smiling teacher in yellow sari), Kaligad Kaka (woodcarver artisan with chisel), and Safai Sathi (sanitation worker in orange vest with bamboo broom). High-end 3D animated feature quality, soft rim lighting, tactile fabric textures, joyful smiles, 16:9 aspect ratio, clean studio backdrop, no typography, no watermark.
+
+---
+
+================================================================================
+20 DETAILED SCENE BREAKDOWNS (50% Nature / 50% Village, School & Courtyard)
+================================================================================
+
+## SCENE 01 — The Sunny Village Hilltop Gateway
+- **Section:** Intro [0:00 - 0:08]
+- **Environment:** 50% Nature (Himalayan Hilltop vista)
+- **Visual Description:** High on a green ridge overlooking terraced slopes and majestic white Himalayan peaks in the distance, Aarav, Aarya, and fluffy Puntu stand beside a carved stone gateway draped in marigold garlands. The morning sun casts warm golden light across wildflowers. Aarav points forward excitedly while Aarya waves cheerfully with both hands toward the camera. Puntu playfully peeks over a stone ledge.
+- **Camera:** Wide establishing shot → gentle low-angle dolly glide toward the children's beaming smiles.
+- **Animation Action:** Aarya's double hand wave, Aarav's enthusiastic pointing gesture, Puntu's ear twitch and tail wag.
+- **Audio Sync:** Child voice: "साथीहरू, आज हामी हाम्रा सहयोगी साथीहरूलाई भेटौँ!" + Glockenspiel sparkle.
+
+---
+
+## SCENE 02 — The Friendship Circle Dance in the Village Square
+- **Section:** Chorus 1 [0:08 - 0:18]
+- **Environment:** 50% Village (Cobblestone village chowk)
+- **Visual Description:** In the heart of an authentic Nepali village chowk surrounded by red-brick houses and wooden balconies, Aarav, Aarya, and three diverse village toddlers hold hands forming a cheerful circle around a tiered stone water fountain. They bounce in unison to the Madal rhythm. Puntu hops in the center of the ring, clapping his small paws.
+- **Camera:** Medium wide circular track (orbit) gliding smoothly 180 degrees around the dancing children.
+- **Animation Action:** Rhythmic circle steps, swaying arms, feet stamping in sync with 112 BPM Keherwa beat.
+- **Audio Sync:** Lead vocal: "हातेमालो गरौँ नानी, छमछम नाचौँ साथी! गाउँ-सहर सुन्दर पार्ने, हाम्रा सहयोगी साथी!"
+
+---
+
+## SCENE 03 — The Grand "Namaste!" Bow
+- **Section:** Chorus 1 [0:18 - 0:28]
+- **Environment:** 50% Courtyard (Under a decorative wooden torana arch)
+- **Visual Description:** Frontal medium close-up of Aarav, Aarya, and Puntu lined up symmetrically under a carved wooden temple archway. With beaming joyful smiles, Aarav and Aarya press their palms together at chest level in a traditional Nepali Namaste greeting, followed by three energetic handclaps. Puntu places his two paws together in an adorable mimic greeting.
+- **Camera:** Eye-level medium shot → gentle punch-in on the handclap beat.
+- **Animation Action:** Smooth Namaste bow, head nod with smile, followed by three crisp claps (1, 2, 3!).
+- **Audio Sync:** Choir: "हाम्रा सहयोगी साथी! कति प्यारा साथी! ... नमस्ते! नमस्ते! (ताली: १, २, ३!)"
+
+---
+
+## SCENE 04 — Sunrise over Terraced Rice Fields (Kisan Dai)
+- **Section:** Verse 1 [0:28 - 0:38]
+- **Environment:** 50% Nature (Lush green terraced hills at dawn)
+- **Visual Description:** Breathtaking golden morning over emerald-green terraced rice fields. Morning mist gently drifts through the valley. Kisan Dai, a friendly chibi Nepali farmer uncle in a white daura suruwal and black topi, cheerfully digs the rich brown soil with a small wooden kodali (hoe). Dewdrops glisten on rice stalks. Butterflies flutter across the scene.
+- **Camera:** Slow sweeping crane shot descending from the misty hills down to Kisan Dai's warm smile.
+- **Animation Action:** Rhythmic digging with hoe, farmer wiping his brow with a cheerful grin and waving to Aarav.
+- **Audio Sync:** Lead: "खेतबारीमा बिहानै, कोदाली खन्दै किसान दाइ, पसिनाको थोपा रोपी, सुन फलाउँछन् दाइ!"
+
+---
+
+## SCENE 05 — The Vegetable Basket of Golden Harvest
+- **Section:** Verse 1 [0:38 - 0:50]
+- **Environment:** 50% Nature (Edge of farm plot beside organic garden)
+- **Visual Description:** Aarav and Aarya kneel playfully beside a large traditional bamboo Doko basket overflowing with vibrant organic harvest: plump ruby-red tomatoes, bright orange pumpkins, golden ears of maize, and crisp green spinach. Kisan Dai hands a giant golden sunflower to Aarya. Puntu happily sniffs a shiny red apple.
+- **Camera:** Low-angle medium close-up tracking slowly as Kisan Dai places fresh vegetables in the basket.
+- **Animation Action:** Aarya receiving the sunflower with sparkling eyes, Aarav lifting a bright pumpkin, Puntu rolling an apple.
+- **Audio Sync:** Lead & Choir: "धान, मकै, गहुँ-बाली, हरियो तरकारी... धन्यवाद किसान दाइ, मिठो खाना बारी! जय किसान!"
+
+---
+
+## SCENE 06 — Bouncy March through Blooming Mustard Fields
+- **Section:** Chorus 2 [0:50 - 1:00]
+- **Environment:** 50% Nature (Vibrant yellow mustard fields of Terai/Valley)
+- **Visual Description:** An endless, breathtaking sea of bright golden mustard blossoms stretching under a vibrant blue sky. Aarav, Aarya, and Puntu march along a raised earthen path through the yellow flowers, holding hands and lifting knees high in a joyful child parade. Soft yellow petals float in the breeze.
+- **Camera:** Lateral tracking dolly moving parallel with the marching kids at toddler height.
+- **Animation Action:** High knee marching, swaying linked arms, hair ribbons bouncing with each step.
+- **Audio Sync:** Chorus 2: "हातेमालो गरौँ नानी, छमछम नाचौँ साथी! गाउँ-सहर सुन्दर पार्ने, हाम्रा सहयोगी साथी!"
+
+---
+
+## SCENE 07 — Puntu Red Panda's Rhythmic Clapping Solo
+- **Section:** Chorus 2 [1:00 - 1:10]
+- **Environment:** 50% Nature (Sunlit grassy knoll bordered by rhododendron flowers)
+- **Visual Description:** Chibi baby red panda Puntu stands on a mossy green stone surrounded by blooming red Lali Gurans petals. He bounces up and down to the Keherwa rhythm, clapping his furry paws together in pure ecstasy. Aarav and Aarya cheer him on from the background with friendly smiles.
+- **Camera:** Crisp medium close-up on Puntu with shallow depth of field, background softly blurred.
+- **Animation Action:** Bouncing on paws, ear wiggles, rhythmic paw clapping, big happy grin.
+- **Audio Sync:** Choir call: "हाम्रा सहयोगी साथी! कति मिहिनेती साथी! हात जोडी सबैलाई, भनौँ आज साथी! नमस्ते! नमस्ते!"
+
+---
+
+## SCENE 08 — The Friendly Hill Health Post (Doctor Didi & Nurse)
+- **Section:** Verse 2 [1:10 - 1:21]
+- **Environment:** 50% Clinic/Community (Sunlit village health clinic)
+- **Visual Description:** Inside a cozy, cheerful village health post with whitewashed walls, large open windows showing green hills, and colorful health posters. Doctor Didi, in a pristine white coat and teal stethoscope, gently places the round stethoscope on Aarya's chest. Aarya giggles proudly with zero fear. Aarav holds a small toy medical kit, mimicking a caring doctor.
+- **Camera:** Smooth push-in tracking shot across the wooden examination table toward Doctor Didi and Aarya.
+- **Animation Action:** Gentle stethoscope placement, Aarya's proud smile and brave thumbs-up, Doctor Didi giving an encouraging nod.
+- **Audio Sync:** Lead: "स्टेथस्कोप घाँटीमा, मायालु डाक्टर दिदी, दुखेको ठाउँ छुनासाथ, सन्चो हुन्छ छिट्टी!"
+
+---
+
+## SCENE 09 — The Kindergarten Classroom (Teacher Guruma)
+- **Section:** Verse 2 [1:21 - 1:32]
+- **Environment:** 50% School (Traditional kindergarten classroom)
+- **Visual Description:** A warm, colorful kindergarten room filled with bright wooden alphabet blocks, student drawings on clotheslines, and sunlight streaming through carved lattice windows. Guruma, smiling radiantly in a marigold-yellow sari, points with a wooden pointer to colorful Devanagari letters "क ख ग" and numbers "१ २ ३" on a green chalkboard. Aarav and five little classmates raise their hands with excited curiosity.
+- **Camera:** Medium wide classroom shot → smooth rack focus from children's eager faces to Guruma's smiling eyes.
+- **Animation Action:** Guruma drawing a smiling sun on the board, children raising little hands and nodding in comprehension.
+- **Audio Sync:** Lead & Choir: "कालोपाटी अगाडि, मुस्कुराउँदै गुरुआमा... धन्यवाद गुरुआमा! धन्यवाद डाक्टर दिदी!"
+
+---
+
+## SCENE 10 — The Master Woodcarver & Builder (Kaligad Kaka)
+- **Section:** Verse 3 [1:32 - 1:43]
+- **Environment:** 50% Courtyard/Artisan Workshop (Open air artisan courtyard)
+- **Visual Description:** In a rustic courtyard with brick walls and wood shavings scattered on stone flags, Kaligad Kaka lovingly carves a decorative wooden peacock window frame with a mallet and gouge. Nearby, smooth terracotta clay pots dry in the warm sun. Aarav wears a cute yellow play-hat, curiously touching a smooth finished wooden flower motif.
+- **Camera:** Low-angle 45-degree tracking shot orbiting the carved wooden masterwork.
+- **Animation Action:** Mallet tapping wood (timed to the percussive music taps), wood shavings fluttering, artisan winking playfully.
+- **Audio Sync:** Lead: "इँटा-काठ जोडेर, बलियो घर बनाउने, माटाका साना घैँटा, कलाले सजाउने!"
+
+---
+
+## SCENE 11 — The Sparkling Village Lane (Safai Sathi)
+- **Section:** Verse 3 [1:43 - 1:54]
+- **Environment:** 50% Village (Stone-paved lane in village square)
+- **Visual Description:** A picturesque stone-paved village street lined with clay pots and wooden doorsteps. Safai Sathi, a cheerful youth in an orange high-visibility vest, gracefully sweeps golden autumn leaves into a neat pile using a traditional bamboo broom. Aarya and Aarav help by placing stray paper cups into green recycling bins with recycling symbols. The cobblestones sparkle clean.
+- **Camera:** Ground-level camera tracking forward along the freshly swept lane behind the broom's sweep.
+- **Animation Action:** Smooth broom sweeping motion, children tossing waste into bins, high-five between Safai Sathi and Aarav.
+- **Audio Sync:** Lead & Choir: "हातमा कुचो लिएर, सफा बाटो पार्ने... सफा सुन्दर नेपाल, कति राम्रो काम! सादर प्रणाम!"
+
+---
+
+## SCENE 12 — The Clean Village Parade
+- **Section:** Chorus 3 [1:54 - 2:04]
+- **Environment:** 50% Village (Wide hillside lane looking over valley)
+- **Visual Description:** The sparkling clean main village street decorated with colorful paper bunting. Aarav, Aarya, Puntu, Kisan Dai, Doctor Didi, Guruma, Kaligad Kaka, and Safai Sathi walk together shoulder to shoulder in a festive unity parade, waving to villagers watching from ornate wooden balconies.
+- **Camera:** Wide tracking shot moving backward ahead of the parade as they joyfully march forward.
+- **Animation Action:** Synchronized celebratory walking, waving, laughing, confetti falling gently.
+- **Audio Sync:** Chorus 3: "हातेमालो गरौँ नानी, छमछम नाचौँ साथी! गाउँ-सहर सुन्दर पार्ने, हाम्रा सहयोगी साथी!"
+
+---
+
+## SCENE 13 — The Community High-Five & Grateful Bow
+- **Section:** Chorus 3 [2:04 - 2:14]
+- **Environment:** 50% Courtyard (Under the ancient Chautari banyan tree)
+- **Visual Description:** Under the cool shade of an ancient leafy Pipal/Banyan stone platform (Chautari), community helpers sit and stand together. Aarav gives a joyful high-five to Safai Sathi, while Aarya offers a fresh marigold garland to Guruma. Puntu sits on the stone wall with a big contented grin.
+- **Camera:** Medium shot panning across the heartfelt interactions of kids and community heroes.
+- **Animation Action:** High-five contact, garland placing around neck, smiling Namaste bow.
+- **Audio Sync:** Choir: "हाम्रा सहयोगी साथी! कति ज्ञानी साथी! हात जोडी सबैलाई, भनौँ आज साथी! नमस्ते! नमस्ते!"
+
+---
+
+## SCENE 14 — Newari Pagoda Courtyard & Yomari Punhi
+- **Section:** Bridge [2:14 - 2:19]
+- **Environment:** 50% Courtyard (Patan/Kathmandu Newar brick courtyard)
+- **Visual Description:** Majestic Kathmandu Valley brick courtyard with tiered pagoda temple roofs and carved lattice windows. A sweet Newar boy and girl in black-and-red Haku Patasi dress hold steaming, cute fish-shaped Yomari rice cakes on brass plates. Beside them, a large traditional Dhime drum and brass Bhuchhya cymbals rest proudly on a straw mat.
+- **Camera:** Slow cinematic pan from the pagoda roof down to the steaming sweet Yomari and children's smiling faces.
+- **Animation Action:** Steam rising gently from Yomari, children taking a tiny bite, smiling with sweet chocolate/molasses delight.
+- **Audio Sync:** Lead vocal: "काठमाडौँको आँगनमा धिमे बज्छ, योमरी पुन्ही आयो!" + Dhime drum roll accent.
+
+---
+
+## SCENE 15 — Tamang High Hilltop & Damphu Rhythm (Sonam Lhosar)
+- **Section:** Bridge [2:19 - 2:24]
+- **Environment:** 50% Nature (Misty pine ridge in high hills)
+- **Visual Description:** High mountain meadow surrounded by tall Himalayan pines, where thousands of five-color Buddhist prayer flags (Lungta) flutter vigorously in the mountain breeze. A Tamang boy and girl in bright traditional Bakhu dress tap circular Damphu drums decorated with carved wooden birds, performing joyful bouncy Selo dance steps.
+- **Camera:** Sweeping low-angle crane shot rising up past dancing feet into the fluttering prayer flags and blue sky.
+- **Animation Action:** Damphu hand-tapping, energetic hopping Selo step, fluttering prayer flags.
+- **Audio Sync:** Lead vocal: "डाँडामाथि डम्फू घन्क्यो, सोनाम ल्होसार छायो!" + Damphu drum beat.
+
+---
+
+## SCENE 16 — Mithila Courtyard & Lotus Pond (Chhath Festival)
+- **Section:** Bridge [2:24 - 2:29]
+- **Environment:** 50% Nature (Lotus pond in Terai village at dawn)
+- **Visual Description:** Peaceful Terai village pond covered in pink blooming lotus flowers at sunrise. In the background, smooth clay courtyard walls are painted with vibrant Madhubani/Mithila folk murals (peacocks, sun, and fish). A Mithila mother and two children in colorful yellow and red sarees stand waist-deep in clear water, raising woven bamboo Soop baskets filled with sweet Thekua, bananas, and burning oil lamps toward the glowing orange rising sun.
+- **Camera:** Slow glide across the calm water reflecting the golden morning sun and floating lotus blossoms.
+- **Animation Action:** Gentle ripples in water, holding up the offerings, Arghya water pouring like golden liquid light.
+- **Audio Sync:** Lead vocal: "तराईमा मिथिला कला, छठको पावन पूजा!"
+
+---
+
+## SCENE 17 — Rai-Limbu Sakela & Cardamom Hills (Udhauli Parva)
+- **Section:** Bridge [2:29 - 2:34]
+- **Environment:** 50% Nature (Eastern Nepal green terraced hills & cardamom groves)
+- **Visual Description:** Rolling green slopes of eastern Nepal lush with large cardamom plants and silver oak trees. Kirati Rai and Limbu children in traditional ethnic attire with coin necklaces (Sirphool) and feathered headdresses dance the Sakela / Chandi Nach in a graceful undulating line, waving green leaves and silken scarves in gratitude to Mother Nature for the harvest.
+- **Camera:** Smooth gliding tracking shot along the curved line of dancers moving in harmony.
+- **Animation Action:** Graceful bird-like arm motions mimicking flying crane, stepping in rhythmic succession to Dhol-Jhyamta.
+- **Audio Sync:** Lead vocal: "उधौलीमा चण्डी नाच, थारू माघीको मजा!"
+
+---
+
+## SCENE 18 — Tharu Painted Clay Village & Maghi Danda Dance
+- **Section:** Bridge [2:34 - 2:38]
+- **Environment:** 50% Village (Traditional Tharu village in Chitwan/Dang)
+- **Visual Description:** Beautiful traditional Tharu mud-plastered longhouses painted with white clay relief art of elephants, peacocks, and clay jars. Four cheerful Tharu children in vibrant white and red skirts and embroidered vests playfully clash smooth decorated wooden sticks (Danda) in pairs, performing the energetic Maghi festival stick dance.
+- **Camera:** Dynamic circular track capturing the sparkling rhythmic contact of the sticks.
+- **Animation Action:** Rhythmic stick tapping (clack-clack), quick twirls, joyful laughter, jumping.
+- **Audio Sync:** Lead: "हामी सबै नेपाली, एउटै फुलबारीका फूल!" → [ONE BAR OF SUSPENSEFUL SILENCE & BREATHTAKING PAUSE].
+
+---
+
+## SCENE 19 — The Grand Rainbow Unity Celebration
+- **Section:** Final Chorus [2:38 - 2:52]
+- **Environment:** 50% Nature (Expansive mountain plateau beneath snow peaks)
+- **Visual Description:** The ultimate celebratory visual climax! On an expansive emerald-green mountain plateau overlooking glowing Himalayan peaks, a brilliant, glowing 7-color rainbow arches across the entire sky. Every single character from the song — Aarav, Aarya, Puntu, Kisan Dai, Doctor Didi, Guruma, Kaligad Kaka, Safai Sathi, and the Newari, Tamang, Mithila, Rai, and Tharu children — join hands in a massive, vibrant circle dance. Golden flower petals rain gently from above.
+- **Camera:** Epic sweeping crane shot pulling back and rising high into the sky to reveal the full rainbow and unity circle.
+- **Animation Action:** Joyful jumping, synchronized clapping, twirling, smiling, celebrating together with pure ecstasy.
+- **Audio Sync:** Final Chorus (+0.5 dB lift): "हातेमालो गरौँ नानी, छमछम नाचौँ साथी! गाउँ-सहर सुन्दर पार्ने, हाम्रा सहयोगी साथी! ... नमस्ते! नमस्ते! जय जय नेपाल!"
+
+---
+
+## SCENE 20 — Golden Sunset Wave & Heartfelt Gratitude Bow
+- **Section:** Outro [2:52 - 3:00]
+- **Environment:** 50% Nature (Hilltop viewpoint at golden hour)
+- **Visual Description:** Twilight paints the Himalayan snowcaps in warm shades of rose-gold, apricot, and lavender. In the warm sunset glow, Aarav, Aarya, and Puntu stand front and center, with all community helpers smiling warmly behind them. Together, they fold their hands in a deep, grateful Namaste bow, then wave enthusiastically to the audience with genuine warmth and affection.
+- **Camera:** Medium close-up on the children's beaming faces → slow, smooth dolly pull-back into a wide, peaceful panoramic sunset view.
+- **Animation Action:** Folded Namaste bow, wide affectionate smiles, slow rhythmic waving goodbye, gentle fading dusk light.
+- **Audio Sync:** Outro: "हातेमालो गरौँ नानी... हाम्रा प्यारा साथी! सबै साथीलाई धेरै धेरै धन्यवाद! नमस्ते!"

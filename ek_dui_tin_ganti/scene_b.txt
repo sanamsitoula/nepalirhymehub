@@ -1,0 +1,102 @@
+🔢 एक दुई तीन, गन्ती गन — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Counting steps on the stairs
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The friends climb stone steps to a small hill temple, counting each step.
+
+**CAMERA:** low angle up the stairs
+**ANIMATION:** climbing, counting
+
+---
+## SCENE 2 — Grandfather's counting
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Grandfather counts maize cobs drying in the sun with Aarav on his lap.
+
+**CAMERA:** medium courtyard
+**ANIMATION:** pointing, nodding
+
+---
+## SCENE 3 — Counting with Puntu
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Puntu holds up his paws to count with the children on a log in the forest.
+
+**CAMERA:** close-up
+**ANIMATION:** paw counting
+
+---
+## SCENE 4 — Lake reflections
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A calm mountain lake reflects white clouds while the children count ducks.
+
+**CAMERA:** wide lake
+**ANIMATION:** ducks gliding
+
+---
+## SCENE 5 — Prayer flags count
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Colourful prayer flags flutter on a ridge as the camera passes each one.
+
+**CAMERA:** side tracking
+**ANIMATION:** flags fluttering
+
+---
+## SCENE 6 — Lanterns on the roof
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a rooftop at evening, the children light small lamps one by one (safely, with mother beside them).
+
+**CAMERA:** medium → close on the lamps
+**ANIMATION:** lamps glowing
+
+---
+## SCENE 7 — Star gazing
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The three friends lie on a mat on the roof pointing at stars.
+
+**CAMERA:** overhead
+**ANIMATION:** pointing, twinkling
+
+---
+## SCENE 8 — Countdown by the river
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+At sunset by the river, Aarya drops ten pebbles back into the water one by one, slowly.
+
+**CAMERA:** close on the hand → wide sunset
+**ANIMATION:** pebbles dropping, ripples
+
+---
+## SCENE 9 — Village counting party
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In the village square, children and parents count and clap together under strings of marigolds.
+
+**CAMERA:** wide square
+**ANIMATION:** clapping, cheering
+
+---
+## SCENE 10 — Ten balloons
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Ten colourful balloons float up from the meadow into the blue sky as the children cheer.
+
+**CAMERA:** low angle → tilt up
+**ANIMATION:** balloons rising

@@ -1,0 +1,102 @@
+🐄 भन मेरा भाइ हो, देउसी रे! — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Jhyamta close-up
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Small hands crash shiny brass jhyamta cymbals in slow motion, sparkles of lamp light.
+
+**CAMERA:** macro slow motion
+**ANIMATION:** cymbal shimmer
+
+---
+## SCENE 2 — Cows of Gokul
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In a green meadow by a river, gentle cows with bells graze while a cowherd boy plays the flute.
+
+**CAMERA:** wide meadow
+**ANIMATION:** bells swinging, grass swaying
+
+---
+## SCENE 3 — Rangoli at the door
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A colourful rangoli of flower petals and diyos at a house door, the Deusi group's feet stepping around it carefully.
+
+**CAMERA:** top-down
+**ANIMATION:** careful steps
+
+---
+## SCENE 4 — Tika for the boys
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A grandmother puts a small red tika on each boy's forehead after the song.
+
+**CAMERA:** close-ups in turn
+**ANIMATION:** tika, smiles
+
+---
+## SCENE 5 — Puntu's madal
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Puntu plays a tiny madal on a rooftop under the stars.
+
+**CAMERA:** close-up → wide rooftop
+**ANIMATION:** paw drumming
+
+---
+## SCENE 6 — Repairing the temple bell
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The children watch as a craftsman hangs a newly polished bell at the village temple, bought with the Deusi gifts; Aarav rings it gently.
+
+**CAMERA:** low angle to the bell
+**ANIMATION:** bell swinging
+
+---
+## SCENE 7 — Sharing food together
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The boys sit in a row on a mat sharing sel roti and fruit with the girls' Bhailo group.
+
+**CAMERA:** side tracking
+**ANIMATION:** sharing, laughing
+
+---
+## SCENE 8 — Quiet blessing at the temple
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In soft lamp light at the small temple, the children stand with folded hands; incense curls up.
+
+**CAMERA:** slow push-in
+**ANIMATION:** flames, incense
+
+---
+## SCENE 9 — Petal shower
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Children throw marigold petals over the marching group from a balcony.
+
+**CAMERA:** low angle slow motion
+**ANIMATION:** petals falling
+
+---
+## SCENE 10 — Village under stars
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+The hill village glows with lamps under a starry sky as the music ends.
+
+**CAMERA:** wide pull back
+**ANIMATION:** lights twinkling

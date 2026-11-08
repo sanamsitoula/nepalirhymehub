@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-08",
+  "total_songs": 31,
+  "rendered_masters_count": 1,
+  "approved_pipelines_count": 20,
+  "master_runway_days": 1,
+  "planned_runway_days": 20,
+  "min_days_requirement": 14,
+  "is_short": true,
+  "platforms": {
+    "YouTube_Long": {
+      "ready": 1,
+      "runway_days": 1,
+      "status": "SHORT"
+    },
+    "YouTube_Shorts": {
+      "ready": 3,
+      "runway_days": 1,
+      "status": "SHORT"
+    },
+    "TikTok": {
+      "ready": 1,
+      "runway_days": 1,
+      "status": "SHORT"
+    },
+    "Facebook_Instagram": {
+      "ready": 1,
+      "runway_days": 1,
+      "status": "SHORT"
+    }
+  },
+  "ready_songs": [
+    "bhailo_e_bhaili"
+  ],
+  "next_in_pipeline": [
+    "aama_baba_pyaro_ghar",
+    "bakhri_ko_chhamchham",
+    "bandar_mama",
+    "bhale_basyo_kukhuri_kaa",
+    "chandi_naach_sakela"
+  ]
+}

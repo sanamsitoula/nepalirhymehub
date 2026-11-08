@@ -1,0 +1,102 @@
+👏 ताली ताली ताली बजाऊ — more scenes (repeat pass, so every shot gets its own clip)
+Same MASTER STYLE, CHARACTER LOCK, reference and NEGATIVE as scene.txt. No text drawn by the image model.
+
+---
+## SCENE 1 — Rooftop jump
+**Section:** Chorus 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a flat rooftop with snowy mountains behind, the children jump in sync, arms up.
+
+**CAMERA:** low angle
+**ANIMATION:** jumps in sync
+
+---
+## SCENE 2 — Clapping game in pairs
+**Section:** Verse 1 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Aarav and Aarya sit facing each other on a straw mat and play a pat-a-cake clapping game.
+
+**CAMERA:** close side shot
+**ANIMATION:** pair clapping
+
+---
+## SCENE 3 — Stomping by the river
+**Section:** Chorus 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a pebble river bank, the children stomp and little pebbles jiggle.
+
+**CAMERA:** ground level → medium
+**ANIMATION:** stomps, jiggling pebbles
+
+---
+## SCENE 4 — Animal friends copy
+**Section:** Verse 2 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+A baby goat and a calf in a farmyard copy the children's crouch and jump.
+
+**CAMERA:** wide farmyard
+**ANIMATION:** goat hop, calf bounce
+
+---
+## SCENE 5 — Puntu on the madal
+**Section:** Instrumental (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+Puntu taps a tiny madal on a log in the forest, ears bouncing to the beat.
+
+**CAMERA:** close-up → orbit
+**ANIMATION:** paw taps, ear bounces
+
+---
+## SCENE 6 — Head wobble with grandparents
+**Section:** Verse 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In a courtyard, grandfather and grandmother wobble their heads with the children and everyone laughs.
+
+**CAMERA:** medium group
+**ANIMATION:** wobbles, laughter
+
+---
+## SCENE 7 — Circle dance at school
+**Section:** Chorus 3 (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+In the school yard, a class dances in a circle with their teacher.
+
+**CAMERA:** overhead → low
+**ANIMATION:** circle, clapping
+
+---
+## SCENE 8 — Freeze at the lake
+**Section:** Bridge (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+By a calm mountain lake at dusk, three friends freeze in funny poses, reflections still in the water.
+
+**CAMERA:** wide still shot
+**ANIMATION:** freeze, still reflections
+
+---
+## SCENE 9 — Spinning with ribbons
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+On a meadow, the children spin holding long colourful ribbons.
+
+**CAMERA:** low orbit
+**ANIMATION:** ribbon swirls
+
+---
+## SCENE 10 — Group high-five
+**Section:** Final Chorus (repeat)
+
+**IMAGE + VIDEO PROMPT:**
+All the children and Puntu jump for a big group high-five in slow motion.
+
+**CAMERA:** low angle slow motion
+**ANIMATION:** high-five, petals

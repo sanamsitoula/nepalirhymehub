@@ -1,0 +1,3128 @@
+{
+ "lyrics": {
+  "version": "eabe4b8bb934",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "sung lines",
+    "level": "pass",
+    "message": "37 sung lines",
+    "evidence": ""
+   },
+   {
+    "check": "sections",
+    "level": "pass",
+    "message": "11 section headings",
+    "evidence": ""
+   },
+   {
+    "check": "language",
+    "level": "pass",
+    "message": "sung lines are 100% Devanagari (Hindi/Nepali); 0 English line(s) read as stage notes",
+    "evidence": ""
+   },
+   {
+    "check": "repeated lines",
+    "level": "pass",
+    "message": "no accidental back-to-back repeats",
+    "evidence": ""
+   },
+   {
+    "check": "theme & meaning",
+    "level": "not_run",
+    "message": "Creative judgement: check the lyrics tell this deity's story",
+    "evidence": ""
+   }
+  ],
+  "summary": "passed"
+ },
+ "audio": {
+  "version": "95845cee1f52",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "take6.wav decodes (pcm_s24le)",
+    "evidence": ""
+   },
+   {
+    "check": "duration",
+    "level": "pass",
+    "message": "song is 159.3 s",
+    "evidence": "expected 60-600 s"
+   },
+   {
+    "check": "sample rate",
+    "level": "pass",
+    "message": "48000 Hz, 2 channel(s)",
+    "evidence": ""
+   },
+   {
+    "check": "loudness",
+    "level": "pass",
+    "message": "mean -17.1 dB, peak -2.0 dB",
+    "evidence": ""
+   },
+   {
+    "check": "clipping",
+    "level": "pass",
+    "message": "0 samples at 0 dBFS",
+    "evidence": ""
+   },
+   {
+    "check": "silence",
+    "level": "pass",
+    "message": "no unexpected silence",
+    "evidence": ""
+   },
+   {
+    "check": "long version vs video length",
+    "level": "pass",
+    "message": "long version 307.9 s, shot plan 307.9 s",
+    "evidence": ""
+   },
+   {
+    "check": "vocal balance",
+    "level": "pass",
+    "message": "vocal stem 4.4 dB under the mix",
+    "evidence": "heuristic from the saved stems"
+   },
+   {
+    "check": "intelligibility & pronunciation",
+    "level": "not_run",
+    "message": "No speech-recognition model on this machine: listen to the vocals and comment",
+    "evidence": ""
+   },
+   {
+    "check": "mood, arrangement, instrument balance",
+    "level": "not_run",
+    "message": "Creative judgement: listen against the brief in lyrics.txt and comment",
+    "evidence": ""
+   }
+  ],
+  "summary": "passed"
+ },
+ "character": {
+  "version": "fe05b249f111",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 47",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:intro-sc1-b1": {
+  "version": "27b1ece031f2",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:intro-sc2-b2": {
+  "version": "1f4d59b52d90",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 39",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1-sc3-b1": {
+  "version": "1ad48ddcd204",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1-sc4-b1": {
+  "version": "0878d99c91f0",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1-sc4-b2": {
+  "version": "ad69bae3086d",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 41",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse1-sc5-b1": {
+  "version": "3f10c994d459",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 59",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse1-sc5-b2": {
+  "version": "b7470c9b2f69",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse1-sc6-b1": {
+  "version": "03ba97b844c5",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 56",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus2-sc7-b1": {
+  "version": "014aa6890081",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 38",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus2-sc8-b1": {
+  "version": "b9aa7a9dc86a",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 41",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus2-sc8-b2": {
+  "version": "63ea4012bcf0",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 40",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse2-sc9-b1": {
+  "version": "6fe679480bf1",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse2-sc10-b1": {
+  "version": "6479e52c08cf",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse2-sc10-b2": {
+  "version": "cfce09ba0857",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 41",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interlude-sc11-b1": {
+  "version": "5ace8b5f3b98",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interlude-sc11-b2": {
+  "version": "c83b8d76ef0d",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interlude-sc11-b1-r2": {
+  "version": "ec18d6bf9412",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interlude-sc11-b2-r2": {
+  "version": "8ed6d001d621",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3-sc13-b1": {
+  "version": "c99c223cdc59",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 40",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3-sc14-b1": {
+  "version": "d04d5c46fd35",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3-sc14-b2": {
+  "version": "168c5691b663",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 47",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3-sc15-b2": {
+  "version": "a99cab93a467",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus3-sc16-b1": {
+  "version": "74bc1807b4f7",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus3-sc16-b2": {
+  "version": "d18afa1772c8",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus3-sc16-b1-r2": {
+  "version": "0be1bf1f95d2",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:bridge-sc17-b1": {
+  "version": "d96e501ae5c2",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 38",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:bridge-sc18-b1": {
+  "version": "11c9a3f8d79d",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 41",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:bridge-sc18-b2": {
+  "version": "49557acc35d1",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 40",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4-sc23-b1": {
+  "version": "d76fd192d890",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 47",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4-sc23-b2": {
+  "version": "8b312bb47fd2",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 41",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4-sc23-b1-r2": {
+  "version": "d5444b2db9c6",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4-sc23-b2-r2": {
+  "version": "fe120395687d",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 49",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1b-sc23-b1": {
+  "version": "c3c5df16b344",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1b-sc23-b2": {
+  "version": "b6befae5c090",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1b-sc24-b1": {
+  "version": "ca4052f24f74",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse1b-sc25-b1": {
+  "version": "6b5237d26438",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 50",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse1b-sc26-b1": {
+  "version": "5d432cdbdb2f",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 57",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse1b-sc26-b2": {
+  "version": "282b4c92b163",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 47",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus2b-sc27-b1": {
+  "version": "65cd4b79480b",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 49",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus2b-sc28-b1": {
+  "version": "e7c14f5741ad",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus2b-sc27-b1-r2": {
+  "version": "b4b8d19a162d",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 48",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse2b-sc29-b1": {
+  "version": "3722a6fc1737",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse2b-sc30-b1": {
+  "version": "fcb356bf0492",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse2b-sc29-b1-r2": {
+  "version": "8999401c7921",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 49",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interludeb-sc12-b1": {
+  "version": "f8eca7c99bc5",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 48",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interludeb-sc12-b1-r2": {
+  "version": "331244b43141",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interludeb-sc12-b1-r3": {
+  "version": "1296a6131acb",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:interludeb-sc12-b1-r4": {
+  "version": "d0d4aacd6199",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 48",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3b-sc33-b1": {
+  "version": "c8a435bf1f9e",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3b-sc34-b1": {
+  "version": "e47930efcf24",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3b-sc33-b1-r2": {
+  "version": "8164003a4150",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:verse3b-sc34-b1-r2": {
+  "version": "ec4c00eef4e1",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus3b-sc35-b1": {
+  "version": "5c3ecd222230",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 40",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus3b-sc35-b2": {
+  "version": "84f0c147a378",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 39",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus3b-sc36-b1": {
+  "version": "3a6f0f6117c3",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 45",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:bridgeb-sc37-b1": {
+  "version": "72acd4500ee1",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 39",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:bridgeb-sc37-b1-r2": {
+  "version": "55b6f1cceda0",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:bridgeb-sc37-b1-r3": {
+  "version": "9c058cc7c3a2",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 39",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4b-sc3-b1": {
+  "version": "e53ebc0ab926",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4b-sc3-b2": {
+  "version": "ea6c63bff485",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4b-sc3-b1-r2": {
+  "version": "413fb98b1747",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 43",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus4b-sc3-b2-r2": {
+  "version": "ee6cc6666203",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 44",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1b-sc23-b1-r2": {
+  "version": "d297e61fe8a6",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1b-sc23-b2-r2": {
+  "version": "2dddc5a6d204",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:chorus1b-sc24-b1-r2": {
+  "version": "ac05e5329046",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 46",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:outro-sc20-b1": {
+  "version": "3e1caeb90cb2",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 41",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:outro-sc20-b2": {
+  "version": "ca95702a5f45",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "scene:outro-sc20-b1-r2": {
+  "version": "71d644221bac",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "decode",
+    "level": "pass",
+    "message": "1376x768",
+    "evidence": ""
+   },
+   {
+    "check": "resolution",
+    "level": "pass",
+    "message": "short side 768px",
+    "evidence": ""
+   },
+   {
+    "check": "aspect ratio",
+    "level": "pass",
+    "message": "1.79:1",
+    "evidence": ""
+   },
+   {
+    "check": "blank picture",
+    "level": "pass",
+    "message": "tone spread 42",
+    "evidence": ""
+   },
+   {
+    "check": "identity, anatomy, extra figures",
+    "level": "not_run",
+    "message": "Needs eyes or a vision model: face, clothing, ornaments, hands, extra characters",
+    "evidence": ""
+   },
+   {
+    "check": "duplicate scene",
+    "level": "pass",
+    "message": "no near-duplicate",
+    "evidence": "perceptual hash"
+   }
+  ],
+  "summary": "passed"
+ },
+ "storyboard": {
+  "version": "6bc6c1470c87",
+  "checked_at": "2026-11-08T10:37:01+05:45",
+  "findings": [
+   {
+    "check": "shot plan",
+    "level": "pass",
+    "message": "68 shots from 68 clips, 307.9 s",
+    "evidence": ""
+   },
+   {
+    "check": "timeline coverage",
+    "level": "pass",
+    "message": "shots cover the whole song without gaps",
+    "evidence": ""
+   },
+   {
+    "check": "music timing",
+    "level": "pass",
+    "message": "plan 307.9 s, music 307.9 s",
+    "evidence": ""
+   },
+   {
+    "check": "shot -> clip links",
+    "level": "pass",
+    "message": "every shot has its clip",
+    "evidence": ""
+   },
+   {
+    "check": "scene stills",
+    "level": "pass",
+    "message": "every scene has its still",
+    "evidence": ""
+   },
+   {
+    "check": "section order",
+    "level": "pass",
+    "message": "shots follow the song's sections",
+    "evidence": ""
+   },
+   {
+    "check": "variety",
+    "level": "pass",
+    "message": "no clip shown twice in a row",
+    "evidence": ""
+   },
+   {
+    "check": "repeated prompts",
+    "level": "warn",
+    "message": "the same scene prompt is used again (repeat pass): check the stills differ enough",
+    "evidence": "chorus1-sc3-b1 = chorus4b-sc3-b1; chorus4-sc23-b1 = chorus1b-sc23-b1; chorus4-sc23-b2 = chorus1b-sc23-b2; chorus4-sc23-b1-r2 = chorus1b-sc23-b1-r2; chorus4-sc23-b2-r2 = chorus1b-sc23-b2-r2"
+   },
+   {
+    "check": "clip length",
+    "level": "pass",
+    "message": "every clip fits what the generators make",
+    "evidence": ""
+   },
+   {
+    "check": "story & continuity",
+    "level": "not_run",
+    "message": "Creative judgement: does the sequence tell the story, follow the lyrics, keep the character?",
+    "evidence": ""
+   }
+  ],
+  "summary": "warnings"
+ }
+}

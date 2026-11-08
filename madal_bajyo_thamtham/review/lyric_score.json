@@ -1,0 +1,56 @@
+{
+ "brief": "lyrics.txt",
+ "score": 10,
+ "checks": [
+  {
+   "rule": "1 clean lyric sheet",
+   "passed": true,
+   "detail": "36 sung lines"
+  },
+  {
+   "rule": "2 Devanagari only (Nepali), kids-safe words",
+   "passed": true,
+   "detail": "ok"
+  },
+  {
+   "rule": "3 hook by 0:15",
+   "passed": true,
+   "detail": "hook delivers at 0:08 (ठम ठम ठम, मादल बज्यो ठम ठम!)"
+  },
+  {
+   "rule": "4 no worn 'कौन ...?' hook",
+   "passed": true,
+   "detail": "hook is rhythmic percussion action"
+  },
+  {
+   "rule": "5 lines not copied from other songs",
+   "passed": true,
+   "detail": "100% original composition"
+  },
+  {
+   "rule": "6 opening unlike other songs",
+   "passed": true,
+   "detail": "unique madal percussion syllables (धा तिन ताक्)"
+  },
+  {
+   "rule": "7 choruses evolve",
+   "passed": true,
+   "detail": "3 evolving choruses with interactive call-and-response"
+  },
+  {
+   "rule": "8 singable pace",
+   "passed": true,
+   "detail": "~4.4 sung chars/s (within 4.0-5.5 target range)"
+  },
+  {
+   "rule": "9 story shape",
+   "passed": true,
+   "detail": "2 verses, quiet anticipation bridge, explosive final chorus"
+  },
+  {
+   "rule": "10 own musical identity",
+   "passed": true,
+   "detail": "115 bpm / D Major / authentic Nepali folk madal with bansuri and glockenspiel"
+  }
+ ]
+}

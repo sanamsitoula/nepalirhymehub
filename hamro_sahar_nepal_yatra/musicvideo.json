@@ -1,0 +1,28 @@
+{
+  "project_name": "hamro_sahar_nepal_yatra",
+  "title_nepali": "हाम्रो सहर, हाम्रो देश!",
+  "title_english": "Hamro Sahar, Hamro Desh (Modern Nepal Kids Song)",
+  "tempo_bpm": 120,
+  "key": "D Major",
+  "scenes_count": 20,
+  "characters": [
+    "Aarav",
+    "Sneha",
+    "Tenzing",
+    "Rhea",
+    "Bikash",
+    "Zaid",
+    "Puntu",
+    "Moti"
+  ],
+  "brand": {
+    "channel_name": "Nepali Rhyme Hub",
+    "handle": "@NepaliRhymeHub",
+    "colors": {
+      "night_blue": "#14234B",
+      "marigold": "#F7A21B",
+      "diyo_gold": "#FFD166",
+      "sindoor_crimson": "#C8102E"
+    }
+  }
+}

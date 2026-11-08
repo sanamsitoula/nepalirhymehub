@@ -1,0 +1,634 @@
+2026-11-07T22:58:39+05:45	music	take1: 'ए भैली! ए भैली! — E BHAILI E BHAILI' from Flow Music
+2026-11-07T23:00:16+05:45	music	take2: 'ए भैली! ए भैली! (Catchy Nursery Take)' from Flow Music
+2026-11-07T23:02:31+05:45	music	take3: take1 remastered (remaster.py)
+2026-11-07T23:10:56+05:45	music	take4: 'झिलिमिली भैलो — JHILIMILI BHAILO (v2)' from Flow Music (brief lyrics.txt)
+2026-11-07T23:12:53+05:45	music	take5: 'झिलिमिली भैलो (Jhilimili Bhailo)' from Flow Music (brief lyrics.txt)
+2026-11-07T23:17:11+05:45	music	take6: take4 remastered (remaster.py)
+2026-11-07T23:21:26+05:45	reference	'' from Flow's image model
+2026-11-07T23:21:27+05:45	double	take6: 159.3s -> 307.9s (21 pieces)
+2026-11-07T23:21:27+05:45	plan	take6: 68 shots, 68 clips, 308s new footage of 308s
+2026-11-07T23:22:30+05:45	storyboard	intro-sc1-b1 drawn in Flow
+2026-11-07T23:23:17+05:45	storyboard	intro-sc1-b2 drawn in Flow
+2026-11-07T23:24:21+05:45	storyboard	chorus1-sc2-b1 drawn in Flow
+2026-11-07T23:25:24+05:45	storyboard	chorus1-sc2-b2 drawn in Flow
+2026-11-07T23:26:17+05:45	storyboard	chorus1-sc2-b1-r2 drawn in Flow
+2026-11-07T23:27:15+05:45	storyboard	verse1-sc3-b1 drawn in Flow
+2026-11-07T23:28:09+05:45	storyboard	verse1-sc4-b1 drawn in Flow
+2026-11-07T23:29:02+05:45	storyboard	verse1-sc5-b2 drawn in Flow
+2026-11-07T23:29:54+05:45	storyboard	chorus2-sc6-b1 drawn in Flow
+2026-11-07T23:32:11+05:45	reference	'' from Flow's image model
+2026-11-07T23:32:11+05:45	plan	take6: 68 shots, 68 clips, 308s new footage of 308s
+2026-11-07T23:33:25+05:45	storyboard	intro-sc1-b1 drawn in Flow
+2026-11-07T23:34:18+05:45	storyboard	intro-sc2-b2 drawn in Flow
+2026-11-07T23:35:11+05:45	storyboard	chorus1-sc3-b1 drawn in Flow
+2026-11-07T23:36:04+05:45	storyboard	chorus1-sc4-b1 drawn in Flow
+2026-11-07T23:36:57+05:45	storyboard	chorus1-sc4-b2 drawn in Flow
+2026-11-07T23:37:56+05:45	storyboard	verse1-sc5-b1 drawn in Flow
+2026-11-07T23:38:54+05:45	storyboard	verse1-sc5-b2 drawn in Flow
+2026-11-07T23:39:47+05:45	storyboard	verse1-sc6-b1 drawn in Flow
+2026-11-07T23:40:41+05:45	storyboard	chorus2-sc7-b1 drawn in Flow
+2026-11-07T23:41:33+05:45	storyboard	chorus2-sc8-b1 drawn in Flow
+2026-11-07T23:42:32+05:45	storyboard	chorus2-sc8-b2 drawn in Flow
+2026-11-07T23:43:25+05:45	storyboard	verse2-sc9-b1 drawn in Flow
+2026-11-07T23:44:23+05:45	storyboard	verse2-sc10-b1 drawn in Flow
+2026-11-07T23:45:16+05:45	storyboard	verse2-sc10-b2 drawn in Flow
+2026-11-07T23:46:09+05:45	storyboard	interlude-sc11-b1 drawn in Flow
+2026-11-07T23:47:07+05:45	storyboard	interlude-sc11-b2 drawn in Flow
+2026-11-07T23:48:00+05:45	storyboard	interlude-sc11-b1-r2 drawn in Flow
+2026-11-07T23:48:53+05:45	storyboard	interlude-sc11-b2-r2 drawn in Flow
+2026-11-07T23:49:46+05:45	storyboard	verse3-sc13-b1 drawn in Flow
+2026-11-07T23:50:34+05:45	storyboard	verse3-sc14-b1 drawn in Flow
+2026-11-07T23:51:33+05:45	storyboard	verse3-sc14-b2 drawn in Flow
+2026-11-07T23:52:26+05:45	storyboard	verse3-sc15-b2 drawn in Flow
+2026-11-07T23:53:14+05:45	storyboard	chorus3-sc16-b1 drawn in Flow
+2026-11-07T23:54:07+05:45	storyboard	chorus3-sc16-b2 drawn in Flow
+2026-11-07T23:55:01+05:45	storyboard	chorus3-sc16-b1-r2 drawn in Flow
+2026-11-07T23:55:54+05:45	storyboard	bridge-sc17-b1 drawn in Flow
+2026-11-07T23:56:48+05:45	storyboard	bridge-sc18-b1 drawn in Flow
+2026-11-07T23:57:46+05:45	storyboard	bridge-sc18-b2 drawn in Flow
+2026-11-07T23:58:40+05:45	storyboard	chorus4-sc23-b1 drawn in Flow
+2026-11-07T23:59:38+05:45	storyboard	chorus4-sc23-b2 drawn in Flow
+2026-11-08T00:00:32+05:45	storyboard	chorus4-sc23-b1-r2 drawn in Flow
+2026-11-08T00:01:25+05:45	storyboard	chorus4-sc23-b2-r2 drawn in Flow
+2026-11-08T00:02:19+05:45	storyboard	chorus1b-sc23-b1 drawn in Flow
+2026-11-08T00:03:12+05:45	storyboard	chorus1b-sc23-b2 drawn in Flow
+2026-11-08T00:04:06+05:45	storyboard	chorus1b-sc24-b1 drawn in Flow
+2026-11-08T00:05:04+05:45	storyboard	verse1b-sc25-b1 drawn in Flow
+2026-11-08T00:05:58+05:45	storyboard	verse1b-sc26-b1 drawn in Flow
+2026-11-08T00:06:52+05:45	storyboard	verse1b-sc26-b2 drawn in Flow
+2026-11-08T00:07:45+05:45	storyboard	chorus2b-sc27-b1 drawn in Flow
+2026-11-08T00:08:38+05:45	storyboard	chorus2b-sc28-b1 drawn in Flow
+2026-11-08T00:09:32+05:45	storyboard	chorus2b-sc27-b1-r2 drawn in Flow
+2026-11-08T00:10:25+05:45	storyboard	verse2b-sc29-b1 drawn in Flow
+2026-11-08T00:11:19+05:45	storyboard	verse2b-sc30-b1 drawn in Flow
+2026-11-08T00:12:18+05:45	storyboard	verse2b-sc29-b1-r2 drawn in Flow
+2026-11-08T00:13:16+05:45	storyboard	interludeb-sc12-b1 drawn in Flow
+2026-11-08T00:14:15+05:45	storyboard	interludeb-sc12-b1-r2 drawn in Flow
+2026-11-08T00:15:08+05:45	storyboard	interludeb-sc12-b1-r3 drawn in Flow
+2026-11-08T00:16:07+05:45	storyboard	interludeb-sc12-b1-r4 drawn in Flow
+2026-11-08T00:17:00+05:45	storyboard	verse3b-sc33-b1 drawn in Flow
+2026-11-08T00:17:54+05:45	storyboard	verse3b-sc34-b1 drawn in Flow
+2026-11-08T00:18:42+05:45	storyboard	verse3b-sc33-b1-r2 drawn in Flow
+2026-11-08T00:19:36+05:45	storyboard	verse3b-sc34-b1-r2 drawn in Flow
+2026-11-08T00:20:34+05:45	storyboard	chorus3b-sc35-b1 drawn in Flow
+2026-11-08T00:21:28+05:45	storyboard	chorus3b-sc35-b2 drawn in Flow
+2026-11-08T00:22:21+05:45	storyboard	chorus3b-sc36-b1 drawn in Flow
+2026-11-08T00:23:10+05:45	storyboard	bridgeb-sc37-b1 drawn in Flow
+2026-11-08T00:23:58+05:45	storyboard	bridgeb-sc37-b1-r2 drawn in Flow
+2026-11-08T09:07:42+05:45	storyboard	bridgeb-sc37-b1-r3 drawn in Flow
+2026-11-08T09:08:24+05:45	storyboard	chorus4b-sc3-b1 drawn in Flow
+2026-11-08T09:09:07+05:45	storyboard	chorus4b-sc3-b2 drawn in Flow
+2026-11-08T09:09:55+05:45	storyboard	chorus4b-sc3-b1-r2 drawn in Flow
+2026-11-08T09:10:38+05:45	storyboard	chorus4b-sc3-b2-r2 drawn in Flow
+2026-11-08T09:11:21+05:45	storyboard	chorus1b-sc23-b1-r2 drawn in Flow
+2026-11-08T09:12:09+05:45	storyboard	chorus1b-sc23-b2-r2 drawn in Flow
+2026-11-08T09:12:56+05:45	storyboard	chorus1b-sc24-b1-r2 drawn in Flow
+2026-11-08T09:13:39+05:45	storyboard	outro-sc20-b1 drawn in Flow
+2026-11-08T09:14:22+05:45	storyboard	outro-sc20-b2 drawn in Flow
+2026-11-08T09:15:04+05:45	storyboard	outro-sc20-b1-r2 drawn in Flow
+2026-11-08T09:18:15+05:45	plan	take6: 68 shots, 68 clips, 308s new footage of 308s
+2026-11-08T09:19:50+05:45	storyboard	intro-sc2-b2 drawn in Flow
+2026-11-08T09:20:33+05:45	storyboard	chorus1-sc3-b1 drawn in Flow
+2026-11-08T09:21:21+05:45	storyboard	verse1-sc5-b2 drawn in Flow
+2026-11-08T09:21:58+05:45	storyboard	chorus2-sc8-b1 drawn in Flow
+2026-11-08T09:22:41+05:45	storyboard	chorus2-sc8-b2 drawn in Flow
+2026-11-08T09:23:24+05:45	storyboard	verse2-sc9-b1 drawn in Flow
+2026-11-08T09:24:11+05:45	storyboard	verse2-sc10-b1 drawn in Flow
+2026-11-08T09:24:53+05:45	storyboard	verse2-sc10-b2 drawn in Flow
+2026-11-08T09:25:36+05:45	storyboard	interlude-sc11-b1 drawn in Flow
+2026-11-08T09:26:23+05:45	storyboard	interlude-sc11-b2 drawn in Flow
+2026-11-08T09:27:11+05:45	storyboard	interlude-sc11-b1-r2 drawn in Flow
+2026-11-08T09:27:54+05:45	storyboard	interlude-sc11-b2-r2 drawn in Flow
+2026-11-08T09:28:42+05:45	storyboard	verse3-sc13-b1 drawn in Flow
+2026-11-08T09:29:20+05:45	storyboard	verse3-sc14-b1 drawn in Flow
+2026-11-08T09:30:02+05:45	storyboard	verse3-sc14-b2 drawn in Flow
+2026-11-08T09:30:44+05:45	storyboard	verse3-sc15-b2 drawn in Flow
+2026-11-08T09:31:26+05:45	storyboard	chorus3-sc16-b1 drawn in Flow
+2026-11-08T09:32:08+05:45	storyboard	chorus3-sc16-b2 drawn in Flow
+2026-11-08T09:33:06+05:45	storyboard	bridge-sc18-b2 drawn in Flow
+2026-11-08T09:33:49+05:45	storyboard	chorus4-sc23-b1 drawn in Flow
+2026-11-08T09:34:31+05:45	storyboard	chorus4-sc23-b2 drawn in Flow
+2026-11-08T09:35:19+05:45	storyboard	chorus4-sc23-b1-r2 drawn in Flow
+2026-11-08T09:36:07+05:45	storyboard	chorus4-sc23-b2-r2 drawn in Flow
+2026-11-08T09:36:49+05:45	storyboard	chorus1b-sc23-b1 drawn in Flow
+2026-11-08T09:37:37+05:45	storyboard	chorus1b-sc23-b2 drawn in Flow
+2026-11-08T09:38:19+05:45	storyboard	chorus1b-sc24-b1 drawn in Flow
+2026-11-08T09:39:07+05:45	storyboard	verse1b-sc25-b1 drawn in Flow
+2026-11-08T09:39:55+05:45	storyboard	chorus2b-sc27-b1 drawn in Flow
+2026-11-08T09:40:38+05:45	storyboard	chorus2b-sc27-b1-r2 drawn in Flow
+2026-11-08T09:41:26+05:45	storyboard	verse2b-sc29-b1 drawn in Flow
+2026-11-08T09:42:09+05:45	storyboard	verse2b-sc30-b1 drawn in Flow
+2026-11-08T09:43:07+05:45	storyboard	verse2b-sc29-b1-r2 drawn in Flow
+2026-11-08T09:43:49+05:45	storyboard	interludeb-sc12-b1 drawn in Flow
+2026-11-08T09:44:32+05:45	storyboard	interludeb-sc12-b1-r2 drawn in Flow
+2026-11-08T09:45:15+05:45	storyboard	interludeb-sc12-b1-r3 drawn in Flow
+2026-11-08T09:46:13+05:45	storyboard	interludeb-sc12-b1-r4 drawn in Flow
+2026-11-08T09:47:01+05:45	storyboard	verse3b-sc33-b1 drawn in Flow
+2026-11-08T09:47:44+05:45	storyboard	verse3b-sc34-b1 drawn in Flow
+2026-11-08T09:48:27+05:45	storyboard	verse3b-sc33-b1-r2 drawn in Flow
+2026-11-08T09:49:10+05:45	storyboard	verse3b-sc34-b1-r2 drawn in Flow
+2026-11-08T09:49:52+05:45	storyboard	chorus3b-sc35-b1 drawn in Flow
+2026-11-08T09:50:35+05:45	storyboard	chorus3b-sc35-b2 drawn in Flow
+2026-11-08T09:51:18+05:45	storyboard	chorus3b-sc36-b1 drawn in Flow
+2026-11-08T09:52:01+05:45	storyboard	chorus4b-sc3-b1 drawn in Flow
+2026-11-08T09:52:44+05:45	storyboard	chorus4b-sc3-b2 drawn in Flow
+2026-11-08T09:53:27+05:45	storyboard	chorus4b-sc3-b1-r2 drawn in Flow
+2026-11-08T09:54:10+05:45	storyboard	chorus4b-sc3-b2-r2 drawn in Flow
+2026-11-08T09:54:53+05:45	storyboard	chorus1b-sc23-b1-r2 drawn in Flow
+2026-11-08T09:55:36+05:45	storyboard	chorus1b-sc23-b2-r2 drawn in Flow
+2026-11-08T09:56:23+05:45	storyboard	chorus1b-sc24-b1-r2 drawn in Flow
+12:34:02 Target Song: bhailo_e_bhaili | Missing clips: 68 of 68 | Max this run: 5
+12:34:02 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+12:34:10 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+12:34:41 Clip intro-sc1-b1: generation started (6s, ~10 credits)... waiting
+12:36:27 Clip intro-sc1-b1: saved successfully (6.42 MB)
+12:36:27 Sleeping 29.8s before next clip...
+12:37:09 Clip intro-sc2-b2: generation started (4s, ~8 credits)... waiting
+12:38:53 Clip intro-sc2-b2: saved successfully (4.05 MB)
+12:38:53 Sleeping 29.3s before next clip...
+12:39:39 Clip chorus1-sc3-b1: generation started (4s, ~8 credits)... waiting
+12:41:17 Clip chorus1-sc3-b1: saved successfully (4.63 MB)
+12:41:17 Sleeping 19.7s before next clip...
+12:41:53 Clip chorus1-sc4-b1: generation started (4s, ~8 credits)... waiting
+12:43:28 Clip chorus1-sc4-b1: saved successfully (4.10 MB)
+12:43:28 Sleeping 18.1s before next clip...
+12:44:02 Clip chorus1-sc4-b2: generation started (4s, ~8 credits)... waiting
+12:45:44 Clip chorus1-sc4-b2: saved successfully (5.12 MB)
+12:45:44 Run completed: 5 clips made.
+2026-11-08T12:46:54+05:45	render	take6/flow: bhailo_e_bhaili-take6-flow-preview.mp4 32.83s picture, 32.83s music, 5 shots
+12:47:15 Target Song: bhailo_e_bhaili | Missing clips: 63 of 68 | Max this run: 5
+12:47:15 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+12:47:24 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+12:47:42 Clip verse1-sc5-b1: generation started (4s, ~8 credits)... waiting
+12:49:28 Clip verse1-sc5-b1: saved successfully (2.65 MB)
+12:49:28 Sleeping 29.3s before next clip...
+12:50:12 Clip verse1-sc5-b2: generation started (4s, ~8 credits)... waiting
+12:51:42 Clip verse1-sc5-b2: saved successfully (2.13 MB)
+12:51:42 Sleeping 27.0s before next clip...
+12:52:25 Clip verse1-sc6-b1: generation started (4s, ~8 credits)... waiting
+13:03:19 Error on verse1-sc6-b1: Timeout 600000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+13:03:33 Clip chorus2-sc7-b1: generation started (4s, ~8 credits)... waiting
+13:03:45 Error on chorus2-sc7-b1: Flow shows: unusual activity
+13:03:45 Error on chorus2-sc8-b1: Flow shows: unusual activity
+13:03:46 Error on chorus2-sc8-b2: Flow shows: unusual activity
+13:03:47 Error on verse2-sc9-b1: Flow shows: unusual activity
+13:03:47 Error on verse2-sc10-b1: Flow shows: unusual activity
+13:03:48 Error on verse2-sc10-b2: Flow shows: unusual activity
+13:03:49 Error on interlude-sc11-b1: Flow shows: unusual activity
+13:03:49 Error on interlude-sc11-b2: Flow shows: unusual activity
+13:03:50 Error on interlude-sc11-b1-r2: Flow shows: unusual activity
+13:03:51 Error on interlude-sc11-b2-r2: Flow shows: unusual activity
+13:03:51 Error on verse3-sc13-b1: Flow shows: unusual activity
+13:03:52 Error on verse3-sc14-b1: Flow shows: unusual activity
+13:03:53 Error on verse3-sc14-b2: Flow shows: unusual activity
+13:03:53 Error on verse3-sc15-b2: Flow shows: unusual activity
+13:03:54 Error on chorus3-sc16-b1: Flow shows: unusual activity
+13:03:55 Error on chorus3-sc16-b2: Flow shows: unusual activity
+13:03:55 Error on chorus3-sc16-b1-r2: Flow shows: unusual activity
+13:03:56 Error on bridge-sc17-b1: Flow shows: unusual activity
+13:03:57 Error on bridge-sc18-b1: Flow shows: unusual activity
+13:03:57 Error on bridge-sc18-b2: Flow shows: unusual activity
+13:03:58 Error on chorus4-sc23-b1: Flow shows: unusual activity
+13:03:58 Error on chorus4-sc23-b2: Flow shows: unusual activity
+13:03:59 Error on chorus4-sc23-b1-r2: Flow shows: unusual activity
+13:04:00 Error on chorus4-sc23-b2-r2: Flow shows: unusual activity
+13:04:00 Error on chorus1b-sc23-b1: Flow shows: unusual activity
+13:04:01 Error on chorus1b-sc23-b2: Flow shows: unusual activity
+13:04:02 Error on chorus1b-sc24-b1: Flow shows: unusual activity
+13:04:03 Error on verse1b-sc25-b1: Flow shows: unusual activity
+13:04:03 Error on verse1b-sc26-b1: Flow shows: unusual activity
+13:04:04 Error on verse1b-sc26-b2: Flow shows: unusual activity
+13:04:05 Error on chorus2b-sc27-b1: Flow shows: unusual activity
+13:04:05 Error on chorus2b-sc28-b1: Flow shows: unusual activity
+13:04:06 Error on chorus2b-sc27-b1-r2: Flow shows: unusual activity
+13:04:07 Error on verse2b-sc29-b1: Flow shows: unusual activity
+13:04:08 Error on verse2b-sc30-b1: Flow shows: unusual activity
+13:04:08 Error on verse2b-sc29-b1-r2: Flow shows: unusual activity
+13:04:09 Error on interludeb-sc12-b1: Flow shows: unusual activity
+13:04:10 Error on interludeb-sc12-b1-r2: Flow shows: unusual activity
+13:04:11 Error on interludeb-sc12-b1-r3: Flow shows: unusual activity
+13:04:11 Error on interludeb-sc12-b1-r4: Flow shows: unusual activity
+13:04:12 Error on verse3b-sc33-b1: Flow shows: unusual activity
+13:04:12 Error on verse3b-sc34-b1: Flow shows: unusual activity
+13:04:13 Error on verse3b-sc33-b1-r2: Flow shows: unusual activity
+13:04:14 Error on verse3b-sc34-b1-r2: Flow shows: unusual activity
+13:04:14 Error on chorus3b-sc35-b1: Flow shows: unusual activity
+13:04:15 Error on chorus3b-sc35-b2: Flow shows: unusual activity
+13:04:16 Error on chorus3b-sc36-b1: Flow shows: unusual activity
+13:04:17 Error on bridgeb-sc37-b1: Flow shows: unusual activity
+13:04:18 Error on bridgeb-sc37-b1-r2: Flow shows: unusual activity
+13:04:18 Error on bridgeb-sc37-b1-r3: Flow shows: unusual activity
+13:04:19 Error on chorus4b-sc3-b1: Flow shows: unusual activity
+13:04:20 Error on chorus4b-sc3-b2: Flow shows: unusual activity
+13:04:20 Error on chorus4b-sc3-b1-r2: Flow shows: unusual activity
+13:04:21 Error on chorus4b-sc3-b2-r2: Flow shows: unusual activity
+13:04:22 Error on chorus1b-sc23-b1-r2: Flow shows: unusual activity
+13:04:22 Error on chorus1b-sc23-b2-r2: Flow shows: unusual activity
+13:04:23 Error on chorus1b-sc24-b1-r2: Flow shows: unusual activity
+13:04:23 Error on outro-sc20-b1: Flow shows: unusual activity
+13:04:24 Error on outro-sc20-b2: Flow shows: unusual activity
+13:04:25 Error on outro-sc20-b1-r2: Flow shows: unusual activity
+13:04:25 Run completed: 2 clips made.
+2026-11-08T13:05:53+05:45	render	take6/flow: bhailo_e_bhaili-take6-flow-preview.mp4 42.00s picture, 42.00s music, 7 shots
+13:10:15 Target Song: bhailo_e_bhaili | Missing clips: 60 of 68 | Max this run: 10
+13:10:15 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+13:10:24 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+13:10:40 Clip chorus2-sc7-b1: generation started (4s, ~8 credits)... waiting
+13:10:49 Error on chorus2-sc7-b1: Flow shows: unusual activity
+13:10:49 Error on chorus2-sc8-b1: Flow shows: unusual activity
+13:10:50 Error on chorus2-sc8-b2: Flow shows: unusual activity
+13:10:51 Error on verse2-sc9-b1: Flow shows: unusual activity
+13:10:51 Error on verse2-sc10-b1: Flow shows: unusual activity
+13:10:52 Error on verse2-sc10-b2: Flow shows: unusual activity
+13:10:53 Error on interlude-sc11-b1: Flow shows: unusual activity
+13:10:54 Error on interlude-sc11-b2: Flow shows: unusual activity
+13:10:54 Error on interlude-sc11-b1-r2: Flow shows: unusual activity
+13:10:55 Error on interlude-sc11-b2-r2: Flow shows: unusual activity
+13:10:56 Error on verse3-sc13-b1: Flow shows: unusual activity
+13:10:56 Error on verse3-sc14-b1: Flow shows: unusual activity
+13:10:57 Error on verse3-sc14-b2: Flow shows: unusual activity
+13:10:57 Error on verse3-sc15-b2: Flow shows: unusual activity
+13:10:58 Error on chorus3-sc16-b1: Flow shows: unusual activity
+13:10:59 Error on chorus3-sc16-b2: Flow shows: unusual activity
+13:11:00 Error on chorus3-sc16-b1-r2: Flow shows: unusual activity
+13:11:00 Error on bridge-sc17-b1: Flow shows: unusual activity
+13:11:01 Error on bridge-sc18-b1: Flow shows: unusual activity
+13:11:01 Error on bridge-sc18-b2: Flow shows: unusual activity
+13:11:02 Error on chorus4-sc23-b1: Flow shows: unusual activity
+13:11:03 Error on chorus4-sc23-b2: Flow shows: unusual activity
+13:11:03 Error on chorus4-sc23-b1-r2: Flow shows: unusual activity
+13:11:04 Error on chorus4-sc23-b2-r2: Flow shows: unusual activity
+13:11:05 Error on chorus1b-sc23-b1: Flow shows: unusual activity
+13:11:05 Error on chorus1b-sc23-b2: Flow shows: unusual activity
+13:11:06 Error on chorus1b-sc24-b1: Flow shows: unusual activity
+13:11:07 Error on verse1b-sc25-b1: Flow shows: unusual activity
+13:11:07 Error on verse1b-sc26-b1: Flow shows: unusual activity
+13:11:08 Error on verse1b-sc26-b2: Flow shows: unusual activity
+13:11:09 Error on chorus2b-sc27-b1: Flow shows: unusual activity
+13:11:09 Error on chorus2b-sc28-b1: Flow shows: unusual activity
+13:11:10 Error on chorus2b-sc27-b1-r2: Flow shows: unusual activity
+13:11:11 Error on verse2b-sc29-b1: Flow shows: unusual activity
+13:11:11 Error on verse2b-sc30-b1: Flow shows: unusual activity
+13:11:12 Error on verse2b-sc29-b1-r2: Flow shows: unusual activity
+13:11:13 Error on interludeb-sc12-b1: Flow shows: unusual activity
+13:11:13 Error on interludeb-sc12-b1-r2: Flow shows: unusual activity
+13:11:14 Error on interludeb-sc12-b1-r3: Flow shows: unusual activity
+13:11:14 Error on interludeb-sc12-b1-r4: Flow shows: unusual activity
+13:11:15 Error on verse3b-sc33-b1: Flow shows: unusual activity
+13:11:16 Error on verse3b-sc34-b1: Flow shows: unusual activity
+13:14:25 Target Song: bhailo_e_bhaili | Missing clips: 60 of 68 | Max this run: 10
+13:14:25 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+13:14:33 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+13:14:48 Clip chorus2-sc7-b1: generation started (4s, ~8 credits)... waiting
+13:15:00 Rate-limit cooldown notice: Flow shows: unusual activity. Pausing 75s...
+13:16:15 Failed after cooldown on chorus2-sc7-b1: Flow shows: unusual activity. Stopping run to be safe.
+13:16:15 Run completed: 0 clips made.
+13:19:53 Target Song: bhailo_e_bhaili | Missing clips: 59 of 68 | Max this run: 10
+13:19:53 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+13:20:00 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+13:20:16 Rate-limit cooldown notice: Captcha verification iframe detected. Pausing 75s...
+13:21:13 Target Song: bhailo_e_bhaili | Missing clips: 59 of 68 | Max this run: 10
+13:21:13 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+13:21:21 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+13:21:38 Clip chorus2-sc8-b1: generation clicked (4s, ~8 credits)... waiting for tile
+13:21:40 Clip chorus2-sc8-b1: tile active, waiting for completion...
+13:22:37 Clip chorus2-sc8-b1: saved successfully (3.51 MB)
+13:22:37 Sleeping 26.3s before next clip...
+13:23:19 Clip chorus2-sc8-b2: generation clicked (4s, ~8 credits)... waiting for tile
+13:23:21 Clip chorus2-sc8-b2: tile active, waiting for completion...
+13:24:20 Clip chorus2-sc8-b2: saved successfully (3.21 MB)
+13:24:20 Sleeping 41.5s before next clip...
+13:25:16 Clip verse2-sc9-b1: generation clicked (4s, ~8 credits)... waiting for tile
+13:25:18 Clip verse2-sc9-b1: tile active, waiting for completion...
+13:26:28 Clip verse2-sc9-b1: saved successfully (2.91 MB)
+13:26:28 Sleeping 32.2s before next clip...
+13:27:16 Clip verse2-sc10-b1: generation clicked (4s, ~8 credits)... waiting for tile
+13:27:18 Clip verse2-sc10-b1: tile active, waiting for completion...
+13:28:22 Clip verse2-sc10-b1: saved successfully (2.90 MB)
+13:28:22 Sleeping 30.1s before next clip...
+13:29:08 Clip verse2-sc10-b2: generation clicked (4s, ~8 credits)... waiting for tile
+13:29:10 Clip verse2-sc10-b2: tile active, waiting for completion...
+13:29:59 Clip verse2-sc10-b2: saved successfully (3.01 MB)
+13:29:59 Sleeping 26.1s before next clip...
+13:30:42 Clip interlude-sc11-b1: generation clicked (4s, ~8 credits)... waiting for tile
+13:30:44 Clip interlude-sc11-b1: tile active, waiting for completion...
+13:31:40 Clip interlude-sc11-b1: saved successfully (3.33 MB)
+13:31:40 Sleeping 36.3s before next clip...
+13:32:32 Clip interlude-sc11-b2: generation clicked (4s, ~8 credits)... waiting for tile
+13:32:35 Clip interlude-sc11-b2: tile active, waiting for completion...
+13:33:27 Clip interlude-sc11-b2: saved successfully (3.56 MB)
+13:33:27 Sleeping 34.5s before next clip...
+13:34:17 Clip interlude-sc11-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+13:34:19 Clip interlude-sc11-b1-r2: tile active, waiting for completion...
+13:35:16 Clip interlude-sc11-b1-r2: saved successfully (3.71 MB)
+13:35:16 Sleeping 26.3s before next clip...
+13:35:58 Clip interlude-sc11-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+13:36:29 Note: tile count did not increase immediately, checking first tile...
+13:36:29 Clip interlude-sc11-b2-r2: tile active, waiting for completion...
+13:39:54 Target Song: bhailo_e_bhaili | Missing clips: 51 of 68 | Max this run: 1
+13:39:54 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+13:40:03 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+13:40:22 Clip interlude-sc11-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+13:40:55 Note: tile count did not increase immediately, checking first tile...
+13:40:55 Clip interlude-sc11-b2-r2: tile active, waiting for completion...
+13:41:03 Rate-limit cooldown notice: Flow shows: unusual activity. Pausing 75s...
+13:42:18 Failed after cooldown on interlude-sc11-b2-r2: Flow shows: unusual activity. Stopping run to be safe.
+13:42:18 Run completed: 0 clips made.
+13:43:45 Target Song: bhailo_e_bhaili | Missing clips: 51 of 68 | Max this run: 1
+13:43:46 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+13:43:53 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+13:44:12 Clip interlude-sc11-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+13:44:46 Note: tile count did not increase immediately, checking first tile...
+13:44:46 Clip interlude-sc11-b2-r2: tile active, waiting for completion...
+13:44:55 Error on interlude-sc11-b2-r2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+13:45:12 Clip verse3-sc13-b1: generation clicked (4s, ~8 credits)... waiting for tile
+13:45:45 Note: tile count did not increase immediately, checking first tile...
+13:45:45 Clip verse3-sc13-b1: tile active, waiting for completion...
+13:45:51 Error on verse3-sc13-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+13:46:08 Clip verse3-sc14-b1: generation clicked (4s, ~8 credits)... waiting for tile
+13:46:41 Note: tile count did not increase immediately, checking first tile...
+13:46:41 Clip verse3-sc14-b1: tile active, waiting for completion...
+13:46:48 Error on verse3-sc14-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+2026-11-08T13:57:14+05:45	render	take6/flow: bhailo_e_bhaili-take6-flow.mp4 315.57s picture, 315.57s music, 68 shots
+14:57:12 Clip verse3-sc13-b1: generation clicked (4s, ~8 credits)... waiting for tile
+14:57:45 Note: tile count did not increase immediately, checking first tile...
+14:57:45 Clip verse3-sc13-b1: tile active, waiting for completion...
+14:58:13 Clip verse3-sc13-b1: saved successfully (2.71 MB)
+15:01:10 Target Song: bhailo_e_bhaili | Missing clips: 50 of 68 | Max this run: 1
+15:01:11 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+15:01:17 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+15:01:36 Clip interlude-sc11-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:02:09 Note: tile count did not increase immediately, checking first tile...
+15:02:09 Clip interlude-sc11-b2-r2: tile active, waiting for completion...
+15:02:18 Error on interlude-sc11-b2-r2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:02:36 Clip verse3-sc14-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:03:10 Note: tile count did not increase immediately, checking first tile...
+15:03:10 Clip verse3-sc14-b1: tile active, waiting for completion...
+15:03:15 Error on verse3-sc14-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:03:33 Clip verse3-sc14-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:04:06 Note: tile count did not increase immediately, checking first tile...
+15:04:06 Clip verse3-sc14-b2: tile active, waiting for completion...
+15:04:13 Error on verse3-sc14-b2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:04:30 Clip verse3-sc15-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:05:02 Note: tile count did not increase immediately, checking first tile...
+15:05:02 Clip verse3-sc15-b2: tile active, waiting for completion...
+15:05:07 Error on verse3-sc15-b2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:05:22 Clip chorus3-sc16-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:05:54 Note: tile count did not increase immediately, checking first tile...
+15:05:54 Clip chorus3-sc16-b1: tile active, waiting for completion...
+15:05:59 Error on chorus3-sc16-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:06:16 Clip chorus3-sc16-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:06:47 Note: tile count did not increase immediately, checking first tile...
+15:06:47 Clip chorus3-sc16-b2: tile active, waiting for completion...
+15:06:53 Error on chorus3-sc16-b2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:07:08 Clip chorus3-sc16-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:07:39 Note: tile count did not increase immediately, checking first tile...
+15:07:39 Clip chorus3-sc16-b1-r2: tile active, waiting for completion...
+15:07:47 Error on chorus3-sc16-b1-r2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:08:02 Clip bridge-sc17-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:08:34 Note: tile count did not increase immediately, checking first tile...
+15:08:34 Clip bridge-sc17-b1: tile active, waiting for completion...
+15:08:41 Error on bridge-sc17-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:08:57 Clip bridge-sc18-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:11:33 Target Song: bhailo_e_bhaili | Missing clips: 50 of 68 | Max this run: 1
+15:11:34 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+15:11:41 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+15:12:11 Clip interlude-sc11-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:12:43 Note: tile count did not increase immediately, checking first tile...
+15:12:43 Clip interlude-sc11-b2-r2: tile active, waiting for completion...
+15:12:50 Error on interlude-sc11-b2-r2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:12:50 Stopping: account quota / rate limit hit.
+15:12:50 Run completed: 0 clips made.
+15:16:51 Clip interlude-sc11-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:17:22 Note: tile count did not increase immediately, checking first tile...
+15:17:22 Clip interlude-sc11-b2-r2: tile active, waiting for completion...
+15:17:57 Clip interlude-sc11-b2-r2: saved successfully (4.03 MB)
+15:19:01 Target Song: bhailo_e_bhaili | Missing clips: 49 of 68 | Max this run: 5
+15:19:02 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+15:19:10 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+15:19:26 Clip verse3-sc14-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:19:58 Note: tile count did not increase immediately, checking first tile...
+15:19:58 Clip verse3-sc14-b1: tile active, waiting for completion...
+15:20:26 Clip verse3-sc14-b1: saved successfully (2.80 MB)
+15:20:26 Sleeping 42.0s before next clip...
+15:21:25 Clip verse3-sc14-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:21:56 Note: tile count did not increase immediately, checking first tile...
+15:21:56 Clip verse3-sc14-b2: tile active, waiting for completion...
+15:23:03 Tile has completed options menu (finished). Proceeding to save.
+15:23:17 Clip verse3-sc14-b2: saved successfully (2.60 MB)
+15:23:17 Sleeping 37.2s before next clip...
+15:24:12 Clip verse3-sc15-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:24:43 Note: tile count did not increase immediately, checking first tile...
+15:24:43 Clip verse3-sc15-b2: tile active, waiting for completion...
+15:25:12 Clip verse3-sc15-b2: saved successfully (2.79 MB)
+15:25:12 Sleeping 41.6s before next clip...
+15:26:10 Clip chorus3-sc16-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:26:42 Note: tile count did not increase immediately, checking first tile...
+15:26:42 Clip chorus3-sc16-b1: tile active, waiting for completion...
+15:27:44 Tile has completed options menu (finished). Proceeding to save.
+15:27:58 Clip chorus3-sc16-b1: saved successfully (3.21 MB)
+15:27:58 Sleeping 25.9s before next clip...
+15:28:39 Clip chorus3-sc16-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:29:11 Note: tile count did not increase immediately, checking first tile...
+15:29:11 Clip chorus3-sc16-b2: tile active, waiting for completion...
+15:30:19 Tile has completed options menu (finished). Proceeding to save.
+15:30:34 Clip chorus3-sc16-b2: saved successfully (3.50 MB)
+15:30:34 Run completed: 5 clips made.
+15:31:00 Target Song: bhailo_e_bhaili | Missing clips: 44 of 68 | Max this run: 10
+15:31:01 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+15:31:09 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+15:31:26 Clip chorus3-sc16-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:31:57 Note: tile count did not increase immediately, checking first tile...
+15:31:57 Clip chorus3-sc16-b1-r2: tile active, waiting for completion...
+15:32:04 Error on chorus3-sc16-b1-r2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:32:04 Stopping: account quota / rate limit hit.
+15:32:04 Run completed: 0 clips made.
+15:32:27 Target Song: bhailo_e_bhaili | Missing clips: 44 of 68 | Max this run: 1
+15:32:27 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+15:32:35 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+15:32:50 Clip chorus3-sc16-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:33:21 Note: tile count did not increase immediately, checking first tile...
+15:33:21 Clip chorus3-sc16-b1-r2: tile active, waiting for completion...
+15:33:51 Clip chorus3-sc16-b1-r2: saved successfully (3.61 MB)
+15:33:51 Run completed: 1 clips made.
+15:34:08 Target Song: bhailo_e_bhaili | Missing clips: 43 of 68 | Max this run: 5
+15:34:08 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+15:34:15 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+15:34:33 Clip bridge-sc17-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:35:04 Note: tile count did not increase immediately, checking first tile...
+15:35:04 Clip bridge-sc17-b1: tile active, waiting for completion...
+15:36:07 Tile has completed options menu (finished). Proceeding to save.
+15:36:21 Clip bridge-sc17-b1: saved successfully (3.04 MB)
+15:36:21 Sleeping 38.8s before next clip...
+15:37:16 Clip bridge-sc18-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:37:48 Note: tile count did not increase immediately, checking first tile...
+15:37:48 Clip bridge-sc18-b1: tile active, waiting for completion...
+15:38:48 Tile has completed options menu (finished). Proceeding to save.
+15:39:03 Clip bridge-sc18-b1: saved successfully (2.70 MB)
+15:39:03 Sleeping 41.2s before next clip...
+15:39:59 Clip bridge-sc18-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:40:31 Note: tile count did not increase immediately, checking first tile...
+15:40:31 Clip bridge-sc18-b2: tile active, waiting for completion...
+15:41:37 Tile has completed options menu (finished). Proceeding to save.
+15:41:50 Clip bridge-sc18-b2: saved successfully (2.66 MB)
+15:41:50 Sleeping 32.1s before next clip...
+15:42:37 Clip chorus4-sc23-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:43:08 Note: tile count did not increase immediately, checking first tile...
+15:43:08 Clip chorus4-sc23-b1: tile active, waiting for completion...
+15:43:44 Clip chorus4-sc23-b1: saved successfully (3.29 MB)
+15:43:44 Sleeping 29.8s before next clip...
+15:44:29 Clip chorus4-sc23-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:45:00 Note: tile count did not increase immediately, checking first tile...
+15:45:00 Clip chorus4-sc23-b2: tile active, waiting for completion...
+15:45:28 Clip chorus4-sc23-b2: saved successfully (4.00 MB)
+15:45:28 Run completed: 5 clips made.
+15:45:43 Target Song: bhailo_e_bhaili | Missing clips: 38 of 68 | Max this run: 5
+15:45:44 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+15:45:52 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+15:46:09 Clip chorus4-sc23-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:46:41 Note: tile count did not increase immediately, checking first tile...
+15:46:41 Clip chorus4-sc23-b1-r2: tile active, waiting for completion...
+15:46:48 Error on chorus4-sc23-b1-r2: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:46:48 Stopping: account quota / rate limit hit.
+15:46:48 Run completed: 0 clips made.
+15:46:57 Target Song: bhailo_e_bhaili | Missing clips: 38 of 68 | Max this run: 5
+15:46:58 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+15:47:05 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+15:47:21 Clip chorus4-sc23-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:47:52 Note: tile count did not increase immediately, checking first tile...
+15:47:52 Clip chorus4-sc23-b1-r2: tile active, waiting for completion...
+15:48:18 Clip chorus4-sc23-b1-r2: saved successfully (3.32 MB)
+15:48:18 Sleeping 47.7s before next clip...
+15:49:21 Clip chorus4-sc23-b2-r2: generation clicked (4s, ~8 credits)... waiting for tile
+15:49:52 Note: tile count did not increase immediately, checking first tile...
+15:49:52 Clip chorus4-sc23-b2-r2: tile active, waiting for completion...
+15:50:55 Tile has completed options menu (finished). Proceeding to save.
+15:51:09 Clip chorus4-sc23-b2-r2: saved successfully (3.55 MB)
+15:51:09 Sleeping 42.7s before next clip...
+15:52:07 Clip chorus1b-sc23-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:52:38 Note: tile count did not increase immediately, checking first tile...
+15:52:38 Clip chorus1b-sc23-b1: tile active, waiting for completion...
+15:53:38 Tile has completed options menu (finished). Proceeding to save.
+15:53:53 Clip chorus1b-sc23-b1: saved successfully (3.04 MB)
+15:53:53 Sleeping 43.2s before next clip...
+15:54:53 Clip chorus1b-sc23-b2: generation clicked (4s, ~8 credits)... waiting for tile
+15:55:25 Note: tile count did not increase immediately, checking first tile...
+15:55:25 Clip chorus1b-sc23-b2: tile active, waiting for completion...
+15:56:26 Tile has completed options menu (finished). Proceeding to save.
+15:56:41 Clip chorus1b-sc23-b2: saved successfully (3.12 MB)
+15:56:41 Sleeping 40.4s before next clip...
+15:57:37 Clip chorus1b-sc24-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:58:08 Note: tile count did not increase immediately, checking first tile...
+15:58:08 Clip chorus1b-sc24-b1: tile active, waiting for completion...
+15:58:35 Clip chorus1b-sc24-b1: saved successfully (3.60 MB)
+15:58:35 Run completed: 5 clips made.
+15:58:48 Target Song: bhailo_e_bhaili | Missing clips: 33 of 68 | Max this run: 5
+15:58:49 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+15:58:56 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+15:59:17 Clip verse1b-sc25-b1: generation clicked (4s, ~8 credits)... waiting for tile
+15:59:50 Note: tile count did not increase immediately, checking first tile...
+15:59:50 Clip verse1b-sc25-b1: tile active, waiting for completion...
+15:59:58 Error on verse1b-sc25-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+15:59:58 Stopping: account quota / rate limit hit.
+15:59:58 Run completed: 0 clips made.
+16:00:14 Target Song: bhailo_e_bhaili | Missing clips: 33 of 68 | Max this run: 1
+16:00:15 Loading project: https://flow.google.com/project/a8aa2c07-c3ad-4da3-9b7e-5712903c758e
+16:00:24 Account check: True (labels: ['Google Account: Hari Priya Sitoula  \n(haripriyasitoula@gmail.com), Google membership'])
+16:00:43 Clip verse1b-sc25-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:01:16 Note: tile count did not increase immediately, checking first tile...
+16:01:16 Clip verse1b-sc25-b1: tile active, waiting for completion...
+16:01:25 Error on verse1b-sc25-b1: Flow could not generate this clip: warning Failed We noticed some unusual activity. Note that browser extensions that modify the page may cause issues. Please visit the Help Center for more infor
+16:01:25 Stopping: account quota / rate limit hit.
+16:01:25 Run completed: 0 clips made.
+16:02:27 Clip verse1b-sc25-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:03:00 Note: tile count did not increase immediately, checking first tile...
+16:03:00 Clip verse1b-sc25-b1: tile active, waiting for completion...
+16:03:31 Clip verse1b-sc25-b1: saved successfully (2.88 MB)
+16:04:04 Target Song: bhailo_e_bhaili | Missing clips: 32 of 68 | Max this run: 5
+16:04:05 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+16:04:11 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+16:04:31 Clip verse1b-sc26-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:05:05 Note: tile count did not increase immediately, checking first tile...
+16:05:05 Clip verse1b-sc26-b1: tile active, waiting for completion...
+16:06:05 Tile has completed options menu (finished). Proceeding to save.
+16:06:21 Clip verse1b-sc26-b1: saved successfully (2.32 MB)
+16:06:21 Sleeping 44.5s before next clip...
+16:07:23 Clip verse1b-sc26-b2: generation clicked (4s, ~8 credits)... waiting for tile
+16:07:56 Note: tile count did not increase immediately, checking first tile...
+16:07:56 Clip verse1b-sc26-b2: tile active, waiting for completion...
+16:08:27 Clip verse1b-sc26-b2: saved successfully (2.64 MB)
+16:08:27 Sleeping 41.0s before next clip...
+16:09:26 Clip chorus2b-sc27-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:10:00 Note: tile count did not increase immediately, checking first tile...
+16:10:00 Clip chorus2b-sc27-b1: tile active, waiting for completion...
+16:11:01 Tile has completed options menu (finished). Proceeding to save.
+16:11:16 Clip chorus2b-sc27-b1: saved successfully (2.97 MB)
+16:11:16 Sleeping 53.8s before next clip...
+16:12:25 Clip chorus2b-sc28-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:12:27 Clip chorus2b-sc28-b1: tile active, waiting for completion...
+16:13:23 Clip chorus2b-sc28-b1: saved successfully (3.15 MB)
+16:13:23 Sleeping 52.6s before next clip...
+16:14:32 Clip chorus2b-sc27-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+16:15:03 Note: tile count did not increase immediately, checking first tile...
+16:15:03 Clip chorus2b-sc27-b1-r2: tile active, waiting for completion...
+16:15:35 Clip chorus2b-sc27-b1-r2: saved successfully (3.24 MB)
+16:15:35 Run completed: 5 clips made.
+16:16:17 Target Song: bhailo_e_bhaili | Missing clips: 27 of 68 | Max this run: 5
+16:16:18 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+16:16:26 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+16:16:42 Clip verse2b-sc29-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:17:14 Note: tile count did not increase immediately, checking first tile...
+16:17:14 Clip verse2b-sc29-b1: tile active, waiting for completion...
+16:18:43 Clip verse2b-sc29-b1: saved successfully (2.90 MB)
+16:18:43 Sleeping 41.0s before next clip...
+16:19:39 Clip verse2b-sc30-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:20:10 Note: tile count did not increase immediately, checking first tile...
+16:20:10 Clip verse2b-sc30-b1: tile active, waiting for completion...
+16:20:34 Clip verse2b-sc30-b1: saved successfully (2.95 MB)
+16:20:34 Sleeping 36.4s before next clip...
+16:21:27 Clip verse2b-sc29-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+16:21:58 Note: tile count did not increase immediately, checking first tile...
+16:21:58 Clip verse2b-sc29-b1-r2: tile active, waiting for completion...
+16:22:38 Clip verse2b-sc29-b1-r2: saved successfully (3.25 MB)
+16:22:38 Sleeping 48.1s before next clip...
+16:23:43 Clip interludeb-sc12-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:24:14 Note: tile count did not increase immediately, checking first tile...
+16:24:14 Clip interludeb-sc12-b1: tile active, waiting for completion...
+16:24:43 Clip interludeb-sc12-b1: saved successfully (4.10 MB)
+16:24:43 Sleeping 52.1s before next clip...
+16:25:51 Clip interludeb-sc12-b1-r2: generation clicked (4s, ~8 credits)... waiting for tile
+16:26:23 Note: tile count did not increase immediately, checking first tile...
+16:26:23 Clip interludeb-sc12-b1-r2: tile active, waiting for completion...
+16:27:27 Tile has completed options menu (finished). Proceeding to save.
+16:27:41 Clip interludeb-sc12-b1-r2: saved successfully (3.40 MB)
+16:27:41 Run completed: 5 clips made.
+16:27:54 Target Song: bhailo_e_bhaili | Missing clips: 22 of 68 | Max this run: 4
+16:27:54 Loading project: https://flow.google.com/project/a3d24113-4f8b-40c0-a02c-c4a04ea5b721
+16:28:02 Account check: True (labels: ['Google Account: doko docs  \n(dokodocsnepal@gmail.com), Google membership'])
+16:28:18 Clip interludeb-sc12-b1-r3: generation clicked (4s, ~8 credits)... waiting for tile
+16:28:50 Note: tile count did not increase immediately, checking first tile...
+16:28:50 Clip interludeb-sc12-b1-r3: tile active, waiting for completion...
+16:29:51 Tile has completed options menu (finished). Proceeding to save.
+16:30:05 Clip interludeb-sc12-b1-r3: saved successfully (4.07 MB)
+16:30:05 Sleeping 39.7s before next clip...
+16:31:00 Clip interludeb-sc12-b1-r4: generation clicked (4s, ~8 credits)... waiting for tile
+16:31:32 Note: tile count did not increase immediately, checking first tile...
+16:31:32 Clip interludeb-sc12-b1-r4: tile active, waiting for completion...
+16:32:36 Tile has completed options menu (finished). Proceeding to save.
+16:32:50 Clip interludeb-sc12-b1-r4: saved successfully (4.22 MB)
+16:32:50 Sleeping 51.8s before next clip...
+16:33:59 Clip verse3b-sc33-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:34:30 Note: tile count did not increase immediately, checking first tile...
+16:34:30 Clip verse3b-sc33-b1: tile active, waiting for completion...
+16:35:03 Clip verse3b-sc33-b1: saved successfully (3.48 MB)
+16:35:03 Sleeping 49.8s before next clip...
+16:36:08 Clip verse3b-sc34-b1: generation clicked (4s, ~8 credits)... waiting for tile
+16:36:39 Note: tile count did not increase immediately, checking first tile...
+16:36:39 Clip verse3b-sc34-b1: tile active, waiting for completion...
+16:37:40 Tile has completed options menu (finished). Proceeding to save.
+16:37:55 Clip verse3b-sc34-b1: saved successfully (3.58 MB)
+16:37:55 Run completed: 4 clips made.
+2026-11-08T16:52:35+05:45	render	take6/flow: bhailo_e_bhaili-take6-flow.mp4 315.57s picture, 315.57s music, 68 shots

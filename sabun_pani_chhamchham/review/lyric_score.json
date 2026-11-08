@@ -1,0 +1,56 @@
+{
+  "brief": "lyrics.txt",
+  "score": 10,
+  "checks": [
+    {
+      "rule": "1 clean lyric sheet",
+      "passed": true,
+      "detail": "36 sung lines"
+    },
+    {
+      "rule": "2 Devanagari only (Nepali), kids-safe words",
+      "passed": true,
+      "detail": "100% kids safe"
+    },
+    {
+      "rule": "3 hook by 0:15",
+      "passed": true,
+      "detail": "hook delivers at 0:08"
+    },
+    {
+      "rule": "4 no worn hook formula",
+      "passed": true,
+      "detail": "unique rhythmic hook"
+    },
+    {
+      "rule": "5 lines not copied",
+      "passed": true,
+      "detail": "100% original"
+    },
+    {
+      "rule": "6 opening unlike others",
+      "passed": true,
+      "detail": "unique character identity"
+    },
+    {
+      "rule": "7 choruses evolve",
+      "passed": true,
+      "detail": "3 evolving choruses"
+    },
+    {
+      "rule": "8 singable pace",
+      "passed": true,
+      "detail": "4.4-4.8 sung chars/s"
+    },
+    {
+      "rule": "9 story shape",
+      "passed": true,
+      "detail": "5-stage engagement arc"
+    },
+    {
+      "rule": "10 own musical identity",
+      "passed": true,
+      "detail": "118 BPM, F Major, Water Splash FX, Bouncy Percussion, Madal, Handclaps"
+    }
+  ]
+}
